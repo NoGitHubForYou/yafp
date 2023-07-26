@@ -1,10 +1,3 @@
-||metrics.ionos.com^
-||dd.giantfoodstores.com^
-||smetrics.ancestry.com^
-||metrics.ancestry.com^
-||smetrics.sleepnumber.com^
-||metrics.sleepnumber.com^
-||oms.expedia.com^
 ||aamt.msnbc.com^
 ||aamt.nbcnews.com^
 ||abt.nike.com^
@@ -19,6 +12,7 @@
 ||content.nielsen.com^
 ||customer.homedepot.com^
 ||dcheqjwqu4.mlb.com^
+||dd.giantfoodstores.com^
 ||digitalid.santanderbank.com^
 ||dmxleo.dailymotion.com^
 ||drfdisvc.walmart.com^
@@ -35,6 +29,7 @@
 ||metrics1.citi.com^
 ||metrics1.experian.com^
 ||metrics.aem.playstation.com^
+||metrics.ancestry.com^
 ||metrics.apple.com^
 ||metrics.bet.com^
 ||metrics.bostonglobe.com^
@@ -53,6 +48,7 @@
 ||metrics.ford.com^
 ||metrics.global.nba.com^
 ||metrics.hrblock.com^
+||metrics.ionos.com^
 ||metrics.jcpenney.com^
 ||metrics.lowes.com^
 ||metrics.marriott.com^
@@ -68,6 +64,7 @@
 ||metrics.samsclub.com^
 ||metrics.showtime.com^
 ||metrics.siriusxm.com^
+||metrics.sleepnumber.com^
 ||metrics.southwest.com^
 ||metrics.staples.com^
 ||metrics.statefarm.com^
@@ -87,6 +84,7 @@
 ||omnis.basspro.com^
 ||omns.americanexpress.com^
 ||oms.dowjoneson.com^
+||oms.expedia.com^
 ||oms.norton.com^
 ||osimg.nbcuni.com^
 ||os.shutterfly.com^
@@ -107,6 +105,7 @@
 ||smetric.olivegarden.com^
 ||smetrics1.experian.com^
 ||smetrics.aem.playstation.com^
+||smetrics.ancestry.com^
 ||smetrics.bet.com^
 ||smetrics.bostonglobe.com^
 ||smetrics.capitalone.com^
@@ -140,6 +139,7 @@
 ||smetrics.samsung.com^
 ||smetrics.showtime.com^
 ||smetrics.siriusxm.com^
+||smetrics.sleepnumber.com^
 ||smetrics.southwest.com^
 ||smetrics.staples.com^
 ||smetrics.statefarm.com^
