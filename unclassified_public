@@ -37,6 +37,7 @@ analytics.pointdrive.linkedin.com
 analytics.query.yahoo.com
 analytics.rayjump.com
 analytics.sitewit.com
+analytics.slashdotmedia.com
 analytics-static.ugc.bazaarvoice.com
 analytics.tiktok.com
 analytics.yahoo.com
@@ -131,6 +132,7 @@ mail-ads.google.com
 match.rundsp.com
 mc.webvisor.org
 mc.yandex.ru
+meter-svc.nytimes.com
 metrics.api.drift.com
 metrics.brightcove.com
 metrics.icloud.com
@@ -187,6 +189,7 @@ st.dynamicyield.com
 supportmetrics.apple.com
 surveygizmobeacon.s3.amazonaws.com
 sync.adkernel.com
+tag.crsspxl.com
 targeting.api.drift.com
 tealium.cbsnews.com
 tempest.services.disqus.com
