@@ -1,8 +1,13 @@
 ||.dynamic.as20676.net^
 ||.dynamic.axtel.net^
+||.dynamic.barak-online.net^
 ||.dynamic.b-domolink.net^
 ||.dynamic.bellmts.net^
 ||.dynamic.fuse.net^
+||.dynamic.ip.windstream.net^
+||.dynamic.kbtelecom.net^
+||.dynamic.lrecok.net^
+||.dynamic.siol.net^
 ||.dynamic.sonic.net^
 ||.dynamic.t-2.net^
 ||.dynamic.tds.net^
@@ -74,6 +79,9 @@
 ||.static.axtel.net^
 ||.static.bellmts.net^
 ||.static.fuse.net^
+||.static.ip.windstream.net^
+||.static.kbtelecom.net^
+||.static.siol.net^
 ||.static.sonic.net^
 ||.static.t-2.net^
 ||.static.tds.net^
