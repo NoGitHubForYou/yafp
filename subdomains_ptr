@@ -1,3 +1,4 @@
+||.dynamic.adsl.gvt.net.br^
 ||.dynamic.as20676.net^
 ||.dynamic.avangarddsl.ru^
 ||.dynamic.axtel.net^
@@ -5,12 +6,14 @@
 ||.dynamic.b-domolink.net^
 ||.dynamic.bellmts.net^
 ||.dynamic.dol.ru^
+||.dynamic.edgetelecom.co.uk^
 ||.dynamic.fuse.net^
 ||.dynamic.ip.windstream.net^
 ||.dynamic.kbtelecom.net^
 ||.dynamic.krasnodar.ertelecom.ru^
 ||.dynamic.kzn.ufanet.ru^
 ||.dynamic.lrecok.net^
+||.dynamic.mobtelecom.com.br^
 ||.dynamic.nn.ertelecom.ru^
 ||.dynamic.orsk.ufanet.ru^
 ||.dynamic.perm.ertelecom.ru^
@@ -22,6 +25,7 @@
 ||.dynamic.t-2.net^
 ||.dynamic.tds.net^
 ||.dynamic.telemach.net^
+||.dynamic.tevnet.com.br^
 ||.dynamic.totinternet.net^
 ||.dynamic.turk.net^
 ||.dynamic.velocity.net^
@@ -86,6 +90,7 @@
 ||hsd1.wy.comcast.net^
 ||.res6.spectrum.com^
 ||.res.rr.com^
+||.static.adsl.gvt.net.br^
 ||.static.as20676.net^
 ||.static.avangarddsl.ru^
 ||.static.axtel.net^
@@ -94,6 +99,7 @@
 ||.static.ip.windstream.net^
 ||.static.kbtelecom.net^
 ||.static.kzn.ufanet.ru^
+||.static.mobtelecom.com.br^
 ||.static.perm.ertelecom.ru^
 ||.static.siol.net^
 ||.static.sonic.net^
