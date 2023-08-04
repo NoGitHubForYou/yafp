@@ -1,9 +1,12 @@
-
 ||aaxn-api-155847493.us-west-1.elb.amazonaws.com^
 ||aaxn-api-2-1582800763.us-west-1.elb.amazonaws.com^
 ||aaxn-api-3-182629659.us-west-1.elb.amazonaws.com^
 ||aaxn-api-4-2046937725.us-west-1.elb.amazonaws.com^
 ||aaxn-api-5-908561641.us-west-1.elb.amazonaws.com^
+||activationEdge-activation-1418371804.us-west-1.elb.amazonaws.com^
+||activationEdge-activation-212358690.eu-west-1.elb.amazonaws.com^
+||activationEdge-activation-478000846.us-west-2.elb.amazonaws.com^
+||activationEdge-fabrick-1124129460.us-west-2.elb.amazonaws.com^
 ||adx-vpc-winners-1237711951.us-west-2.elb.amazonaws.com^
 ||adx-vpc-winners-1339462696.us-east-1.elb.amazonaws.com^
 ||async-admantxfrontend-2017124834.eu-west-1.elb.amazonaws.com^
@@ -12,6 +15,7 @@
 ||az-lb-in-vpc-26716720.eu-west-1.elb.amazonaws.com^
 ||bv-analytics-js-prod.s3.amazonaws.com^
 ||bv-analytics-js-qa.s3.amazonaws.com^
+||cafemediacam-elb-970864842.us-east-1.elb.amazonaws.com^
 ||dotcom-prod-elb-967008175.us-west-2.elb.amazonaws.com^
 ||dualstack.admantx-cluster-nlb-eu-2071973585.eu-west-1.elb.amazonaws.com^
 ||dualstack.async-lb-2129785755.us-east-1.elb.amazonaws.com^
@@ -21,6 +25,11 @@
 ||ec2-50-19-56-81.compute-1.amazonaws.com^
 ||internal-metrics-ui-lb-407875061.us-west-2.elb.amazonaws.com^
 ||k8s-default-client-baceb72635-1c03e3ff5e3de3ed.elb.eu-central-1.amazonaws.com^
+||m-node-alb-ssl-1112-466259459.us-east-1.elb.amazonaws.com^
+||m-node-alb-ssl-1212-1333103636.us-west-1.elb.amazonaws.com^
+||m-node-alb-ssl-2112-153273335.ap-southeast-1.elb.amazonaws.com^
+||m-node-alb-ssl-2113-1351712875.ap-southeast-1.elb.amazonaws.com^
+||m-node-alb-ssl-3112-17553051.eu-central-1.elb.amazonaws.com^
 ||opx-vpc-winners-1768717977.us-east-1.elb.amazonaws.com^
 ||peso-1422535133.eu-west-1.elb.amazonaws.com^
 ||punt-1342691256.eu-west-1.elb.amazonaws.com^
