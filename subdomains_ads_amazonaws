@@ -47,11 +47,13 @@
 ||audio-audio-1g68sxcqrn4sh-1156192415.us-east-1.elb.amazonaws.com^
 ||awseb-e-5-awsebloa-1xu7fimu68nvi-616368110.us-west-1.elb.amazonaws.com^
 ||awseb-e-d-awsebloa-1q9gfvb78iwop-185021664.ap-southeast-1.elb.amazonaws.com^
+||awseb-e-d-awsebloa-2dr29juoyt6w-259884457.us-east-1.elb.amazonaws.com^
 ||awseb-e-g-awsebloa-nt5wfb9wmmft-1397624435.eu-west-1.elb.amazonaws.com^
 ||awseb-e-i-awsebloa-5f3ihwsl49wt-1616338667.us-east-1.elb.amazonaws.com^
 ||awseb-e-j-awsebloa-selr3lqovnip-1973772784.us-west-1.elb.amazonaws.com^
 ||awseb-e-x-awsebloa-1sf1chzdooxd0-1383210727.eu-central-1.elb.amazonaws.com^
 ||awseb-e-z-awsebloa-1mbq86uie4r6w-1822632908.ap-southeast-2.elb.amazonaws.com^
+||awsw-api-103461096.us-west-1.elb.amazonaws.com^
 ||az-lb-1103138254.eu-west-1.elb.amazonaws.com^
 ||az-lb-in-vpc-26716720.eu-west-1.elb.amazonaws.com^
 ||beacons2-dual-365142722.us-west-2.elb.amazonaws.com^
@@ -169,6 +171,7 @@
 ||pagefairdotcomstats-1891079619.us-east-1.elb.amazonaws.com^
 ||pbjs-bu-alb-itg2itfkvqld-591984068.us-east-1.elb.amazonaws.com^
 ||peso-1422535133.eu-west-1.elb.amazonaws.com^
+||p-eu-2104663419.eu-west-1.elb.amazonaws.com^
 ||pfe-prod-lb-1342830595.us-east-1.elb.amazonaws.com^
 ||pfe-prod-lb-legacy-128835678.us-east-1.elb.amazonaws.com^
 ||pg-prebid-vip-117833732.us-west-2.elb.amazonaws.com^
