@@ -33,6 +33,12 @@
 ||ae441c277e89e46faabe473be3c33fcb-1593134303.us-east-1.elb.amazonaws.com^
 ||afe3c6dafb3d911e9b8fc06d85a1c2bb-832686253.eu-west-1.elb.amazonaws.com^
 ||alb-ext-ingress-group-95161440.us-east-1.elb.amazonaws.com^
+||ana-cf-col-elb-78-208270928.us-west-1.elb.amazonaws.com^
+||ana-cf-col-elb-us-2021-01-04-66333412.us-west-1.elb.amazonaws.com^
+||ana-collector-alb-eu-2022-09-08-1938862829.us-west-1.elb.amazonaws.com^
+||ana-collector-alb-eu-2023-06-13-1691693574.us-west-1.elb.amazonaws.com^
+||ana-collector-elb-eu-2021-11-11-93734574.us-west-1.elb.amazonaws.com^
+||ana-collector-elb-eu-2022-04-27-1300942893.us-west-1.elb.amazonaws.com^
 ||apd-andbeyond-2026438072.eu-west-1.elb.amazonaws.com^
 ||apd-delivery-live-386479441.eu-west-1.elb.amazonaws.com^
 ||apd-delivery-vpc-529731851.eu-west-1.elb.amazonaws.com^
