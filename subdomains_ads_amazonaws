@@ -176,6 +176,7 @@
 ||p0-ext-170388203.us-east-1.elb.amazonaws.com^
 ||pagefairdotcomstats-1891079619.us-east-1.elb.amazonaws.com^
 ||pbjs-bu-alb-itg2itfkvqld-591984068.us-east-1.elb.amazonaws.com^
+||p-cookie-sync-1727831096.us-east-1.elb.amazonaws.com^
 ||peso-1422535133.eu-west-1.elb.amazonaws.com^
 ||p-eu-2104663419.eu-west-1.elb.amazonaws.com^
 ||pfe-prod-lb-1342830595.us-east-1.elb.amazonaws.com^
@@ -216,8 +217,11 @@
 ||production-studio-load-balancer-970038813.us-west-1.elb.amazonaws.com^
 ||prod-vpc-us-east-event-listener-488568541.us-east-1.elb.amazonaws.com^
 ||prod-vpc-us-west-event-listener-989611256.us-west-1.elb.amazonaws.com^
+||p-serving-435607741.us-east-1.elb.amazonaws.com^
+||p-tracking-1345378198.us-east-1.elb.amazonaws.com^
 ||punt-1342691256.eu-west-1.elb.amazonaws.com^
 ||punt-476338545.eu-west-1.elb.amazonaws.com^
+||p-v2v-250481873.us-east-1.elb.amazonaws.com^
 ||rapleaf4-1387463227.us-east-1.elb.amazonaws.com^
 ||receiver-dual-730307430.us-east-1.elb.amazonaws.com^
 ||receiver-ipv4-686787523.us-east-1.elb.amazonaws.com^
