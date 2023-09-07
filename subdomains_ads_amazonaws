@@ -143,6 +143,7 @@
 ||io-moat-event-503011941.us-east-1.elb.amazonaws.com^
 ||ivt-service-505396678.us-east-1.elb.amazonaws.com^
 ||js-1018902797.us-east-1.elb.amazonaws.com^
+||juicyads-xapi-redir-prod-1349540703.us-east-1.elb.amazonaws.com^
 ||k8s-default-client-baceb72635-1c03e3ff5e3de3ed.elb.eu-central-1.amazonaws.com^
 ||k8s-docsprd-confluen-f8163910dd-403556188.us-west-2.elb.amazonaws.com^
 ||k8s-emissary-emissary-ab287afd2b-848b453d8ee92cd6.elb.us-east-1.amazonaws.com^
