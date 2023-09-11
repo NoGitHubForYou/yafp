@@ -11,15 +11,20 @@
 ||blog.buysellads.com.cdn.cloudflare.net^
 ||blog.crazyegg.com.cdn.cloudflare.net^
 ||cache.addthiscdn.com.cdn.cloudflare.net^
+||capi.connatix.com.cdn.cloudflare.net^
+||cd.connatix.com.cdn.cloudflare.net^
+||cdm.connatix.com.cdn.cloudflare.net^
 ||cdn-ihb.33across.com.cdn.cloudflare.net^
 ||cdn-ima.33across.com.cdn.cloudflare.net^
 ||cdn.indexww.com.cdn.cloudflare.net^
 ||cdn-sic.33across.com.cdn.cloudflare.net^
 ||cdn-tc.33across.com.cdn.cloudflare.net^
 ||cdn.viglink.com.cdn.cloudflare.net^
+||cds.connatix.com.cdn.cloudflare.net^
 ||cf-cdn.adform.net.cdn.cloudflare.net^
 ||cftestscript.crazyegg.com.cdn.cloudflare.net^
 ||cf-track.pubmatic.com.cdn.cloudflare.net^
+||cks.connatix.com.cdn.cloudflare.net^
 ||c-lt1.go-mpulse.net.cdn.cloudflare.net^
 ||creative.media6degrees.com.cdn.cloudflare.net^
 ||customdomains.buysellads.com.cdn.cloudflare.net^
@@ -32,6 +37,7 @@
 ||idpix.media6degrees.com.cdn.cloudflare.net^
 ||ids.ad.gt.cdn.cloudflare.net^
 ||images.viglink.com.cdn.cloudflare.net^
+||img.connatix.com.cdn.cloudflare.net^
 ||ingress.auth.mparticle.com.cdn.cloudflare.net^
 ||integrations.crazyegg.com.cdn.cloudflare.net^
 ||js-sec.indexww.com.cdn.cloudflare.net^
@@ -66,6 +72,7 @@
 ||support.buysellads.com.cdn.cloudflare.net^
 ||t.go-mpulse.net.cdn.cloudflare.net^
 ||tls12.newrelic.com.cdn.cloudflare.net^
+||vid.connatix.com.cdn.cloudflare.net^
 ||video.doubleverify.com.cdn.cloudflare.net^
 ||video-qa.doubleverify.com.cdn.cloudflare.net^
 ||video.unrulymedia.com.cdn.cloudflare.net^
