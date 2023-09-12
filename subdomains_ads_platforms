@@ -56,6 +56,7 @@
 ||aaxn-api-5-908561641.us-west-1.elb.amazonaws.com^
 ||ab55d6d981d3643928ac0cb3847f3848-1432757414.eu-west-1.elb.amazonaws.com^
 ||ac2409ed291e04841b424223a3ec4991-926974307.us-west-2.elb.amazonaws.com^
+||action-beta.media6degrees.com.cdn.cloudflare.net^
 ||action.media6degrees.com.cdn.cloudflare.net^
 ||activationedge-activation-1418371804.us-west-1.elb.amazonaws.com^
 ||activationedge-activation-212358690.eu-west-1.elb.amazonaws.com^
@@ -153,6 +154,7 @@
 ||awseb-e-j-awsebloa-selr3lqovnip-1973772784.us-west-1.elb.amazonaws.com^
 ||awseb-e-x-awsebloa-1sf1chzdooxd0-1383210727.eu-central-1.elb.amazonaws.com^
 ||awseb-e-z-awsebloa-1mbq86uie4r6w-1822632908.ap-southeast-2.elb.amazonaws.com^
+||awsonly.fwgtm.akadns.net^
 ||awsw-api-103461096.us-west-1.elb.amazonaws.com^
 ||a.zetapgmt.akadns.net^
 ||az-lb-1103138254.eu-west-1.elb.amazonaws.com^
@@ -192,6 +194,7 @@
 ||cdm.connatix.com.cdn.cloudflare.net^
 ||cdna-dsa.clicktale.net.edgekey.net^
 ||cdn-au.pagesense.io.edgesuite.net^
+||cdn-c.adsmoloco.com.cdn.cloudflare.net^
 ||cdn.cxense.com.edgekey.net^
 ||cdn.doubleverify.com.edgesuite.net^
 ||cdn-dsa.clicktale.net.edgekey.net^
@@ -442,6 +445,8 @@
 ||d3chd11h16n59r.cloudfront.net^
 ||d3e0hjd2pm45pt.cloudfront.net^
 ||d3ekz4worpbxb3.cloudfront.net^
+||d3et5t2dl4ys2y.cloudfront.net^
+||d3eylmgb44onwg.cloudfront.net^
 ||d3f1247unqimt.cloudfront.net^
 ||d3gc2fgulhneou.cloudfront.net^
 ||d3gfr1gilqossg.cloudfront.net^
@@ -555,6 +560,7 @@
 ||dq5k0u2m7uk2k.cloudfront.net^
 ||dqo5zco17wrae.cloudfront.net^
 ||dqwg2ujvjfn63.cloudfront.net^
+||drb0k2mg1d7gh.cloudfront.net^
 ||ds9oh7t355owx.cloudfront.net^
 ||ds-blog.addthiscdn.com.edgekey.net^
 ||ds-cache.addthiscdn.com.edgekey.net^
@@ -648,8 +654,11 @@
 ||files.bidtellect.com.s3-website-us-east-1.amazonaws.com^
 ||fo_global.zetapgmt.akadns.net^
 ||frcp-tpsc-hlb.dvgtm.akadns.net^
+||g11v-mir.fwgtm.akadns.net^
+||g13v.fwgtm.akadns.net^
 ||g2z5x7p4.stackpathcdn.com^
 ||g3v.fwgtm.akadns.net^
+||gdpr-tcf.agkn.com.cdn.cloudflare.net^
 ||geo.bsapi.akadns.net^
 ||geo-eu-us.delivery-prod-sas.akadns.net^
 ||geo-eu-us-secure.delivery-prod-sas.akadns.net^
@@ -661,6 +670,10 @@
 ||go-admin.urbanairship.com.edgekey.net^
 ||go-staging.urbanairship.com.edgekey.net^
 ||go-testing-staging.urbanairship.com.edgekey.net^
+||gov-bam.nr-data.net.cdn.cloudflare.net^
+||gov-otlp.nr-data.net.cdn.cloudflare.net^
+||gov-staging-bam.nr-data.net.cdn.cloudflare.net^
+||gov-staging-otlp.nr-data.net.cdn.cloudflare.net^
 ||grow.segment.com.s3.amazonaws.com^
 ||guides.buysellads.com.cdn.cloudflare.net^
 ||h7z9v8e2.stackpathcdn.com^
@@ -696,6 +709,7 @@
 ||internal-internal-api-194437552.us-east-1.elb.amazonaws.com^
 ||internal-metrics-ui-lb-407875061.us-west-2.elb.amazonaws.com^
 ||internal-nv-p-elb-gitlab-internal-497847812.us-east-1.elb.amazonaws.com^
+||investors.taboola.com.edgekey.net^
 ||io-api-1173461934.us-east-1.elb.amazonaws.com^
 ||io-api2-1567172860.us-east-1.elb.amazonaws.com^
 ||io-api-prod-ue1-576994450.us-east-1.elb.amazonaws.com^
@@ -724,9 +738,17 @@
 ||juicyads-xapi-redir-prod-1349540703.us-east-1.elb.amazonaws.com^
 ||k3y5u3r9.stackpathcdn.com^
 ||k6p8v9d2.stackpathcdn.com^
+||k8s-csproduc-haproxyi-0e1d9fe012-adc2513760ff97de.elb.us-east-2.amazonaws.com^
+||k8s-csproduc-haproxyi-77b1e1ba21-05eb21ea7279ac13.elb.us-east-2.amazonaws.com^
+||k8s-csproduc-haproxyi-af3b4f3ec8-fbb28c4f5108dd53.elb.us-east-2.amazonaws.com^
+||k8s-dcmonito-dcmonito-c051d472da-1024055099.eu-west-1.elb.amazonaws.com^
 ||k8s-default-client-baceb72635-1c03e3ff5e3de3ed.elb.eu-central-1.amazonaws.com^
 ||k8s-docsprd-confluen-f8163910dd-403556188.us-west-2.elb.amazonaws.com^
 ||k8s-emissary-emissary-ab287afd2b-848b453d8ee92cd6.elb.us-east-1.amazonaws.com^
+||k8s-external-b74225ed7f-868207584.eu-west-1.elb.amazonaws.com^
+||k8s-ingest-ingressa-0424c15d8a-645041579.us-east-2.elb.amazonaws.com^
+||k8s-ingest-ingressa-a5577cb27b-2050962356.us-east-2.elb.amazonaws.com^
+||k8s-ingest-ingressa-ea051e9302-806246896.us-east-2.elb.amazonaws.com^
 ||k8s-kong-kongprox-156b6f54a5-1812105515.us-east-1.elb.amazonaws.com^
 ||k8s-kong-kongprox-69bdbb2e52-1381047055.us-east-1.elb.amazonaws.com^
 ||k8s-pixeljsserver-11f4426a0b-1200762302.eu-west-1.elb.amazonaws.com^
@@ -787,9 +809,12 @@
 ||nanstaging.netmng.com.edgesuite.net^
 ||nan-us.zetapgmt.akadns.net^
 ||nan.zetapgmt.akadns.net^
+||neptune-1892118423.us-east-1.elb.amazonaws.com^
 ||nglb-eu.adformnet.akadns.net^
+||nlb-external-ingress-nginx-746b60fbb24e747f.elb.us-east-1.amazonaws.com^
 ||nycp-tpsc-phlb.dvgtm.akadns.net^
 ||od.linkedin.edgesuite.net^
+||on.ninthdecimal.com.cdn.cloudflare.net^
 ||optout.ib.mookie1.com.edgekey.net^
 ||opx-vpc-winners-1768717977.us-east-1.elb.amazonaws.com^
 ||or-elb-p-frontend-01-1949259340.us-west-2.elb.amazonaws.com^
@@ -890,6 +915,7 @@
 ||remote-data-1.urbanairship.com.edgekey.net^
 ||reporting.go-mpulse.net.edgekey.net^
 ||research.flightcentre.com.edgekey.net^
+||routing.newrelic.com.cdn.cloudflare.net^
 ||rss.buysellads.com.cdn.cloudflare.net^
 ||rtr-5-split-vohnu.rtr.innovid.com.akadns.net^
 ||rtr-6-split-vohnus.rtr.innovid.com.akadns.net^
@@ -899,6 +925,7 @@
 ||s1030119030.sc.en25.com.edgekey.net^
 ||s1053984823.sc.en25.com.edgekey.net^
 ||s1054571203.sc.en25.com.edgekey.net^
+||s1056287425.sc.en25.com.edgekey.net^
 ||s1080544054.sc.en25.com.edgekey.net^
 ||s1109391453.sc.en25.com.edgekey.net^
 ||s1114592119.sc.en25.com.edgekey.net^
@@ -911,10 +938,12 @@
 ||s1211.sc.en25.com.edgekey.net^
 ||s12511217.sc.en25.com.edgekey.net^
 ||s1253878073.sc.en25.com.edgekey.net^
+||s126818393.sc.en25.com.edgekey.net^
 ||s1273213753.sc.en25.com.edgekey.net^
 ||s128625352.sc.en25.com.edgekey.net^
 ||s1325061471.sc.en25.com.edgekey.net^
 ||s1325.sc.en25.com.edgekey.net^
+||s1365454607.sc.en25.com.edgekey.net^
 ||s1372514231.sc.en25.com.edgekey.net^
 ||s1387486446.sc.en25.com.edgekey.net^
 ||s1417573558.sc.en25.com.edgekey.net^
@@ -992,6 +1021,7 @@
 ||s507163351.sc.en25.com.edgekey.net^
 ||s5139842.sc.en25.com.edgekey.net^
 ||s522772699.sc.en25.com.edgekey.net^
+||s5267799.sc.en25.com.edgekey.net^
 ||s535304419.sc.en25.com.edgekey.net^
 ||s546304447.sc.en25.com.edgekey.net^
 ||s561652.sc.en25.com.edgekey.net^
@@ -1052,6 +1082,7 @@
 ||ssb-euw1-failover.ssb-prod-sas.akadns.net^
 ||ssb-euw2-failover.ssb-prod-sas.akadns.net^
 ||ssb-itx4-failover.ssb-prod-sas.akadns.net^
+||ssb-na-rr.ssb-prod-sas.akadns.net^
 ||ssb-use1-failover.ssb-prod-sas.akadns.net^
 ||ssl-cdn.multissp-dev.yieldlab.net.edgekey.net^
 ||ssl-cdn.multissp.yieldlab.net.edgekey.net^
@@ -1059,6 +1090,9 @@
 ||s-static.innovid.com.edgekey.net^
 ||ssum.casalemedia.com.cdn.cloudflare.net^
 ||ssum-sec.casalemedia.com.cdn.cloudflare.net^
+||staging-bam.nr-data.net.cdn.cloudflare.net^
+||staging-otlp.nr-data.net.cdn.cloudflare.net^
+||staging-routing.newrelic.com.cdn.cloudflare.net^
 ||star.media.net.edgekey.net^
 ||star.pro-market.net.edgekey.net^
 ||stat.flashtalking.com.edgekey.net^
@@ -1100,7 +1134,9 @@
 ||tags.tiqcdn.com.edgekey.net^
 ||tddigital.td.com.edgekey.net^
 ||tealium.hs.llnwd.net^
+||tf-lb-20230327211921223000000002-cb4644476fcd94af.elb.us-east-2.amazonaws.com^
 ||tf-lb-20230327221139590400000004-bbc6244c21bd7b55.elb.us-east-2.amazonaws.com^
+||tf-lb-20230327221143701400000002-4fb44a0f65607389.elb.us-east-2.amazonaws.com^
 ||tfstart-startserver-prod-prod-1060299289.us-east-1.elb.amazonaws.com^
 ||t.go-mpulse.net.cdn.cloudflare.net^
 ||thc-lb-1981953515.us-east-2.elb.amazonaws.com^
