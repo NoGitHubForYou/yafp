@@ -133,6 +133,7 @@
 ||api-v2-stage-2063380750.us-east-1.elb.amazonaws.com^
 ||apmebf.valueclick.akadns.net^
 ||app-matheranalytics-1375563249.us-east-1.elb.amazonaws.com^
+||app-prodb-ext-726392634.us-east-1.elb.amazonaws.com^
 ||as.casalemedia.com.cdn.cloudflare.net^
 ||as-sec.casalemedia.com.cdn.cloudflare.net^
 ||assets.purch.com.edgekey.net^
@@ -210,6 +211,7 @@
 ||cdn.multissp.yieldlab.net.edgesuite.net^
 ||cdn-ns.cdn-prod-sas.akadns.net^
 ||cdn.pagesense.io.edgesuite.net^
+||cdn.resonate.com.cdn.cloudflare.net^
 ||cdn-sic.33across.com.cdn.cloudflare.net^
 ||cdn.taboola.map.fastly.net^
 ||cdn-tc.33across.com.cdn.cloudflare.net^
@@ -569,6 +571,8 @@
 ||ds-m.addthisedge.com.edgekey.net^
 ||dsp-dct-us-wdc.netmng.com.edgesuite.net^
 ||dsp-wp-wdc.netmng.com.edgesuite.net^
+||ds.reson8.com.cdn.cloudflare.net^
+||ds.reson8.com.edgekey.net^
 ||ds-sharebar.addthiscdn.com.edgekey.net^
 ||dsum.casalemedia.com.cdn.cloudflare.net^
 ||dsum-sec.casalemedia.com.cdn.cloudflare.net^
@@ -690,6 +694,7 @@
 ||id.hadron.ad.gt.cdn.cloudflare.net^
 ||idpix.media6degrees.com.cdn.cloudflare.net^
 ||ids.ad.gt.cdn.cloudflare.net^
+||idsync.reson8.com.cdn.cloudflare.net^
 ||images.s6.exacttarget.com.edgesuite.net^
 ||images.s7.exacttarget.com.edgesuite.net^
 ||images.viglink.com.cdn.cloudflare.net^
@@ -1111,6 +1116,7 @@
 ||subs-alb-prod-us-east-1-1756796197.us-east-1.elb.amazonaws.com^
 ||support.buysellads.com.cdn.cloudflare.net^
 ||survey.policinginstitute.org.edgekey.net^
+||survey.reson8.com.cdn.cloudflare.net^
 ||surveys.bwgstrategy.com.edgekey.net^
 ||surveys.cerulli.com.edgekey.net^
 ||surveys.cisecurity.org.edgekey.net^
@@ -1155,6 +1161,7 @@
 ||track-eu-isp.adformnet.akadns.net^
 ||track-global.cj.akadns.net^
 ||tracking-917764059.us-west-2.elb.amazonaws.com^
+||track.reson8.com.cdn.cloudflare.net^
 ||track-us.adformnet.akadns.net^
 ||traffic-loadbalancer-762371046.us-west-2.elb.amazonaws.com^
 ||trc-prod.taboolasyndication.com.edgesuite.net^
