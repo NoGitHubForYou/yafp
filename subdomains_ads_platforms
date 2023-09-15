@@ -245,6 +245,7 @@
 ||convex-migration-four.dotomi.weighted.com.akadns.net^
 ||convex-migration-six.dotomi.weighted.com.akadns.net^
 ||convex-rr.global.dual.dotomi.weighted.com.akadns.net^
+||cookie-1825663532.us-east-1.elb.amazonaws.com^
 ||core-global.brc.akadns.net^
 ||cpe.us.dotomi.weighted.com.akadns.net^
 ||creative.media6degrees.com.cdn.cloudflare.net^
@@ -774,6 +775,7 @@
 ||lb-static-groupb-ssl-594657832.us-east-1.elb.amazonaws.com^
 ||lb-waypoint-1965812208.us-west-1.elb.amazonaws.com^
 ||lb-waypoint-579585824.eu-west-1.elb.amazonaws.com^
+||lb-zipline-auto-prod-1201232795.us-east-1.elb.amazonaws.com^
 ||liadm.edgekey.net^
 ||live-beacons.search-gtm.spotxchange.com.akadns.net^
 ||lm.eyeblaster.akadns.net^
