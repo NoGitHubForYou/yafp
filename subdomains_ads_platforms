@@ -520,6 +520,7 @@
 ||dct_us-wdc.zetapgmt.akadns.net^
 ||dct.zetapgmt.akadns.net^
 ||dd2y0tzfu8mc0.cloudfront.net^
+||dd49eg36vm6j6.cloudfront.net^
 ||ddcvkv9zeyca.cloudfront.net^
 ||de8of677fyt0b.cloudfront.net^
 ||demo.sizmek.com.edgesuite.net^
@@ -817,6 +818,7 @@
 ||neptune-1892118423.us-east-1.elb.amazonaws.com^
 ||nglb-eu.adformnet.akadns.net^
 ||nlb-external-ingress-nginx-746b60fbb24e747f.elb.us-east-1.amazonaws.com^
+||npttech.s3-website-us-east-1.amazonaws.com^
 ||nycp-tpsc-phlb.dvgtm.akadns.net^
 ||od.linkedin.edgesuite.net^
 ||on.ninthdecimal.com.cdn.cloudflare.net^
@@ -920,6 +922,7 @@
 ||remote-data-1.urbanairship.com.edgekey.net^
 ||reporting.go-mpulse.net.edgekey.net^
 ||research.flightcentre.com.edgekey.net^
+||reuters-no-wall-492142523.us-east-1.elb.amazonaws.com^
 ||routing.newrelic.com.cdn.cloudflare.net^
 ||rss.buysellads.com.cdn.cloudflare.net^
 ||rtr-5-split-vohnu.rtr.innovid.com.akadns.net^
@@ -1166,6 +1169,7 @@
 ||traffic-loadbalancer-762371046.us-west-2.elb.amazonaws.com^
 ||trc-prod.taboolasyndication.com.edgesuite.net^
 ||trc.taboola.map.fastly.net^
+||u4rp3snugf-445422930.us-east-1.elb.amazonaws.com^
 ||uffa-alb-354740383.us-east-1.elb.amazonaws.com^
 ||um.indexww.com.akadns.net^
 ||universe.send.microad.jp.akadns.net^
