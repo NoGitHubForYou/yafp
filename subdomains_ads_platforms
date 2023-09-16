@@ -29,6 +29,7 @@
 ||1939967541.rsc.cdn77.org^
 ||1978293129.rsc.cdn77.org^
 ||33xchange-1576862511.us-east-1.elb.amazonaws.com^
+||4179f5a0-appsnapshotpublic-b427-665589860.eu-west-1.elb.amazonaws.com^
 ||41dbe4f9bef9a57f645b4cf9c612cc0e-1782614974.eu-west-2.elb.amazonaws.com^
 ||4383f0b0ee7b055c0a5d2cab76b2e6b9-a90681d297de8ed7.elb.us-east-2.amazonaws.com^
 ||5b2ce62cbd5714437022c188dee0d335.yl4.us-east-1.eks.amazonaws.com^
@@ -500,6 +501,7 @@
 ||d52dr3p5k0dw5.cloudfront.net^
 ||d5f9q4x5.stackpathcdn.com^
 ||d5iusqnp3ks2p.cloudfront.net^
+||d-5n4aebq34c.execute-api.us-west-1.amazonaws.com^
 ||d5phz18u4wuww.cloudfront.net^
 ||d6ljnlstfas69.cloudfront.net^
 ||d78fikflryjgj.cloudfront.net^
@@ -562,6 +564,7 @@
 ||dpxlhnscjn3vk.cloudfront.net^
 ||dq0zd76k0g3kr.cloudfront.net^
 ||dq5k0u2m7uk2k.cloudfront.net^
+||d-qnprsxjklb.execute-api.us-east-1.amazonaws.com^
 ||dqo5zco17wrae.cloudfront.net^
 ||dqwg2ujvjfn63.cloudfront.net^
 ||drb0k2mg1d7gh.cloudfront.net^
@@ -585,6 +588,7 @@
 ||dts-5-split-vohnu.dts.innovid.com.akadns.net^
 ||d.turn.com.akadns.net^
 ||du8783wkf05yr.cloudfront.net^
+||dualstack.a07dc46372d3d11e8bce312e068eae96-407006154.us-east-1.elb.amazonaws.com^
 ||dualstack.admantx-cluster-nlb-eu-2071973585.eu-west-1.elb.amazonaws.com^
 ||dualstack.async-lb-2129785755.us-east-1.elb.amazonaws.com^
 ||dualstack.awseb-awseb-gka7lu8mzfw-711964431.us-west-2.elb.amazonaws.com^
@@ -886,6 +890,7 @@
 ||prodlb.sr.qualtrics.com.cdn.cloudflare.net^
 ||prod-pixel-collector-marin-1374645701.us-east-1.elb.amazonaws.com^
 ||prod-pixel-collector-vpc-1438270207.us-east-1.elb.amazonaws.com^
+||prod-singtel-nlb-00c825cd9f68fadf.elb.ap-southeast-1.amazonaws.com^
 ||prod.sonobi-go.map.fastly.net^
 ||productcatalog-prod-elb-874459065.us-east-1.elb.amazonaws.com^
 ||production-coreapi-load-balancer-845796554.ap-southeast-2.elb.amazonaws.com^
