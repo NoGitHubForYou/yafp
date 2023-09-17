@@ -66,6 +66,7 @@
 ||ad2.turn.com.cdn.cloudflare.net^
 ||adbooking-elb-1570500624.ap-southeast-1.elb.amazonaws.com^
 ||adfarm-global.mplx.akadns.net^
+||admanmedia.com.edgekey.net^
 ||admin-static.ntv.io.edgekey.net^
 ||admin-workflow-p-104982182.us-east-1.elb.amazonaws.com^
 ||adotube-lb-http1-1295093845.us-east-1.elb.amazonaws.com^
@@ -84,6 +85,7 @@
 ||adxpose.tmrg.akadns.net^
 ||adx-vpc-winners-1237711951.us-west-2.elb.amazonaws.com^
 ||adx-vpc-winners-1339462696.us-east-1.elb.amazonaws.com^
+||adyoulike.edgesuite.net^
 ||ae441c277e89e46faabe473be3c33fcb-1593134303.us-east-1.elb.amazonaws.com^
 ||a-edge.tribalfusion.com.akadns.net^
 ||afe3c6dafb3d911e9b8fc06d85a1c2bb-832686253.eu-west-1.elb.amazonaws.com^
@@ -135,6 +137,7 @@
 ||apmebf.valueclick.akadns.net^
 ||app-matheranalytics-1375563249.us-east-1.elb.amazonaws.com^
 ||app-prodb-ext-726392634.us-east-1.elb.amazonaws.com^
+||asa.tynt.com.edgesuite.net^
 ||as.casalemedia.com.cdn.cloudflare.net^
 ||as-sec.casalemedia.com.cdn.cloudflare.net^
 ||assets.purch.com.edgekey.net^
@@ -148,6 +151,7 @@
 ||ats.everesttech.net.akadns.net^
 ||at.teads.tv.edgekey.net^
 ||audio-audio-1g68sxcqrn4sh-1156192415.us-east-1.elb.amazonaws.com^
+||auth.smaato.com.cdn.cloudflare.net^
 ||awseb-e-5-awsebloa-1xu7fimu68nvi-616368110.us-west-1.elb.amazonaws.com^
 ||awseb-e-d-awsebloa-1q9gfvb78iwop-185021664.ap-southeast-1.elb.amazonaws.com^
 ||awseb-e-d-awsebloa-2dr29juoyt6w-259884457.us-east-1.elb.amazonaws.com^
@@ -263,6 +267,7 @@
 ||cws-iad2-backup-1123459730.us-east-1.elb.amazonaws.com^
 ||d10965qij0vo0t.cloudfront.net^
 ||d10lpsik1i8c69.cloudfront.net^
+||d10po6xnxyi54x.cloudfront.net^
 ||d10zpqiiet5gz0.cloudfront.net^
 ||d11d9azirjf8qx.cloudfront.net^
 ||d12877d0tun27f.cloudfront.net^
@@ -316,6 +321,7 @@
 ||d1n8wuu8qta5yd.cloudfront.net^
 ||d1nhb8qxtoqfuw.cloudfront.net^
 ||d1ov3e4o00zg3w.cloudfront.net^
+||d1pgebxfamnksw.cloudfront.net^
 ||d1ppx124ti3vqf.cloudfront.net^
 ||d1q6tk0vihwr8.cloudfront.net^
 ||d1q8pzlr10pyg7.cloudfront.net^
@@ -330,6 +336,7 @@
 ||d1tcwf12y4kqv3.cloudfront.net^
 ||d1tjaz2iibtu17.cloudfront.net^
 ||d1ubbaq2151s8g.cloudfront.net^
+||d1uc3t7g81m5tl.cloudfront.net^
 ||d1wsawskf2klzj.cloudfront.net^
 ||d1wuxwbrz7pind.cloudfront.net^
 ||d1x4tbjlz1rjfi.cloudfront.net^
@@ -382,6 +389,7 @@
 ||d2dq2ahtl5zl1z.cloudfront.net^
 ||d2fcto9m8k45qk.cloudfront.net^
 ||d2g1q7ku6gxqv6.cloudfront.net^
+||d2gfmlxp0gnhv7.cloudfront.net^
 ||d2gqy8cmp05lfi.cloudfront.net^
 ||d2gxqzj21tgrmb.cloudfront.net^
 ||d2h0ado6netzv7.cloudfront.net^
@@ -399,6 +407,7 @@
 ||d2ot4sg9hf4kq5.cloudfront.net^
 ||d2p92aehtxk1ll.cloudfront.net^
 ||d2pbcviywxotf2.cloudfront.net^
+||d2pjrvfrfokvdz.cloudfront.net^
 ||d2q0jy082j0tjq.cloudfront.net^
 ||d2q6my7i6lbg44.cloudfront.net^
 ||d2qda6eimxvjbm.cloudfront.net^
@@ -530,6 +539,7 @@
 ||detgh1asa1dg4.cloudfront.net^
 ||detrlmfafe7oz.cloudfront.net^
 ||dev.assets.purch.com.edgekey.net^
+||developers.smaato.com.cdn.cloudflare.net^
 ||df2nkacjvuj0w.cloudfront.net^
 ||dflikvabz4suu.cloudfront.net^
 ||dgfkt87h1ld65.cloudfront.net^
@@ -542,6 +552,7 @@
 ||djbnc9y1z59gl.cloudfront.net^
 ||dk0535o7wi8sf.cloudfront.net^
 ||dk9v7puutv18d.cloudfront.net^
+||dkh59daejkunv.cloudfront.net^
 ||dkk524sbztkpl.cloudfront.net^
 ||dkzzzuxlneztx.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
@@ -600,6 +611,7 @@
 ||dubqvfyptwjri.cloudfront.net^
 ||dul2mjsvvn9yr.cloudfront.net^
 ||dun10qihat1x2.cloudfront.net^
+||dvdafwzlrgj6j.cloudfront.net^
 ||dweqmkohotjyr.cloudfront.net^
 ||dwq3lvioggr6h.cloudfront.net^
 ||dxedge-prod-lb-1585771072.us-west-2.elb.amazonaws.com^
@@ -643,9 +655,12 @@
 ||ec2-54-203-117-53.us-west-2.compute.amazonaws.com^
 ||ec2-54-226-134-252.compute-1.amazonaws.com^
 ||ec2-54-245-153-70.us-west-2.compute.amazonaws.com^
+||ec2-54-84-144-142.compute-1.amazonaws.com^
 ||ec2-79-125-120-249.eu-west-1.compute.amazonaws.com^
 ||edc.adform.net-v2.edgekey.net^
 ||edc.adform.net-v3.edgekey.net^
+||elb-aws-fr-zagreb-1702672115.eu-central-1.elb.amazonaws.com^
+||elb-aws-ie-rockabox-scoota-2052063539.eu-west-1.elb.amazonaws.com^
 ||elb-content-edge-prod-11920284.us-west-1.elb.amazonaws.com^
 ||engageforchange.deloitte.com.edgekey.net^
 ||engine.monetate.net.edgekey.net^
@@ -769,6 +784,7 @@
 ||klaviyo-app.map.fastly.net^
 ||klaviyo-onsite.map.fastly.net^
 ||l4.aaxads.com.edgesuite.net^
+||landing.adyoulike.com.s3-website-eu-west-1.amazonaws.com^
 ||lb-02_nl-ams.zetapgmt.akadns.net^
 ||lb-07_us-sjc.zetapgmt.akadns.net^
 ||lb-07_us-wdc.zetapgmt.akadns.net^
@@ -777,6 +793,7 @@
 ||lb.netmng.com.cdn.cloudflare.net^
 ||lb-static-groupb-330714520.us-east-1.elb.amazonaws.com^
 ||lb-static-groupb-ssl-594657832.us-east-1.elb.amazonaws.com^
+||lb-uauth-active-va-1234898367.us-east-1.elb.amazonaws.com^
 ||lb-waypoint-1965812208.us-west-1.elb.amazonaws.com^
 ||lb-waypoint-579585824.eu-west-1.elb.amazonaws.com^
 ||lb-zipline-auto-prod-1201232795.us-east-1.elb.amazonaws.com^
@@ -1069,6 +1086,7 @@
 ||sdk.sascdn.com.edgekey.net^
 ||sdk.sascdn.com.edgesuite.net^
 ||sd.turn.com.akadns.net^
+||sdx-api.smaato.com.cdn.cloudflare.net^
 ||secure2.cdn.fastclick.net.edgekey.net^
 ||secure-ds.serving-sys.com.akadns.net^
 ||secure-ds.serving-sys.com.edgesuite.net^
@@ -1091,6 +1109,9 @@
 ||sp-20210413092617497500000008-1105207269.eu-west-2.elb.amazonaws.com^
 ||sp-20210623204006469900000007-588892843.us-east-1.elb.amazonaws.com^
 ||spectrum.fedramp-ingest.newrelic.com.cdn.cloudflare.net^
+||spx-api.smaato.com.cdn.cloudflare.net^
+||spx-prometheus.smaato.com.cdn.cloudflare.net^
+||spx.smaato.com.cdn.cloudflare.net^
 ||srv.buysellads.com.cdn.cloudflare.net^
 ||srv.carbonads.net.cdn.cloudflare.net^
 ||ssb-eu.ssb-prod-sas.akadns.net^
@@ -1115,6 +1136,7 @@
 ||static.getclicky.com.cdn.cloudflare.net^
 ||static.innovid.com.edgekey.net^
 ||static-pixel.media6degrees.com.cdn.cloudflare.net^
+||statics.admanmedia.com.edgekey.net^
 ||stats-5-split-vohnu.s.innovid.com.akadns.net^
 ||stats-analytics-722939043.eu-west-1.elb.amazonaws.com^
 ||stats.buysellads.com.cdn.cloudflare.net^
@@ -1210,6 +1232,7 @@
 ||vq-lb-24563458.ca-central-1.elb.amazonaws.com^
 ||vsdk.sascdn.com.edgekey.net^
 ||wallet-api.urbanairship.com-v1.edgekey.net^
+||waudist.tynt.com.cdn.cloudflare.net^
 ||web-1817063591.us-east-1.elb.amazonaws.com^
 ||web-2099239636.us-east-1.elb.amazonaws.com^
 ||web-misc-454199433.us-east-1.elb.amazonaws.com^
@@ -1252,9 +1275,12 @@
 ||www.klaviyo.com.cdn.cloudflare.net^
 ||www-location.adformnet.akadns.net^
 ||www.purch.com.edgekey.net^
+||www.smaato.com.cdn.cloudflare.net^
 ||www-staging.loggly.com.edgekey.net^
 ||www.teads.com.edgekey.net^
 ||www.teads.tv.edgekey.net^
+||www.zemanta.com.edgekey.net^
+||wz.tynt.com.cdn.cloudflare.net^
 ||x6k5d7v4.stackpathcdn.com^
 ||x6n3w6m8.stackpathcdn.com^
 ||x7b3f6n8.stackpathcdn.com^
@@ -1270,5 +1296,6 @@
 ||z3u5h9r6.stackpathcdn.com^
 ||z3u7k7h3.stackpathcdn.com^
 ||z9w6q3k9.stackpathcdn.com^
+||zemanta.map.fastly.net^
 ||zodiac-prod-lb-2056802051.us-west-2.elb.amazonaws.com^
 ||ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com^
