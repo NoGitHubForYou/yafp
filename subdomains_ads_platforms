@@ -165,6 +165,7 @@
 ||a.zetapgmt.akadns.net^
 ||az-lb-1103138254.eu-west-1.elb.amazonaws.com^
 ||az-lb-in-vpc-26716720.eu-west-1.elb.amazonaws.com^
+||b2.6sc.co.edgekey.net^
 ||b6.scorecardresearch.com.edgesuite.net^
 ||babyu.imageg.net.edgesuite.net^
 ||b-code.liadm.com.edgekey.net^
@@ -209,6 +210,7 @@
 ||cdn-ihb.33across.com.cdn.cloudflare.net^
 ||cdn-ima.33across.com.cdn.cloudflare.net^
 ||cdn.indexww.com.cdn.cloudflare.net^
+||cdn-inner-active.edgekey.net^
 ||cdn-in.pagesense.io.edgesuite.net^
 ||cdn.mookie1.com.edgekey.net^
 ||cdn.multissp-dev.yieldlab.net.edgesuite.net^
@@ -239,6 +241,7 @@
 ||cm-free-domains-902548940.us-east-1.elb.amazonaws.com^
 ||cn-wildcard.comscore.com.edgekey.net^
 ||collector-proxy-alb-2010247109.sa-east-1.elb.amazonaws.com^
+||collins-44300711.us-east-1.elb.amazonaws.com^
 ||comparison-prod-web-passthrough-1399613537.us-west-2.elb.amazonaws.com^
 ||complete-ext-shared-prod-elb2-802164298.us-east-1.elb.amazonaws.com^
 ||confiant-integrations.global.ssl.fastly.net^
@@ -388,6 +391,7 @@
 ||d2buzdtuj8b41k.cloudfront.net^
 ||d2dlljbhsyl5x8.cloudfront.net^
 ||d2dq2ahtl5zl1z.cloudfront.net^
+||d2e18irmq50qw5.cloudfront.net^
 ||d2fcto9m8k45qk.cloudfront.net^
 ||d2g1q7ku6gxqv6.cloudfront.net^
 ||d2gfmlxp0gnhv7.cloudfront.net^
@@ -512,6 +516,7 @@
 ||d5f9q4x5.stackpathcdn.com^
 ||d5iusqnp3ks2p.cloudfront.net^
 ||d-5n4aebq34c.execute-api.us-west-1.amazonaws.com^
+||d5n9qufsywyzx.cloudfront.net^
 ||d5phz18u4wuww.cloudfront.net^
 ||d6ljnlstfas69.cloudfront.net^
 ||d78fikflryjgj.cloudfront.net^
@@ -671,7 +676,11 @@
 ||event-collector-1567896821.us-west-2.elb.amazonaws.com^
 ||events-collector.spot.im.edgesuite.net^
 ||event.search-gtm.spotxchange.com.akadns.net^
+||events-lb-1299892453.us-east-1.elb.amazonaws.com^
+||events-lb-1943848055.us-east-1.elb.amazonaws.com^
 ||exapi-eu.rubiconproject.net.akadns.net^
+||exchange-lb-1822662812.us-east-1.elb.amazonaws.com^
+||exchange.m2m-geo.akadns.net^
 ||exchange.postrelease.com.akadns.net^
 ||f2.taboola.map.fastly.net^
 ||f6v5a2n6.stackpathcdn.com^
@@ -680,6 +689,7 @@
 ||files.bidtellect.com.s3-website-us-east-1.amazonaws.com^
 ||fo_global.zetapgmt.akadns.net^
 ||frcp-tpsc-hlb.dvgtm.akadns.net^
+||fy-m2m1.edgekey.net^
 ||g11v-mir.fwgtm.akadns.net^
 ||g13v.fwgtm.akadns.net^
 ||g2z5x7p4.stackpathcdn.com^
@@ -704,6 +714,7 @@
 ||guides.buysellads.com.cdn.cloudflare.net^
 ||h7z9v8e2.stackpathcdn.com^
 ||haprlb.adform.com.cdn.cloudflare.net^
+||haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com^
 ||hb-geo-global.delivery-prod-sas.akadns.net^
 ||helios.vo.llnwd.net^
 ||hp.teads.com.edgekey.net^
@@ -711,6 +722,7 @@
 ||ht.indexww.com.edgekey.net^
 ||htlb.casalemedia.com.cdn.cloudflare.net^
 ||http2.monetate.edgekey.net^
+||huracan-936647329.us-east-1.elb.amazonaws.com^
 ||i5p4j5c2.stackpathcdn.com^
 ||i9p9t3w6.stackpathcdn.com^
 ||id.hadron.ad.gt.cdn.cloudflare.net^
@@ -747,6 +759,7 @@
 ||ip1.cdn.stickyadstv.com.akadns.net^
 ||ip46.go-mpulse.net.edgekey.net^
 ||ip46s2.go-mpulse.net.edgekey.net^
+||ipv6.6sc.co.edgekey.net^
 ||isobar.adform.net-v2.edgekey.net^
 ||isobar.adform.net-v3.edgekey.net^
 ||ivt-service-505396678.us-east-1.elb.amazonaws.com^
@@ -804,6 +817,7 @@
 ||log-api.newrelic.com.cdn.cloudflare.net^
 ||loggly-haproxy-1333703238.us-west-2.elb.amazonaws.com^
 ||login-aws-alb-prod-us-east-1-507982896.us-east-1.elb.amazonaws.com^
+||m2mtest.m2m-geo.akadns.net^
 ||m4f5f8u8.stackpathcdn.com^
 ||m4i6a5i5.stackpathcdn.com^
 ||mansef-1.hs.llnwd.net^
@@ -1084,6 +1098,7 @@
 ||s-c-service.innovid.com.edgekey.net^
 ||s-cs.send.microad.jp.akadns.net^
 ||s-d569233cde3248ea8.server.transfer.us-east-1.amazonaws.com^
+||sdk-lb-998269421.us-east-1.elb.amazonaws.com^
 ||sdk.sascdn.com.edgekey.net^
 ||sdk.sascdn.com.edgesuite.net^
 ||sd.turn.com.akadns.net^
@@ -1101,6 +1116,7 @@
 ||sgcp-tpsc-hlb.dvgtm.akadns.net^
 ||sharebar.addthis.com.cdn.cloudflare.net^
 ||sic-akamai.33across.com.cdn.cloudflare.net^
+||sid-334503485.us-east-1.elb.amazonaws.com^
 ||signal-lb-prod-1723845896.us-east-2.elb.amazonaws.com^
 ||signin-geo-split.signin.innovid.com.akadns.net^
 ||s-lb.tribalfusion.com.akadns.net^
@@ -1161,8 +1177,10 @@
 ||swdc-ion.edgekey.net^
 ||syndicate.purch.com.edgekey.net^
 ||syndication.purch.com.edgekey.net^
+||t2.6sc.co.edgekey.net^
 ||t2adroll.edgekey.net^
 ||t6h4s7b7.stackpathcdn.com^
+||t.6sc.co.edgekey.net^
 ||t8s3j9q2.stackpathcdn.com^
 ||tableau-test-improvedigital-com-1455005134.eu-west-1.elb.amazonaws.com^
 ||tab-tabworker-red-tableau-prod-1005710324.us-east-1.elb.amazonaws.com^
@@ -1248,6 +1266,7 @@
 ||wildcard.cdn.optimizely.com.edgekey.net^
 ||wildcard.comscore.com.edgekey.net^
 ||wildcard.go-mpulse.net.edgekey.net^
+||wildcard.inner-active.mobi.edgekey.net^
 ||wildcard.media.net.edgekey.net^
 ||wildcard.moatads.com.edgekey.net^
 ||wildcard.outbrain.com.edgekey.net^
