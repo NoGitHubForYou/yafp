@@ -49,6 +49,7 @@
 ||a6ec7bb549b154ff78ae0041cd25b41a-1498999377.us-east-2.elb.amazonaws.com^
 ||a6f5eb42e82ce11e7b85c02e1049d57b-1837314962.us-west-1.elb.amazonaws.com^
 ||a9646996646bb4331a4a36bd95d3c534-791061059.us-east-1.elb.amazonaws.com^
+||a97c5e4b1935e11eabd640eed5723abf-1602615753.us-east-1.elb.amazonaws.com^
 ||a.ad.gt.cdn.cloudflare.net^
 ||aaxn-api-155847493.us-west-1.elb.amazonaws.com^
 ||aaxn-api-2-1582800763.us-west-1.elb.amazonaws.com^
@@ -101,6 +102,7 @@
 ||afp.us.sjc.legacy.dotomi.weighted.com.akadns.net^
 ||ag-5-split.ag.innovid.com.akadns.net^
 ||ag-6-split.ag.innovid.com.akadns.net^
+||airedale.futurecdn.net.edgekey.net^
 ||ak1.img.e-planning.net.edgesuite.net^
 ||akacdn.doubleverify.com.edgekey.net^
 ||ak.ad.turn.com.edgekey.net^
@@ -316,6 +318,7 @@
 ||d1inq1x5xtur5k.cloudfront.net^
 ||d1jvzl2c7qpx5d.cloudfront.net^
 ||d1kavnna1el7ke.cloudfront.net^
+||d1knev8v583tx6.cloudfront.net^
 ||d1kpw5eq86j8fh.cloudfront.net^
 ||d1l0wovdm584ip.cloudfront.net^
 ||d1l9yn8zsiti2w.cloudfront.net^
@@ -392,6 +395,7 @@
 ||d2dlljbhsyl5x8.cloudfront.net^
 ||d2dq2ahtl5zl1z.cloudfront.net^
 ||d2e18irmq50qw5.cloudfront.net^
+||d2erfw271qaypw.cloudfront.net^
 ||d2fcto9m8k45qk.cloudfront.net^
 ||d2g1q7ku6gxqv6.cloudfront.net^
 ||d2gfmlxp0gnhv7.cloudfront.net^
@@ -712,6 +716,7 @@
 ||gov-staging-otlp.nr-data.net.cdn.cloudflare.net^
 ||grow.segment.com.s3.amazonaws.com^
 ||guides.buysellads.com.cdn.cloudflare.net^
+||h6x6c2g6.stackpathcdn.com^
 ||h7z9v8e2.stackpathcdn.com^
 ||haprlb.adform.com.cdn.cloudflare.net^
 ||haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com^
@@ -826,6 +831,7 @@
 ||match-975362022.us-east-1.elb.amazonaws.com^
 ||mathads.com.edgekey.net^
 ||maxymiser.hs.llnwd.net^
+||mbz200.future-publishing.map.fastly.net^
 ||mediaplex.bfp.dotomi.weighted.com.akadns.net^
 ||miexperiencia.progreso.com.edgekey.net^
 ||mirror.cj.edgekey.net^
@@ -840,11 +846,13 @@
 ||mobile-collector.newrelic.com.cdn.cloudflare.net^
 ||mod.imageg.net.edgesuite.net^
 ||moloco.map.fastly.net^
+||mos.futureplc.com.s3.eu-west-2.amazonaws.com^
 ||mparticle.map.fastly.net^
 ||msg-media-ds.valueclick.akadns.net^
 ||m-spotx-tv.search-gtm.spotxchange.com.akadns.net^
 ||n5j7w3a9.stackpathcdn.com^
 ||n9c2v9n6.stackpathcdn.com^
+||n9f8j2f8.stackpathcdn.com^
 ||nado-ecs-lb-us-east-1-1502216065.us-east-1.elb.amazonaws.com^
 ||nado-ecs-lb-us-east-2-1690985176.us-east-2.elb.amazonaws.com^
 ||nado-ecs-lb-us-west-1-233928718.us-west-1.elb.amazonaws.com^
@@ -872,6 +880,8 @@
 ||p287.cedexis-test.com.edgesuite.net^
 ||p34247.cedexis-test.com.edgekey.net^
 ||p3c8d2e4.stackpathcdn.com^
+||p7e2s2r9.stackpathcdn.com^
+||p7z7b5t3.stackpathcdn.com^
 ||p.ad.gt.cdn.cloudflare.net^
 ||pagefairdotcomstats-1891079619.us-east-1.elb.amazonaws.com^
 ||partner-rc.bluekai.com.edgekey.net^
@@ -1218,6 +1228,7 @@
 ||trc-prod.taboolasyndication.com.edgesuite.net^
 ||trc.taboola.map.fastly.net^
 ||u4rp3snugf-445422930.us-east-1.elb.amazonaws.com^
+||u5a9p3x7.stackpathcdn.com^
 ||uffa-alb-354740383.us-east-1.elb.amazonaws.com^
 ||um.indexww.com.akadns.net^
 ||universe.send.microad.jp.akadns.net^
@@ -1306,6 +1317,7 @@
 ||x7b3f6n8.stackpathcdn.com^
 ||xd.adformnet.akadns.net^
 ||y2x6q8w4.stackpathcdn.com^
+||y3p7g7u2.stackpathcdn.com^
 ||y3u4d6g5.stackpathcdn.com^
 ||y4n5w9i9.stackpathcdn.com^
 ||y6a4f2s2.stackpathcdn.com^
