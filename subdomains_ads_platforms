@@ -116,7 +116,17 @@
 ||akns.sascdn.com.edgesuite.net^
 ||ak.sascdn.com.edgekey.net^
 ||alb-ext-ingress-group-95161440.us-east-1.elb.amazonaws.com^
+||alb-logs-http-all-shard0-1888760894.us-east-1.elb.amazonaws.com^
+||alb-logs-http-browser-pub-s0-1899014706.us-east-1.elb.amazonaws.com^
+||alb-logs-http-prof-shard0-1245244872.us-east-1.elb.amazonaws.com^
+||alb-logs-http-p-trace-pub-s0-18773496.us-east-1.elb.amazonaws.com^
+||alb-logs-http-replay-pub-s0-1657748904.us-east-1.elb.amazonaws.com^
+||alb-logs-http-rum-pub-s0-1171131448.us-east-1.elb.amazonaws.com^
+||alb-logs-http-rum-pub-s1-2063062832.us-east-1.elb.amazonaws.com^
+||alb-metrics-agent-shard1-770518637.us-east-1.elb.amazonaws.com^
 ||a-lb.tribalfusion.com.akadns.net^
+||alb-web-2019-shard0-1497967001.us-east-1.elb.amazonaws.com^
+||alb-web-2019-shard1-1762251229.us-east-1.elb.amazonaws.com^
 ||amp.casalemedia.com.cdn.cloudflare.net^
 ||ana-cf-col-elb-78-208270928.us-west-1.elb.amazonaws.com^
 ||ana-cf-col-elb-us-2021-01-04-66333412.us-west-1.elb.amazonaws.com^
@@ -293,6 +303,7 @@
 ||d182jjritq324.cloudfront.net^
 ||d18kystukhbcb1.cloudfront.net^
 ||d19lc07zm70enc.cloudfront.net^
+||d19t9xn5yfcnlo.cloudfront.net^
 ||d19wk6gyisay58.cloudfront.net^
 ||d1aadi0iayibtc.cloudfront.net^
 ||d1ati0yg9uo8b5.cloudfront.net^
@@ -407,11 +418,13 @@
 ||d2h1lb6ocemewd.cloudfront.net^
 ||d2h2ih5uj2bj0c.cloudfront.net^
 ||d2hgyp7xm6s1ij.cloudfront.net^
+||d2hq5chirsc2qk.cloudfront.net^
 ||d2i89vafawem7z.cloudfront.net^
 ||d2jw3x93wbjw3y.cloudfront.net^
 ||d2l3x1ydi04yhf.cloudfront.net^
 ||d2l6m8wzchx7x8.cloudfront.net^
 ||d2nfit0zukoyc1.cloudfront.net^
+||d2nn67gg9d92z5.cloudfront.net^
 ||d2ntch3kfgsg6n.cloudfront.net^
 ||d2ogp14ch2jrmq.cloudfront.net^
 ||d2ot4sg9hf4kq5.cloudfront.net^
@@ -459,6 +472,7 @@
 ||d383bmkmaf5xav.cloudfront.net^
 ||d38b5b84w9979x.cloudfront.net^
 ||d39g5w4856mo45.cloudfront.net^
+||d39likbcoi37t3.cloudfront.net^
 ||d39sl85ymq1xll.cloudfront.net^
 ||d3a059z3oq57cv.cloudfront.net^
 ||d3bh1mvz2d1aun.cloudfront.net^
@@ -523,6 +537,7 @@
 ||d-5n4aebq34c.execute-api.us-west-1.amazonaws.com^
 ||d5n9qufsywyzx.cloudfront.net^
 ||d5phz18u4wuww.cloudfront.net^
+||d6jdux3y9l697.cloudfront.net^
 ||d6ljnlstfas69.cloudfront.net^
 ||d78fikflryjgj.cloudfront.net^
 ||d7qud41j1l2xj.cloudfront.net^
@@ -589,7 +604,9 @@
 ||d-qnprsxjklb.execute-api.us-east-1.amazonaws.com^
 ||dqo5zco17wrae.cloudfront.net^
 ||dqwg2ujvjfn63.cloudfront.net^
+||dqzwk7q6muri9.cloudfront.net^
 ||drb0k2mg1d7gh.cloudfront.net^
+||ds4q9odtg7z52.cloudfront.net^
 ||ds9oh7t355owx.cloudfront.net^
 ||ds-blog.addthiscdn.com.edgekey.net^
 ||ds-cache.addthiscdn.com.edgekey.net^

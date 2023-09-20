@@ -73,7 +73,6 @@ beacon.shutterfly.com
 beacon.walmart.com
 beacon.wikia-services.com
 beap.gemini.yahoo.com
-browser-http-intake.logs.datadoghq.com
 b.stats.paypal.com
 c1.rfihub.net
 c2.ktxlytics.io
@@ -218,7 +217,6 @@ px.dynamicyield.com
 recs.richrelevance.com
 referrer.disqus.com
 res1.applovin.com
-rum-http-intake.logs.datadoghq.com
 rum-static.pingdom.net
 s3t3d2y8.afcdn.net
 sa.bbc.co.uk
