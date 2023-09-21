@@ -246,6 +246,7 @@
 ||cftestscript.crazyegg.com.cdn.cloudflare.net^
 ||cf-track.pubmatic.com.cdn.cloudflare.net^
 ||cks.connatix.com.cdn.cloudflare.net^
+||clients-moat-prod-1961205157.us-east-1.elb.amazonaws.com^
 ||cloudenhanced.qualtrics.com.edgekey.net^
 ||c-lt1.go-mpulse.net.cdn.cloudflare.net^
 ||c-lt2.go-mpulse.net.edgekey.net^
@@ -621,6 +622,7 @@
 ||dsum.casalemedia.com.cdn.cloudflare.net^
 ||dsum-sec.casalemedia.com.cdn.cloudflare.net^
 ||dswb-abercrombie-elb-1867906868.us-east-1.elb.amazonaws.com^
+||ds-www.moat.com.edgekey.net^
 ||dt6ad06c5tr5z.cloudfront.net^
 ||dtlilztwypawv.cloudfront.net^
 ||dtmpub.dotomi.weighted.com.akadns.net^
