@@ -282,6 +282,7 @@
 ||creatives.cdn-prod-sas.akadns.net^
 ||creatives.sascdn.com.edgesuite.net^
 ||csync-global.smartadserver.com.edgesuite.net^
+||ctm-web-689730851.us-east-1.elb.amazonaws.com^
 ||customdomains.buysellads.com.cdn.cloudflare.net^
 ||custom-feeds-prod-lb-506253763.us-east-1.elb.amazonaws.com^
 ||custom-feeds-prod-lb-730702726.us-east-1.elb.amazonaws.com^
@@ -317,6 +318,7 @@
 ||d1da88slxvkrhp.cloudfront.net^
 ||d1dkpjabnziobq.cloudfront.net^
 ||d1dl3tz261tmfk.cloudfront.net^
+||d1e5j4ofx1iaz6.cloudfront.net^
 ||d1ekdn256kz7p5.cloudfront.net^
 ||d1eoruhlhwkegr.cloudfront.net^
 ||d1fcniqaq6r754.cloudfront.net^
@@ -334,8 +336,10 @@
 ||d1ieh724jnuxc3.cloudfront.net^
 ||d1igh5327x08xx.cloudfront.net^
 ||d1inq1x5xtur5k.cloudfront.net^
+||d1ixylre7rkqpm.cloudfront.net^
 ||d1jvzl2c7qpx5d.cloudfront.net^
 ||d1kavnna1el7ke.cloudfront.net^
+||d1kepy6iv6zyfy.cloudfront.net^
 ||d1knev8v583tx6.cloudfront.net^
 ||d1kpw5eq86j8fh.cloudfront.net^
 ||d1l0wovdm584ip.cloudfront.net^
@@ -369,6 +373,7 @@
 ||d1xbuscas8tetl.cloudfront.net^
 ||d1xci65au42mih.cloudfront.net^
 ||d1xwmzpqwf4qrr.cloudfront.net^
+||d1xxqpac23w5c2.cloudfront.net^
 ||d1y7gcia52oqq5.cloudfront.net^
 ||d1yfgcka9mcggt.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
@@ -454,6 +459,7 @@
 ||d2uibrot6s15bb.cloudfront.net^
 ||d2uj3e69il3obf.cloudfront.net^
 ||d2ustmygnzitjf.cloudfront.net^
+||d2uz525cq88lpm.cloudfront.net^
 ||d2w45tum40fmzp.cloudfront.net^
 ||d2wjyp0sx49z1w.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
