@@ -763,9 +763,12 @@
 ||ht.indexww.com.edgekey.net^
 ||htlb.casalemedia.com.cdn.cloudflare.net^
 ||http2.monetate.edgekey.net^
+||hubapi-1330022245.us-east-1.elb.amazonaws.com^
 ||huracan-936647329.us-east-1.elb.amazonaws.com^
 ||i5p4j5c2.stackpathcdn.com^
 ||i9p9t3w6.stackpathcdn.com^
+||iad02-api-hubapi-com-722212115.us-east-1.elb.amazonaws.com^
+||iad02-zorse-hubapi-com-1490633521.us-east-1.elb.amazonaws.com^
 ||id.hadron.ad.gt.cdn.cloudflare.net^
 ||idpix.media6degrees.com.cdn.cloudflare.net^
 ||ids.ad.gt.cdn.cloudflare.net^
@@ -1187,6 +1190,7 @@
 ||ssb-use1-failover.ssb-prod-sas.akadns.net^
 ||ssl-cdn.multissp-dev.yieldlab.net.edgekey.net^
 ||ssl-cdn.multissp.yieldlab.net.edgekey.net^
+||ssl.hubspot.com.edgekey.net^
 ||ssp.send.microad.jp.akadns.net^
 ||s-static.innovid.com.edgekey.net^
 ||ssum.casalemedia.com.cdn.cloudflare.net^
@@ -1369,4 +1373,5 @@
 ||z9w6q3k9.stackpathcdn.com^
 ||zemanta.map.fastly.net^
 ||zodiac-prod-lb-2056802051.us-west-2.elb.amazonaws.com^
+||zorse-hubapi-com-1794790869.us-east-1.elb.amazonaws.com^
 ||ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com^
