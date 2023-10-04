@@ -237,6 +237,7 @@
 ||cdn.pagesense.io.edgesuite.net^
 ||cdn.resonate.com.cdn.cloudflare.net^
 ||cdn-sic.33across.com.cdn.cloudflare.net^
+||cdn.staticstuff.net.cdn.cloudflare.net^
 ||cdn.taboola.map.fastly.net^
 ||cdn-tc.33across.com.cdn.cloudflare.net^
 ||cdn.viglink.com.cdn.cloudflare.net^
@@ -302,6 +303,7 @@
 ||d1447tq2m68ekg.cloudfront.net^
 ||d1456xird6f9uu.cloudfront.net^
 ||d14uw5o7448kb.cloudfront.net^
+||d15nk9mbqrh2bi.cloudfront.net^
 ||d170x2jow61i45.cloudfront.net^
 ||d174uthr9x774s.cloudfront.net^
 ||d17nf3nfoe9omd.cloudfront.net^
@@ -335,6 +337,7 @@
 ||d1hxoe39tk6xlt.cloudfront.net^
 ||d1ieh724jnuxc3.cloudfront.net^
 ||d1igh5327x08xx.cloudfront.net^
+||d1in9258i3gxsi.cloudfront.net^
 ||d1inq1x5xtur5k.cloudfront.net^
 ||d1ixylre7rkqpm.cloudfront.net^
 ||d1jvzl2c7qpx5d.cloudfront.net^
@@ -392,6 +395,7 @@
 ||d21uvahtjf3w7c.cloudfront.net^
 ||d233cc3q2mc0y4.cloudfront.net^
 ||d23a0sz4auw5br.cloudfront.net^
+||d2460o7cs6knto.cloudfront.net^
 ||d24n15hnbwhuhn.cloudfront.net^
 ||d24v0qfgxmmkdg.cloudfront.net^
 ||d2587izi1kducr.cloudfront.net^
@@ -430,6 +434,7 @@
 ||d2h119a802iq63.cloudfront.net^
 ||d2h1lb6ocemewd.cloudfront.net^
 ||d2h2ih5uj2bj0c.cloudfront.net^
+||d2hafucdjt7wf3.cloudfront.net^
 ||d2hgyp7xm6s1ij.cloudfront.net^
 ||d2hq5chirsc2qk.cloudfront.net^
 ||d2i89vafawem7z.cloudfront.net^
@@ -577,6 +582,7 @@
 ||dd2y0tzfu8mc0.cloudfront.net^
 ||dd49eg36vm6j6.cloudfront.net^
 ||ddcvkv9zeyca.cloudfront.net^
+||ddfn7gavq5hf1.cloudfront.net^
 ||de8of677fyt0b.cloudfront.net^
 ||demo.sizmek.com.edgesuite.net^
 ||detgh1asa1dg4.cloudfront.net^
@@ -758,6 +764,7 @@
 ||haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com^
 ||hb-geo-global.delivery-prod-sas.akadns.net^
 ||helios.vo.llnwd.net^
+||hello.staticstuff.net.cdn.cloudflare.net^
 ||hp.teads.com.edgekey.net^
 ||h.scorecardresearch.com.edgesuite.net^
 ||ht.indexww.com.edgekey.net^
@@ -864,6 +871,7 @@
 ||m2mtest.m2m-geo.akadns.net^
 ||m4f5f8u8.stackpathcdn.com^
 ||m4i6a5i5.stackpathcdn.com^
+||mailsig.zetaglobal.com-https.edgesuite.net^
 ||mansef-1.hs.llnwd.net^
 ||mansef.vo.llnwd.net^
 ||map.media6degrees.com.cdn.cloudflare.net^
