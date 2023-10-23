@@ -37,6 +37,7 @@
 ||4383f0b0ee7b055c0a5d2cab76b2e6b9-a90681d297de8ed7.elb.us-east-2.amazonaws.com^
 ||5b2ce62cbd5714437022c188dee0d335.yl4.us-east-1.eks.amazonaws.com^
 ||94ece80e-kong-kongproxy-066b-501047668.us-east-1.elb.amazonaws.com^
+||98512fcf-online-adxingress-2391-676468587.us-east-1.elb.amazonaws.com^
 ||9fb0f14e-kong-kongproxy-066b-2032067591.us-east-1.elb.amazonaws.com^
 ||a00c0ce4981154288bef778a561b2e39-610851327.us-west-2.elb.amazonaws.com^
 ||a0abb3ede3b6d432ba4cb5cd79bf3437-761396991.us-west-2.elb.amazonaws.com^
@@ -87,6 +88,7 @@
 ||adtechjp-ssp-ums-1450300015.ap-northeast-1.elb.amazonaws.com^
 ||ad.turn.com.akadns.net^
 ||adxpose.tmrg.akadns.net^
+||adx-reporting-2046430348.us-west-2.elb.amazonaws.com^
 ||adx-vpc-winners-1237711951.us-west-2.elb.amazonaws.com^
 ||adx-vpc-winners-1339462696.us-east-1.elb.amazonaws.com^
 ||adyoulike.edgesuite.net^
@@ -265,6 +267,7 @@
 ||complete-ext-shared-prod-elb2-802164298.us-east-1.elb.amazonaws.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||confluence-20211204-258573741.us-west-2.elb.amazonaws.com^
+||connextra.com.edgekey.net^
 ||console.compass.microad.jp.edgekey.net^
 ||contextweb.map.fastly.net^
 ||convex.global.dual.dotomi.weighted.com.akadns.net^
@@ -321,12 +324,14 @@
 ||d1da88slxvkrhp.cloudfront.net^
 ||d1dkpjabnziobq.cloudfront.net^
 ||d1dl3tz261tmfk.cloudfront.net^
+||d1e12xh4hrv4zb.cloudfront.net^
 ||d1e5j4ofx1iaz6.cloudfront.net^
 ||d1ekdn256kz7p5.cloudfront.net^
 ||d1eoruhlhwkegr.cloudfront.net^
 ||d1fcniqaq6r754.cloudfront.net^
 ||d1fhwtjgaiueko.cloudfront.net^
 ||d1fvjuoixqz7wl.cloudfront.net^
+||d1gfm4vyw05q9l.cloudfront.net^
 ||d1gmzw857o25jw.cloudfront.net^
 ||d1gwsc5ehw08nb.cloudfront.net^
 ||d1gzewjq6luteh.cloudfront.net^
@@ -371,6 +376,7 @@
 ||d1tjaz2iibtu17.cloudfront.net^
 ||d1ubbaq2151s8g.cloudfront.net^
 ||d1uc3t7g81m5tl.cloudfront.net^
+||d1w1kqt9iahaqg.cloudfront.net^
 ||d1wsawskf2klzj.cloudfront.net^
 ||d1wuxwbrz7pind.cloudfront.net^
 ||d1x4tbjlz1rjfi.cloudfront.net^
@@ -389,6 +395,7 @@
 ||d20p7hff68prsp.cloudfront.net^
 ||d20qwf0wrdtevy.cloudfront.net^
 ||d20skogma9ce2j.cloudfront.net^
+||d212yvd97xvizw.cloudfront.net^
 ||d217yge8ytzcwv.cloudfront.net^
 ||d21l4kc9ihrcyu.cloudfront.net^
 ||d21mkepqjgalzl.cloudfront.net^
@@ -415,12 +422,14 @@
 ||d29j1zfqo6w3v8.cloudfront.net^
 ||d29sshy11yr8a1.cloudfront.net^
 ||d2allaydbki46w.cloudfront.net^
+||d2alqfnha55k8f.cloudfront.net^
 ||d2aw9pqlucxns7.cloudfront.net^
 ||d2awf17glly436.cloudfront.net^
 ||d2bmvuux8nuio8.cloudfront.net^
 ||d2bpowqvz679bt.cloudfront.net^
 ||d2buwole7190sq.cloudfront.net^
 ||d2buzdtuj8b41k.cloudfront.net^
+||d2cli4kgl5uxre.cloudfront.net^
 ||d2dlljbhsyl5x8.cloudfront.net^
 ||d2dq2ahtl5zl1z.cloudfront.net^
 ||d2e18irmq50qw5.cloudfront.net^
@@ -431,6 +440,7 @@
 ||d2gfmlxp0gnhv7.cloudfront.net^
 ||d2gqy8cmp05lfi.cloudfront.net^
 ||d2gxqzj21tgrmb.cloudfront.net^
+||d2gxvbx6l7p2gu.cloudfront.net^
 ||d2h0ado6netzv7.cloudfront.net^
 ||d2h119a802iq63.cloudfront.net^
 ||d2h1lb6ocemewd.cloudfront.net^
@@ -488,6 +498,7 @@
 ||d356w25jxw42hn.cloudfront.net^
 ||d3605ozi9emmig.cloudfront.net^
 ||d36aw3ue2ntmsq.cloudfront.net^
+||d36fdgjxoqjus6.cloudfront.net^
 ||d36lvucg9kzous.cloudfront.net^
 ||d37cmi5gjlnkut.cloudfront.net^
 ||d383bmkmaf5xav.cloudfront.net^
@@ -535,6 +546,7 @@
 ||d3p5b6nccynqk6.cloudfront.net^
 ||d3p6ya47rp5ikz.cloudfront.net^
 ||d3pkae9owd2lcf.cloudfront.net^
+||d3pl0e9o476xxk.cloudfront.net^
 ||d3pypcxb49gfy9.cloudfront.net^
 ||d3qcuhk6vnaimp.cloudfront.net^
 ||d3qnr1m59zehbb.cloudfront.net^
@@ -620,6 +632,7 @@
 ||dnypbh0vdio1h.cloudfront.net^
 ||do3npi5v21j22.cloudfront.net^
 ||doa3n5lpn7zo4.cloudfront.net^
+||dosnujlvxkgze.cloudfront.net^
 ||dotcom-prod-elb-967008175.us-west-2.elb.amazonaws.com^
 ||dpeqhxb6fzo30.cloudfront.net^
 ||dpw59nwycducu.cloudfront.net^
@@ -664,6 +677,7 @@
 ||dualstack.tls13.taboola.map.fastly.net^
 ||dualstack.ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com^
 ||dubqvfyptwjri.cloudfront.net^
+||dugwld232qsc6.cloudfront.net^
 ||dul2mjsvvn9yr.cloudfront.net^
 ||dun10qihat1x2.cloudfront.net^
 ||dvdafwzlrgj6j.cloudfront.net^
@@ -679,6 +693,7 @@
 ||dz5c6zvba32v.cloudfront.net^
 ||dzecopnenyxcz.cloudfront.net^
 ||dzfq4ouujrxm8.cloudfront.net^
+||dzp9icm3rr7q2.cloudfront.net^
 ||dzvq6ll34kv0d.cloudfront.net^
 ||e6u9f2h7.stackpathcdn.com^
 ||ec2-34-219-184-83.us-west-2.compute.amazonaws.com^
@@ -717,6 +732,8 @@
 ||elb-aws-fr-zagreb-1702672115.eu-central-1.elb.amazonaws.com^
 ||elb-aws-ie-rockabox-scoota-2052063539.eu-west-1.elb.amazonaws.com^
 ||elb-content-edge-prod-11920284.us-west-1.elb.amazonaws.com^
+||elb-universal-login-907072980.us-east-1.elb.amazonaws.com^
+||elb-universal-login-np-608344171.us-east-1.elb.amazonaws.com^
 ||engageforchange.deloitte.com.edgekey.net^
 ||engine.monetate.net.edgekey.net^
 ||esd.taboola.com.edgesuite.net^
@@ -727,6 +744,7 @@
 ||event.search-gtm.spotxchange.com.akadns.net^
 ||events-lb-1299892453.us-east-1.elb.amazonaws.com^
 ||events-lb-1943848055.us-east-1.elb.amazonaws.com^
+||ewr-rtb.rfihub.com.akadns.net^
 ||exapi-eu.rubiconproject.net.akadns.net^
 ||exchange-lb-1822662812.us-east-1.elb.amazonaws.com^
 ||exchange.m2m-geo.akadns.net^
@@ -885,6 +903,7 @@
 ||mathads.com.edgekey.net^
 ||maxymiser.hs.llnwd.net^
 ||mbz200.future-publishing.map.fastly.net^
+||mediago-official-website-1693059739.us-west-2.elb.amazonaws.com^
 ||mediaplex.bfp.dotomi.weighted.com.akadns.net^
 ||miexperiencia.progreso.com.edgekey.net^
 ||mirror.cj.edgekey.net^
@@ -1255,6 +1274,7 @@
 ||tags.expo9.exponential.com-v1.edgekey.net^
 ||tags-lb.expo9.exponential.com.akadns.net^
 ||tags.tiqcdn.com.edgekey.net^
+||tca-rtb.rfihub.com.akadns.net^
 ||tddigital.td.com.edgekey.net^
 ||tealium.hs.llnwd.net^
 ||tf-lb-20230327211921223000000002-cb4644476fcd94af.elb.us-east-2.amazonaws.com^
@@ -1293,6 +1313,7 @@
 ||us-east-1.bsapi.akadns.net^
 ||us-east2-skimresources-179475094.us-east-1.elb.amazonaws.com^
 ||us.owneriq-prebid.akadns.net^
+||us-va-mo-lb02-2108426755.us-east-1.elb.amazonaws.com^
 ||us-west-1.bsapi.akadns.net^
 ||us-west-skimresources-378245457.us-west-1.elb.amazonaws.com^
 ||usync-prod-elb-1629330069.us-west-2.elb.amazonaws.com^
@@ -1340,6 +1361,7 @@
 ||wildcard.outbrainimg.com.edgekey.net^
 ||wildcard.owneriq.net.edgekey.net^
 ||wildcard.qualtrics.new.edgekey.net^
+||wildcard.rfihub.net.edgekey.net^
 ||wildcard.tribalfusion.com.edgekey.net^
 ||wildcard.urbanairship.com.edgekey.net^
 ||wildcard.zetapgmt.akadns.net^
