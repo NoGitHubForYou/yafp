@@ -76,6 +76,7 @@
 ||admin-workflow-p-104982182.us-east-1.elb.amazonaws.com^
 ||adotube-lb-http1-1295093845.us-east-1.elb.amazonaws.com^
 ||adroll.map.fastly.net^
+||ads-1202260457.us-east-1.elb.amazonaws.com^
 ||ads.blogherads.com.cdn.cloudflare.net^
 ||ads.buysellads.com.cdn.cloudflare.net^
 ||adserver.rubiconproject.net.akadns.net^
@@ -219,6 +220,8 @@
 ||cdn-3.convertexperiments.com.edgekey.net^
 ||cdn-4.convertexperiments.com.edgekey.net^
 ||cdna-dsa.clicktale.net.edgekey.net^
+||cdn.atomex.net.cdn.cloudflare.net^
+||cdn.atomex.net.edgekey.net^
 ||cdn-au.pagesense.io.edgesuite.net^
 ||cdn-c.adsmoloco.com.cdn.cloudflare.net^
 ||cdn.cxense.com.edgekey.net^
@@ -260,6 +263,7 @@
 ||c-lt2.go-mpulse.net.edgekey.net^
 ||cm.everesttech.net.akadns.net^
 ||cm-free-domains-902548940.us-east-1.elb.amazonaws.com^
+||cmm-production-1008859212.us-west-2.elb.amazonaws.com^
 ||cn-wildcard.comscore.com.edgekey.net^
 ||collector-proxy-alb-2010247109.sa-east-1.elb.amazonaws.com^
 ||collins-44300711.us-east-1.elb.amazonaws.com^
@@ -377,6 +381,7 @@
 ||d1ubbaq2151s8g.cloudfront.net^
 ||d1uc3t7g81m5tl.cloudfront.net^
 ||d1w1kqt9iahaqg.cloudfront.net^
+||d1wd4uausd8z22.cloudfront.net^
 ||d1wsawskf2klzj.cloudfront.net^
 ||d1wuxwbrz7pind.cloudfront.net^
 ||d1x4tbjlz1rjfi.cloudfront.net^
@@ -429,6 +434,8 @@
 ||d2bpowqvz679bt.cloudfront.net^
 ||d2buwole7190sq.cloudfront.net^
 ||d2buzdtuj8b41k.cloudfront.net^
+||d2cb1cw9iodx4m.cloudfront.net^
+||d2cb8c7doengvk.cloudfront.net^
 ||d2cli4kgl5uxre.cloudfront.net^
 ||d2dlljbhsyl5x8.cloudfront.net^
 ||d2dq2ahtl5zl1z.cloudfront.net^
@@ -453,6 +460,7 @@
 ||d2l3x1ydi04yhf.cloudfront.net^
 ||d2l6m8wzchx7x8.cloudfront.net^
 ||d2lml4lq5yh749.cloudfront.net^
+||d2mpjwdz88rruc.cloudfront.net^
 ||d2nfit0zukoyc1.cloudfront.net^
 ||d2nn67gg9d92z5.cloudfront.net^
 ||d2ntch3kfgsg6n.cloudfront.net^
@@ -520,6 +528,7 @@
 ||d3f1247unqimt.cloudfront.net^
 ||d3gc2fgulhneou.cloudfront.net^
 ||d3gfr1gilqossg.cloudfront.net^
+||d3gjbsvc85rlvn.cloudfront.net^
 ||d3hfoxv6i6m6my.cloudfront.net^
 ||d3hjfzssjmw24g.cloudfront.net^
 ||d3imwiyv5341b0.cloudfront.net^
@@ -530,6 +539,7 @@
 ||d3jiei8818qi05.cloudfront.net^
 ||d3kd3t5g0qp1xa.cloudfront.net^
 ||d3l22sipwx377d.cloudfront.net^
+||d3l6kw8z01qeu9.cloudfront.net^
 ||d3lgrbtp2hp95s.cloudfront.net^
 ||d3lps3s7ycck24.cloudfront.net^
 ||d3lq9pkn9g2jr9.cloudfront.net^
@@ -537,6 +547,7 @@
 ||d3mjfxbz6ytwiq.cloudfront.net^
 ||d3mn49cqsyesnk.cloudfront.net^
 ||d3n7p5jbn8fs11.cloudfront.net^
+||d3naicdk9wefxv.cloudfront.net^
 ||d3nay8stii2cb8.cloudfront.net^
 ||d3nslu0hdya83q.cloudfront.net^
 ||d3nzc3n9b16d9r.cloudfront.net^
@@ -574,6 +585,7 @@
 ||d5phz18u4wuww.cloudfront.net^
 ||d6jdux3y9l697.cloudfront.net^
 ||d6ljnlstfas69.cloudfront.net^
+||d6zw3ysy0ope4.cloudfront.net^
 ||d78fikflryjgj.cloudfront.net^
 ||d7qud41j1l2xj.cloudfront.net^
 ||d7uqonj24u23u.cloudfront.net^
@@ -681,6 +693,7 @@
 ||dul2mjsvvn9yr.cloudfront.net^
 ||dun10qihat1x2.cloudfront.net^
 ||dvdafwzlrgj6j.cloudfront.net^
+||dvxehkmvn4hzj.cloudfront.net^
 ||dweqmkohotjyr.cloudfront.net^
 ||dwq3lvioggr6h.cloudfront.net^
 ||dxedge-prod-lb-1585771072.us-west-2.elb.amazonaws.com^
@@ -737,6 +750,7 @@
 ||engageforchange.deloitte.com.edgekey.net^
 ||engine.monetate.net.edgekey.net^
 ||esd.taboola.com.edgesuite.net^
+||euads-801691419.eu-west-1.elb.amazonaws.com^
 ||eu-int-58531295.eu-west-1.elb.amazonaws.com^
 ||eu-west-skimresources-1219884972.eu-west-1.elb.amazonaws.com^
 ||event-collector-1567896821.us-west-2.elb.amazonaws.com^
@@ -801,6 +815,7 @@
 ||idpix.media6degrees.com.cdn.cloudflare.net^
 ||ids.ad.gt.cdn.cloudflare.net^
 ||idsync.reson8.com.cdn.cloudflare.net^
+||iframe.fresh8.co-v1.edgekey.net^
 ||images.s6.exacttarget.com.edgesuite.net^
 ||images.s7.exacttarget.com.edgesuite.net^
 ||images.viglink.com.cdn.cloudflare.net^
@@ -1041,9 +1056,12 @@
 ||reach-api.urbanairship.com-v1.edgekey.net^
 ||receiver-dual-730307430.us-east-1.elb.amazonaws.com^
 ||receiver-ipv4-686787523.us-east-1.elb.amazonaws.com^
+||recommenders.fresh8.co-v1.edgekey.net^
 ||redirect-1966248761.us-west-2.elb.amazonaws.com^
 ||remote-data-1.urbanairship.com.edgekey.net^
 ||reporting.go-mpulse.net.edgekey.net^
+||rescdn.atomex.net.cdn.cloudflare.net^
+||rescdn.atomex.net.edgekey.net^
 ||research.flightcentre.com.edgekey.net^
 ||reuters-no-wall-492142523.us-east-1.elb.amazonaws.com^
 ||routing.newrelic.com.cdn.cloudflare.net^
@@ -1274,6 +1292,7 @@
 ||tags.expo9.exponential.com-v1.edgekey.net^
 ||tags-lb.expo9.exponential.com.akadns.net^
 ||tags.tiqcdn.com.edgekey.net^
+||target.bannerflow.com.cdn.cloudflare.net^
 ||tca-rtb.rfihub.com.akadns.net^
 ||tddigital.td.com.edgekey.net^
 ||tealium.hs.llnwd.net^
