@@ -280,6 +280,8 @@
 ||convex-migration-six.dotomi.weighted.com.akadns.net^
 ||convex-rr.global.dual.dotomi.weighted.com.akadns.net^
 ||cookie-1825663532.us-east-1.elb.amazonaws.com^
+||cookiematch-156233389.us-west-1.elb.amazonaws.com^
+||cookiesyn-ssp-1814386418.us-west-2.elb.amazonaws.com^
 ||core-global.brc.akadns.net^
 ||corp-it-intranet-1896531523.us-west-2.elb.amazonaws.com^
 ||cpe.us.dotomi.weighted.com.akadns.net^
@@ -1174,6 +1176,7 @@
 ||s381216.sc.en25.com.edgekey.net^
 ||s394336720.sc.en25.com.edgekey.net^
 ||s3cf.flashtalking.com.edgekey.net^
+||s3-lb-598653246.us-west-2.elb.amazonaws.com^
 ||s441910513.sc.en25.com.edgekey.net^
 ||s46849916.sc.en25.com.edgekey.net^
 ||s468913550.sc.en25.com.edgekey.net^
