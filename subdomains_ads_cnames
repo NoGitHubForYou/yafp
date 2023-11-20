@@ -56,6 +56,7 @@
 ||metrics.fedex.com^
 ||metrics.fieldandstreamshop.com^
 ||metrics.ford.com^
+||metrics.foxnews.com^
 ||metrics.global.nba.com^
 ||metrics.hrblock.com^
 ||metrics.ionos.com^
@@ -153,6 +154,7 @@
 ||smetrics.fedex.com^
 ||smetrics.fieldandstreamshop.com^
 ||smetrics.ford.com^
+||smetrics.foxnews.com^
 ||smetrics.global.nba.com^
 ||smetrics.hrblock.com^
 ||smetrics.jcpenney.com^
@@ -220,7 +222,10 @@
 ||starget.intel.com^
 ||starget.mathworks.com^
 ||starget.panerabread.com^
+||stats.adobe.com^
 ||stats.bitdefender.com^
+||stats.cartoonnetwork.com^
+||stats.meijer.com^
 ||stt.dell.com^
 ||stt.thelott.com^
 ||sw88.abc.com^
