@@ -501,6 +501,7 @@
 ||d2s3jobksjhz0k.cloudfront.net^
 ||d2smkzgma0rv8j.cloudfront.net^
 ||d2sn8s8iqbh3qs.cloudfront.net^
+||d2svzekmizsuow.cloudfront.net^
 ||d2tx1swzkx01qw.cloudfront.net^
 ||d2uibrot6s15bb.cloudfront.net^
 ||d2uj3e69il3obf.cloudfront.net^
@@ -988,6 +989,7 @@
 ||mobile-collector.newrelic.com.cdn.cloudflare.net^
 ||mod.imageg.net.edgesuite.net^
 ||moloco.map.fastly.net^
+||mon-www-1418269222.ca-central-1.elb.amazonaws.com^
 ||mos.futureplc.com.s3.eu-west-2.amazonaws.com^
 ||mparticle.map.fastly.net^
 ||msg-media-ds.valueclick.akadns.net^
@@ -1408,6 +1410,7 @@
 ||uffa-alb-354740383.us-east-1.elb.amazonaws.com^
 ||um.indexww.com.akadns.net^
 ||universe.send.microad.jp.akadns.net^
+||us2-events-2011833292.us-west-2.elb.amazonaws.com^
 ||use1-dev-public-ingress-lb-1949663291.us-east-1.elb.amazonaws.com^
 ||use2-failover.delivery-prod-sas.akadns.net^
 ||us-east-1.bsapi.akadns.net^
