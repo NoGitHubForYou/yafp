@@ -902,6 +902,7 @@
 ||ip1.cdn.stickyadstv.com.akadns.net^
 ||ip46.go-mpulse.net.edgekey.net^
 ||ip46s2.go-mpulse.net.edgekey.net^
+||ipv4-wildcard.applovin.com.edgekey.net^
 ||ipv6.6sc.co.edgekey.net^
 ||isobar.adform.net-v2.edgekey.net^
 ||isobar.adform.net-v3.edgekey.net^
@@ -1000,7 +1001,9 @@
 ||mon-www-1418269222.ca-central-1.elb.amazonaws.com^
 ||mos.futureplc.com.s3.eu-west-2.amazonaws.com^
 ||mparticle.map.fastly.net^
+||ms4.applovin.com.edgekey.net^
 ||msg-media-ds.valueclick.akadns.net^
+||ms-perf-usa.applovin.com.akadns.net^
 ||m-spotx-tv.search-gtm.spotxchange.com.akadns.net^
 ||n5a2s6k3.stackpathcdn.com^
 ||n5j7w3a9.stackpathcdn.com^
@@ -1139,6 +1142,7 @@
 ||restful-vpc-156481057.ap-northeast-1.elb.amazonaws.com^
 ||reuters-no-wall-492142523.us-east-1.elb.amazonaws.com^
 ||routing.newrelic.com.cdn.cloudflare.net^
+||r-perf.applovin.com.akadns.net^
 ||rss.buysellads.com.cdn.cloudflare.net^
 ||rtbnotify-lb1-39b33783cff4da45.elb.us-east-1.amazonaws.com^
 ||rtr-5-split-vohnu.rtr.innovid.com.akadns.net^
