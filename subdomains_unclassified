@@ -19,9 +19,6 @@ ads.pinterest.com
 ads.reddit.com
 ads-script.b-cdn.net
 ads.servenobid.com
-ads-static.conde.digital
-ads.thesun.co.uk
-ads.tiktok.com
 ads.trafficircles.com
 ads.twitter.com
 ads.yahoo.com
@@ -32,7 +29,6 @@ advertising.yandex.ru
 advice-ads.s3.amazonaws.com
 ad.vidverto.io
 ad.wsod.com
-airlytics-web.airlock.twcmobile.weather.com
 ak1s.abmr.net
 a.labadena.com
 aly.jst.ai
@@ -94,7 +90,6 @@ cdn.claspo.io
 cdn.creative-bars1.com
 cdn.crowdtwist.com
 cdn.listrakbi.com
-cdn.mediavoice.com
 cdn.onesignal.com
 cdn.petametrics.com
 cdn.pricespider.com
@@ -109,7 +104,6 @@ cmp.axelspringer.com
 cmp.cdn.thesun.co.uk
 cmp.dmgmediaprivacy.co.uk
 cmpv2.computerworld.com
-cms.analytics.yahoo.com
 code.adsales.snidigital.com
 code.etracker.com
 code.visitor-track.com
@@ -144,8 +138,6 @@ edgecast-vod.yimg.com
 engine.spotscenered.info
 eu.webhook.logs.insight.rapid7.com
 firebaselogging.googleapis.com
-friendship.nbc.co
-friendship.nbc.com
 geoip.businessinsider.com
 geolocation.onetrust.com
 geo.query.yahoo.com
@@ -175,12 +167,8 @@ l.betrad.com
 links.services.disqus.com
 live.chat2show.com
 load.instinctiveads.com
-log.go.com
-log.go.comlog.go.com
 log.olark.com
 log.pinterest.com
-logsink.devices.nest.com
-logs.netflix.com
 mail-ads.google.com
 markhor.organicfruitapps.com
 match.rundsp.com
@@ -216,11 +204,8 @@ pixel.admedia.com
 pixel.condenastdigital.com
 pixel.facebook.com
 pixel.staticworld.net
-pixel.wp.com
 pixiedust.buzzfeed.com
-plugin.mediavoice.com
 p.pa6ka.com
-prebid-server.newsbreak.com
 p.rfihub.com
 privacy-policy.truste.com
 prod-a.applovin.com
@@ -241,12 +226,9 @@ script.claspo.io
 sdk.iad-01.braze.com
 sdk.iad-08.braze.com
 s.dpmsrv.com
-securemetrics.apple.com
 service.idsync.analytics.yahoo.com
 sifi-cdn-ads-live-prd-us-east4-1bf72d84.storage.googleapis.com
 s.media-imdb.com
-smetrics.att.com
-smetrics.att.com.edgekey.net
 smetrics.belk.com
 sourcepointcmp.bloomberg.com
 sp.analytics.yahoo.com
