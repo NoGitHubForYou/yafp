@@ -1,4 +1,10 @@
+adservice.google.co.in
+adservice.google.com.sg
+adservice.google.com.ua
 als-svc.nytimes.com
+analytics.tiktok.com
+analytics.tiktok.com.bytewlb.akadns.net
+analytics.twitter.com
 ats-eks.us-east-1.dcs-online-targeting-prd.aws.oath.cloud
 beacon-cdn-custom.walmart.com.akadns.net
 beacon-cdn.walmart.com.akadns.net
@@ -7,12 +13,14 @@ b.stats.paypal.com
 crta.dailymail.co.uk
 crta.dailymail.co.uk.edgekey.net
 ct.pinterest.com
+e35058.api11.akamaiedge.net
 incoming.telemetry.mozilla.org
 kraken-measurements.s3-external-1.amazonaws.com
 prod.ups-ats.aolp-ds-prd.aws.oath.cloud
 prod.ups-ats.us-east-1.aolp-ds-prd.aws.oath.cloud
 region-selector.nyti.nytimes.com
 stats.glb.paypal.com
+s.twitter.com
 supportmetrics.apple.com
 supportmetrics.v.aaplimg.com
 telemetry-incoming.r53-2.services.mozilla.com
