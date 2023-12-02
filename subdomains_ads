@@ -12,6 +12,7 @@ ads.tiktok.com.edgekey.net
 ads.twitter.com
 airlytics-web.airlock.twcmobile.weather.com
 als-svc.nytimes.com
+analytics.crimewatchtech.com
 analytics.global.sky.com
 analytics.global.sky.com-secure.edgekey.net
 analytics.nike.com
@@ -40,6 +41,8 @@ e35058.a.akamaiedge.net
 e35058.api11.akamaiedge.net
 e7441.g.akamaiedge.net
 feet-prod.segds.engsvc.go.com
+firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
 friendship.nbc.co
 friendship.nbc.co.edgesuite.net
 friendship.nbc.com
