@@ -162,6 +162,7 @@
 ||api-portal-970959005.us-east-1.elb.amazonaws.com^
 ||api-v2-1765014843.us-east-1.elb.amazonaws.com^
 ||api-v2-stage-2063380750.us-east-1.elb.amazonaws.com^
+||apks.kidoz.net.s3.amazonaws.com^
 ||apmebf.valueclick.akadns.net^
 ||app-matheranalytics-1375563249.us-east-1.elb.amazonaws.com^
 ||app-prodb-ext-726392634.us-east-1.elb.amazonaws.com^
@@ -182,11 +183,15 @@
 ||audio-audio-1g68sxcqrn4sh-1156192415.us-east-1.elb.amazonaws.com^
 ||auth.smaato.com.cdn.cloudflare.net^
 ||awseb-e-5-awsebloa-1xu7fimu68nvi-616368110.us-west-1.elb.amazonaws.com^
+||awseb-e-8-awsebloa-13c8mmuxx2q4y-660026334.us-east-1.elb.amazonaws.com^
+||awseb-e-b-awsebloa-ny6cucga405f-1484544062.us-east-1.elb.amazonaws.com^
 ||awseb-e-d-awsebloa-1q9gfvb78iwop-185021664.ap-southeast-1.elb.amazonaws.com^
 ||awseb-e-d-awsebloa-2dr29juoyt6w-259884457.us-east-1.elb.amazonaws.com^
 ||awseb-e-g-awsebloa-nt5wfb9wmmft-1397624435.eu-west-1.elb.amazonaws.com^
 ||awseb-e-i-awsebloa-5f3ihwsl49wt-1616338667.us-east-1.elb.amazonaws.com^
 ||awseb-e-j-awsebloa-selr3lqovnip-1973772784.us-west-1.elb.amazonaws.com^
+||awseb-e-m-awsebloa-1fmpn1u5wwyxh-971633881.us-east-1.elb.amazonaws.com^
+||awseb-e-w-awsebloa-yb03rwr2bu8s-96513077.us-east-1.elb.amazonaws.com^
 ||awseb-e-x-awsebloa-1sf1chzdooxd0-1383210727.eu-central-1.elb.amazonaws.com^
 ||awseb-e-z-awsebloa-1mbq86uie4r6w-1822632908.ap-southeast-2.elb.amazonaws.com^
 ||awsonly.fwgtm.akadns.net^
@@ -332,6 +337,7 @@
 ||d1456xird6f9uu.cloudfront.net^
 ||d14uw5o7448kb.cloudfront.net^
 ||d15nk9mbqrh2bi.cloudfront.net^
+||d15w12lc48jl4o.cloudfront.net^
 ||d170x2jow61i45.cloudfront.net^
 ||d174uthr9x774s.cloudfront.net^
 ||d17nf3nfoe9omd.cloudfront.net^
@@ -456,6 +462,7 @@
 ||d27y97dou1con.cloudfront.net^
 ||d285sbdaklqe28.cloudfront.net^
 ||d287aujl6qhagy.cloudfront.net^
+||d28lrrc51wcjkk.cloudfront.net^
 ||d28w7vx3eknbuh.cloudfront.net^
 ||d298pan36gpfa4.cloudfront.net^
 ||d29j1zfqo6w3v8.cloudfront.net^
@@ -553,6 +560,7 @@
 ||d37cmi5gjlnkut.cloudfront.net^
 ||d383bmkmaf5xav.cloudfront.net^
 ||d38b5b84w9979x.cloudfront.net^
+||d38fqz815zkcjd.cloudfront.net^
 ||d39g5w4856mo45.cloudfront.net^
 ||d39likbcoi37t3.cloudfront.net^
 ||d39sl85ymq1xll.cloudfront.net^
@@ -975,6 +983,7 @@
 ||k9u9e9a9.stackpathcdn.com^
 ||kargo-1307546489.us-east-1.elb.amazonaws.com^
 ||keycloak-alb-1168259660.us-east-1.elb.amazonaws.com^
+||kidozbidderserver-alb-env-1955970217.us-east-1.elb.amazonaws.com^
 ||klaviyo-app.map.fastly.net^
 ||klaviyo-onsite.map.fastly.net^
 ||l4.aaxads.com.edgesuite.net^
@@ -1524,6 +1533,7 @@
 ||winner-lb2-f918b4c7bf5ab40c.elb.us-east-1.amazonaws.com^
 ||wl.adservrs.com.edgekey.net^
 ||wp-emea.zetapgmt.akadns.net^
+||wp-investors-228394319.us-east-1.elb.amazonaws.com^
 ||wpix.media6degrees.com.cdn.cloudflare.net^
 ||wpn.hs.llnwd.net^
 ||wp-onsite.netmng.com.edgesuite.net^
