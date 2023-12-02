@@ -349,6 +349,7 @@
 ||d1dl3tz261tmfk.cloudfront.net^
 ||d1e12xh4hrv4zb.cloudfront.net^
 ||d1e5j4ofx1iaz6.cloudfront.net^
+||d1ejyt9lk5eisg.cloudfront.net^
 ||d1ekdn256kz7p5.cloudfront.net^
 ||d1eoruhlhwkegr.cloudfront.net^
 ||d1fcniqaq6r754.cloudfront.net^
@@ -383,6 +384,7 @@
 ||d1n8wuu8qta5yd.cloudfront.net^
 ||d1nhb8qxtoqfuw.cloudfront.net^
 ||d1ov3e4o00zg3w.cloudfront.net^
+||d1p8wauaa7285.cloudfront.net^
 ||d1pgebxfamnksw.cloudfront.net^
 ||d1poadcgl9wjdz.cloudfront.net^
 ||d1ppx124ti3vqf.cloudfront.net^
@@ -492,6 +494,7 @@
 ||d2ot4sg9hf4kq5.cloudfront.net^
 ||d2p92aehtxk1ll.cloudfront.net^
 ||d2pbcviywxotf2.cloudfront.net^
+||d2pi6uqm86x3o8.cloudfront.net^
 ||d2pjrvfrfokvdz.cloudfront.net^
 ||d2q0jy082j0tjq.cloudfront.net^
 ||d2q6my7i6lbg44.cloudfront.net^
@@ -1088,6 +1091,7 @@
 ||prod.cedexis-dsa-us.map.fastly.net^
 ||prod.cedexis.map.fastly.net^
 ||prod.cedexis-ssl.map.fastly.net^
+||prod-east-lb-public-alb-1451748627.us-east-1.elb.amazonaws.com^
 ||prod-elb-ace-1350792799.us-west-2.elb.amazonaws.com^
 ||prod-eu-pixel-collector-1376320029.eu-west-1.elb.amazonaws.com^
 ||prod-eu-west-event-listener-171609203.eu-west-1.elb.amazonaws.com^
