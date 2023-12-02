@@ -131,6 +131,7 @@ edgecast-vod.yimg.com
 engine.spotscenered.info
 eu.webhook.logs.insight.rapid7.com
 firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
 geoip.businessinsider.com
 geolocation.onetrust.com
 geo.query.yahoo.com
@@ -169,7 +170,6 @@ mc.webvisor.org
 mc.yandex.com
 mc.yandex.ru
 media-akam.licdn.com
-meter-svc.nytimes.com
 metrics.api.drift.com
 metrics.brightcove.com
 metrics.icloud.com
@@ -181,7 +181,6 @@ my.toruftuiov.com
 nr.static.mmcdn.com
 onevideosync.uplynk.com
 open.oneplus.net
-opus.analytics.yahoo.com
 outreach.abetterinternet.org
 pagead2.googleadservices.com
 pagead-googlehosted.l.google.com
@@ -222,8 +221,6 @@ sourcepointcmp.bloomberg.com
 s.pemsrv.com
 sp-spiegel-de.spiegel.de
 src.ebay-us.com
-srtb.msn.com
-ss.nbc.co
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
 static.adziff.com

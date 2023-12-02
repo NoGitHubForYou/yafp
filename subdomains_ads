@@ -1,4 +1,5 @@
 a1802.dscq.akamai.net
+a1895.dscq.akamai.net
 a1928.dscq.akamai.net
 adservice.google.ca
 adservice.google.co.in
@@ -30,6 +31,7 @@ b.stats.paypal.com
 cms.analytics.yahoo.com
 crta.dailymail.co.uk
 crta.dailymail.co.uk.edgekey.net
+cs964.wpc.9465e.mucdn.net
 ct.pinterest.com
 d1yitvct7k255o.cloudfront.net
 e11697.x.akamaiedge.net
@@ -50,6 +52,8 @@ logs.dradis.netflix.com
 logsink.devices.nest.com
 logs.netflix.com
 logs.us-east-1.internal.dradis.netflix.com
+meter-svc.nytimes.com
+opus.analytics.yahoo.com
 pixel.condenastdigital.com
 pixel.wp.com
 prebid-server.newsbreak.com
@@ -62,6 +66,9 @@ smetrics.att.com
 smetrics.att.com.edgekey.net
 sp.analytics.yahoo.com
 spdc-global.pbp.gysm.yahoodns.net
+srtb.msn.com
+ss.nbc.co
+ss.nbc.co.edgesuite.net
 stats.glb.paypal.com
 stats.pandora.com
 stats.wp.com
