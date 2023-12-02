@@ -195,6 +195,7 @@
 ||az-lb-1103138254.eu-west-1.elb.amazonaws.com^
 ||az-lb-in-vpc-26716720.eu-west-1.elb.amazonaws.com^
 ||b2.6sc.co.edgekey.net^
+||b5b41197-recs-emailopenpro-0763-1843153627.us-east-1.elb.amazonaws.com^
 ||b5k5s6n5.stackpathcdn.com^
 ||b6m4d4d7.stackpathcdn.com^
 ||b6.scorecardresearch.com.edgesuite.net^
@@ -280,6 +281,7 @@
 ||cm-free-domains-902548940.us-east-1.elb.amazonaws.com^
 ||cmm-production-1008859212.us-west-2.elb.amazonaws.com^
 ||cn-wildcard.comscore.com.edgekey.net^
+||collection-gateway-1724304096.us-east-1.elb.amazonaws.com^
 ||collector-proxy-alb-2010247109.sa-east-1.elb.amazonaws.com^
 ||collins-44300711.us-east-1.elb.amazonaws.com^
 ||comparison-prod-web-passthrough-1399613537.us-west-2.elb.amazonaws.com^
@@ -342,6 +344,7 @@
 ||d19t9xn5yfcnlo.cloudfront.net^
 ||d19wk6gyisay58.cloudfront.net^
 ||d1aadi0iayibtc.cloudfront.net^
+||d1ag7vk9vrd6jj.cloudfront.net^
 ||d1ati0yg9uo8b5.cloudfront.net^
 ||d1b75w2mao1sq0.cloudfront.net^
 ||d1da88slxvkrhp.cloudfront.net^
@@ -383,6 +386,7 @@
 ||d1mvs2habp2vua.cloudfront.net^
 ||d1n8wuu8qta5yd.cloudfront.net^
 ||d1nhb8qxtoqfuw.cloudfront.net^
+||d1nna0ec3lv40t.cloudfront.net^
 ||d1ov3e4o00zg3w.cloudfront.net^
 ||d1p8wauaa7285.cloudfront.net^
 ||d1pgebxfamnksw.cloudfront.net^
@@ -424,12 +428,14 @@
 ||d20p7hff68prsp.cloudfront.net^
 ||d20qwf0wrdtevy.cloudfront.net^
 ||d20skogma9ce2j.cloudfront.net^
+||d20xber28ml8k0.cloudfront.net^
 ||d212yvd97xvizw.cloudfront.net^
 ||d217yge8ytzcwv.cloudfront.net^
 ||d21l4kc9ihrcyu.cloudfront.net^
 ||d21mkepqjgalzl.cloudfront.net^
 ||d21pa0lcqhsctl.cloudfront.net^
 ||d21uvahtjf3w7c.cloudfront.net^
+||d22rbd88eku03j.cloudfront.net^
 ||d233cc3q2mc0y4.cloudfront.net^
 ||d23a0sz4auw5br.cloudfront.net^
 ||d2460o7cs6knto.cloudfront.net^
@@ -442,6 +448,7 @@
 ||d26p066pn2w0s0.cloudfront.net^
 ||d279u996ipxqqp.cloudfront.net^
 ||d27famiu3y9ngt.cloudfront.net^
+||d27wcd7gqrsljd.cloudfront.net^
 ||d27xkn7w57nun8.cloudfront.net^
 ||d27y97dou1con.cloudfront.net^
 ||d285sbdaklqe28.cloudfront.net^
@@ -511,6 +518,7 @@
 ||d2uibrot6s15bb.cloudfront.net^
 ||d2uj3e69il3obf.cloudfront.net^
 ||d2ustmygnzitjf.cloudfront.net^
+||d2uyh1ncuzni57.cloudfront.net^
 ||d2uz525cq88lpm.cloudfront.net^
 ||d2w45tum40fmzp.cloudfront.net^
 ||d2wcz8sc48ztgm.cloudfront.net^
@@ -549,6 +557,7 @@
 ||d3bjm3r87z96b4.cloudfront.net^
 ||d3bzrtq158r1rm.cloudfront.net^
 ||d3c3cq33003psk.cloudfront.net^
+||d3cc549jn59dn4.cloudfront.net^
 ||d3chd11h16n59r.cloudfront.net^
 ||d3cht5btq2kl2s.cloudfront.net^
 ||d3e0hjd2pm45pt.cloudfront.net^
@@ -658,6 +667,7 @@
 ||developers.smaato.com.cdn.cloudflare.net^
 ||df2nkacjvuj0w.cloudfront.net^
 ||dflikvabz4suu.cloudfront.net^
+||dfu3puplrqnfs.cloudfront.net^
 ||dgfkt87h1ld65.cloudfront.net^
 ||dh44k9u3fdqv5.cloudfront.net^
 ||dh7rz28utkoys.cloudfront.net^
@@ -748,6 +758,8 @@
 ||dy63rpldevx8.cloudfront.net^
 ||dy99hkmh0czq4.cloudfront.net^
 ||dyaii7mp8x1mq.cloudfront.net^
+||dy-cdn.edgesuite.net^
+||dy-sso-2132859552.us-east-1.elb.amazonaws.com^
 ||dz2dq9ddez9lk.cloudfront.net^
 ||dz5c6zvba32v.cloudfront.net^
 ||dzecopnenyxcz.cloudfront.net^
@@ -932,6 +944,8 @@
 ||k3y5u3r9.stackpathcdn.com^
 ||k5i5g6v8.stackpathcdn.com^
 ||k6p8v9d2.stackpathcdn.com^
+||k8s-cdp-cdpingre-865e680f99-2037810472.us-east-1.elb.amazonaws.com^
+||k8s-cdp-emailope-b9b2ab176f-2129620570.us-east-1.elb.amazonaws.com^
 ||k8s-csproduc-haproxyi-0e1d9fe012-adc2513760ff97de.elb.us-east-2.amazonaws.com^
 ||k8s-csproduc-haproxyi-77b1e1ba21-05eb21ea7279ac13.elb.us-east-2.amazonaws.com^
 ||k8s-csproduc-haproxyi-af3b4f3ec8-fbb28c4f5108dd53.elb.us-east-2.amazonaws.com^
@@ -945,7 +959,10 @@
 ||k8s-ingest-ingressa-ea051e9302-806246896.us-east-2.elb.amazonaws.com^
 ||k8s-kong-kongprox-156b6f54a5-1812105515.us-east-1.elb.amazonaws.com^
 ||k8s-kong-kongprox-69bdbb2e52-1381047055.us-east-1.elb.amazonaws.com^
+||k8s-messagin-emailope-fe293afa73-425890082.us-east-1.elb.amazonaws.com^
+||k8s-messagin-emailope-fe293afa73-885587367.eu-central-1.elb.amazonaws.com^
 ||k8s-pixeljsserver-11f4426a0b-1200762302.eu-west-1.elb.amazonaws.com^
+||k8s-ssapi-webserve-731f9f2dc5-119547543.us-east-1.elb.amazonaws.com^
 ||k8s-wsmonit-wsmonit-aa6b831e8a-1450866515.eu-west-1.elb.amazonaws.com^
 ||k9u9e9a9.stackpathcdn.com^
 ||kargo-1307546489.us-east-1.elb.amazonaws.com^
@@ -1086,6 +1103,7 @@
 ||prod7-tomcat-281788907.us-west-2.elb.amazonaws.com^
 ||prod.appnexus.map.fastly.net^
 ||prod-c4-wb-alb-948251088.us-east-1.elb.amazonaws.com^
+||prod.cdn.dynamicyield.com.cdn.cloudflare.net^
 ||prod.cedexis-dsa-ap.map.fastly.net^
 ||prod.cedexis-dsa-eu.map.fastly.net^
 ||prod.cedexis-dsa-us.map.fastly.net^
@@ -1468,8 +1486,11 @@
 ||web-misc-454199433.us-east-1.elb.amazonaws.com^
 ||web-prod-1506973851.us-east-1.elb.amazonaws.com^
 ||web-push-api-staging.urbanairship.com.edgekey.net^
+||web-px-765241474.us-east-1.elb.amazonaws.com^
+||webserve-563400233.eu-central-1.elb.amazonaws.com^
 ||webserver-app-vpc-565915827.us-east-1.elb.amazonaws.com^
 ||webserver-showcase-1093104232.us-east-1.elb.amazonaws.com^
+||webserve-use-1126473860.us-east-1.elb.amazonaws.com^
 ||welisten.crowdstrike.com.edgekey.net^
 ||wildcard46.akstat.io.edgekey.net^
 ||wildcard46.go-mpulse.net.edgekey.net^

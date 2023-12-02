@@ -20,7 +20,6 @@ ads.reddit.com
 ads-script.b-cdn.net
 ads.servenobid.com
 ads.trafficircles.com
-ads.twitter.com
 ads.yahoo.com
 ads.yap.yahoo.com
 ads.youtube.com
@@ -34,15 +33,11 @@ a.labadena.com
 aly.jst.ai
 analytics.analytics-egain.com
 analytics.cs.zohohost.com.au
-analytics.global.sky.com
-analytics.global.sky.com-secure.edgekey.net
 analytics.google.com
 analytics.htmedia.in
 analytics.justuno.com
 analytics.kaltura.com
 analytics.mobile.walmart.com
-analytics.nike.com
-analytics.nike.com.edgekey.net
 analytics.pinterest.com
 analytics.pointdrive.linkedin.com
 analytics.query.yahoo.com
@@ -62,7 +57,6 @@ api.rudderlabs.com
 app-analytics-v2.snapchat.com
 aps.hearstnp.com
 a.remarketstats.com
-assets.applovin.com
 auction.unityads.unity3d.com
 a.vfghd.com
 a.wishabi.com
@@ -70,7 +64,6 @@ a.zdbb.net
 bat.bing.com
 beacon-cdn.walmart.com.akadns.net
 beacons5.gvt3.com
-beacon.samsclub.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacon.shutterfly.com
@@ -205,16 +198,13 @@ pixiedust.buzzfeed.com
 p.pa6ka.com
 p.rfihub.com
 privacy-policy.truste.com
-prod-a.applovin.com
 p.tvpixel.com
 pt.wmptctl.com
 publisher-config.unityads.unity3d.com
 px4.ads.linkedin.com
 px.ads.linkedin.com
-px.dynamicyield.com
 recs.richrelevance.com
 referrer.disqus.com
-res1.applovin.com
 rum-static.pingdom.net
 s3t3d2y8.afcdn.net
 sa.bbc.co.uk
@@ -228,7 +218,6 @@ sifi-cdn-ads-live-prd-us-east4-1bf72d84.storage.googleapis.com
 s.media-imdb.com
 smetrics.belk.com
 sourcepointcmp.bloomberg.com
-sp.analytics.yahoo.com
 s.pemsrv.com
 sp-spiegel-de.spiegel.de
 src.ebay-us.com
@@ -240,10 +229,8 @@ static.adziff.com
 statse.webtrendslive.com
 stats.kaltura.com
 stats.olark.com
-stats.pandora.com
 stats.pusher.com
 stats.wp.com
-st.dynamicyield.com
 stun.voiparound.com
 surveygizmobeacon.s3.amazonaws.com
 sync.adkernel.com
@@ -252,11 +239,9 @@ tag.crsspxl.com
 tagman.britishairways.com
 tag.wknd.ai
 targeting.api.drift.com
-tealium.cbsnews.com
 telemetry.bluedot.io
 tempest.services.disqus.com
 t.pswec.com
-track.dictionary.com
 tracker.adreadyclick.com
 tracker.nbcuas.com
 tracker.samplicio.us
