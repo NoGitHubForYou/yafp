@@ -60,6 +60,10 @@ friendship.nbc.co
 friendship.nbc.co.edgesuite.net
 friendship.nbc.com
 friendship.nbc.com.edgesuite.net
+geo-atsv2.media.g03.yahoodns.net
+geo.query.yahoo.com
+geo.yahoo.com
+glitter.services.disqus.com
 incoming.telemetry.mozilla.org
 infinityid.condenastdigital.com
 kraken-measurements.s3-external-1.amazonaws.com
@@ -78,6 +82,7 @@ prebid-server.newsbreak.com
 prod.ups-ats.aolp-ds-prd.aws.oath.cloud
 prod.ups-ats.us-east-1.aolp-ds-prd.aws.oath.cloud
 rc.yahoo.com
+referrer.disqus.com
 region-selector.nyti.nytimes.com
 securemetrics.apple.com
 securemetrics.v.aaplimg.com
@@ -99,6 +104,7 @@ tealium.cbsnews.com
 telemetry-incoming.r53-2.services.mozilla.com
 track.dictionary.com
 trk.pinterest.com
+udc-ats.media.g03.yahoodns.net
 ups.analytics.yahoo.com
 vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
 zion-telemetry.api.cnn.io
