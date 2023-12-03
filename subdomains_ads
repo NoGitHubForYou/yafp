@@ -20,8 +20,6 @@ al-smetrics.vizio.com
 als-svc.nytimes.com
 analytics.crimewatchtech.com
 analytics.global.sky.com
-analytics.global.sky.com-secure.edgekey.net
-analytics.mobile-cdn.walmart.com.akadns.net
 analytics.mobile.walmart.com
 analytics.nike.com
 analytics.nike.com.edgekey.net
@@ -29,18 +27,11 @@ analytics.pinterest.com
 analytics.pnc.com
 analytics-secure.dollargeneral.com
 analytics.tiktok.com
-analytics.tiktok.com.bytewlb.akadns.net
 analytics.twitter.com
 analytics.yahoo.com
 ans.mlb.com
-apiproxy-logging-12d05dc9fc6c934d.elb.us-east-1.amazonaws.com
 as.welt.de
 ats-eks.us-east-1.dcs-online-targeting-prd.aws.oath.cloud
-beacon-all.walmart.com.akadns.net
-beacon-cdn-custom.walmart.com.akadns.net
-beacon-cdn.samsclub.com.akadns.net
-beacon-cdn.walmart.com.akadns.net
-beacon-mobile.walmart.com.akadns.net
 beacons5.gvt3.com
 beacons6.gvt2.com
 beacon.samsclub.com
@@ -63,8 +54,6 @@ crta.dailymail.co.uk.edgekey.net
 cs964.wpc.9465e.mucdn.net
 ct.pinterest.com
 customer.homedepot.com
-d1yitvct7k255o.cloudfront.net
-d2zlej6zr4gsfp.cloudfront.net
 dcheqjwqu4.mlb.com
 dd.giantfoodstores.com
 dd.nytimes.com
@@ -97,7 +86,6 @@ go.skyward.com
 hub.firestonecompleteautocare.com
 incoming.telemetry.mozilla.org
 infinityid.condenastdigital.com
-kraken-measurements.s3-external-1.amazonaws.com
 log.gns.go.com
 log.go.com
 logs.dradis.netflix.com
@@ -366,7 +354,6 @@ ttmetrics.jcpenney.com
 t.wepay.com
 udc-ats.media.g03.yahoodns.net
 ups.analytics.yahoo.com
-vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
 w88.abc.com
 w88.espn.com
 w88.freeform.com
