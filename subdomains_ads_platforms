@@ -63,6 +63,7 @@
 ||a9646996646bb4331a4a36bd95d3c534-791061059.us-east-1.elb.amazonaws.com^
 ||a97c5e4b1935e11eabd640eed5723abf-1602615753.us-east-1.elb.amazonaws.com^
 ||a.ad.gt.cdn.cloudflare.net^
+||a.applvn.com.cdn.cloudflare.net^
 ||aaxn-api-155847493.us-west-1.elb.amazonaws.com^
 ||aaxn-api-2-1582800763.us-west-1.elb.amazonaws.com^
 ||aaxn-api-3-182629659.us-west-1.elb.amazonaws.com^
@@ -509,6 +510,7 @@
 ||d2l3x1ydi04yhf.cloudfront.net^
 ||d2l6m8wzchx7x8.cloudfront.net^
 ||d2lml4lq5yh749.cloudfront.net^
+||d2m1qxggnnaaex.cloudfront.net^
 ||d2m9m7c8.stackpathcdn.com^
 ||d2mpjwdz88rruc.cloudfront.net^
 ||d2nfit0zukoyc1.cloudfront.net^
@@ -530,6 +532,7 @@
 ||d2s3jobksjhz0k.cloudfront.net^
 ||d2smkzgma0rv8j.cloudfront.net^
 ||d2sn8s8iqbh3qs.cloudfront.net^
+||d2snn9kh306gfp.cloudfront.net^
 ||d2svzekmizsuow.cloudfront.net^
 ||d2tx1swzkx01qw.cloudfront.net^
 ||d2uibrot6s15bb.cloudfront.net^
@@ -665,6 +668,7 @@
 ||d9qmzzwbyjyzd.cloudfront.net^
 ||da5un8sdba0y8.cloudfront.net^
 ||da8c1gz5mp5sx.cloudfront.net^
+||d.applvn.com.cdn.cloudflare.net^
 ||data-polish-1205964316.us-west-2.elb.amazonaws.com^
 ||dataswitch-ads-75496044.us-east-1.elb.amazonaws.com^
 ||db8vkb90r22gi.cloudfront.net^
@@ -688,6 +692,7 @@
 ||dev.assets.purch.com.edgekey.net^
 ||developers.smaato.com.cdn.cloudflare.net^
 ||df2nkacjvuj0w.cloudfront.net^
+||df5vhwi0vevty.cloudfront.net^
 ||dflikvabz4suu.cloudfront.net^
 ||dfu3puplrqnfs.cloudfront.net^
 ||dgfkt87h1ld65.cloudfront.net^
@@ -714,6 +719,7 @@
 ||dmp-ha.adform.com.akadns.net^
 ||dms_us-sjc.zetapgmt.akadns.net^
 ||dms.zetapgmt.akadns.net^
+||dmxm50vndzgg.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnypbh0vdio1h.cloudfront.net^
 ||do3npi5v21j22.cloudfront.net^
@@ -1050,6 +1056,7 @@
 ||mos.futureplc.com.s3.eu-west-2.amazonaws.com^
 ||mparticle.map.fastly.net^
 ||ms4.applovin.com.edgekey.net^
+||ms.applvn.com.cdn.cloudflare.net^
 ||msg-media-ds.valueclick.akadns.net^
 ||ms-perf-usa.applovin.com.akadns.net^
 ||m-spotx-tv.search-gtm.spotxchange.com.akadns.net^
@@ -1194,6 +1201,7 @@
 ||routing.newrelic.com.cdn.cloudflare.net^
 ||r-perf.applovin.com.akadns.net^
 ||rss.buysellads.com.cdn.cloudflare.net^
+||rt.applvn.com.cdn.cloudflare.net^
 ||rtbnotify-lb1-39b33783cff4da45.elb.us-east-1.amazonaws.com^
 ||rtr-5-split-vohnu.rtr.innovid.com.akadns.net^
 ||rtr-6-split-vohnus.rtr.innovid.com.akadns.net^
@@ -1508,6 +1516,7 @@
 ||vsdk.sascdn.com.edgekey.net^
 ||w3f8e7g7.stackpathcdn.com^
 ||wallet-api.urbanairship.com-v1.edgekey.net^
+||w.applvn.com.cdn.cloudflare.net^
 ||waudist.tynt.com.cdn.cloudflare.net^
 ||web-1817063591.us-east-1.elb.amazonaws.com^
 ||web-2099239636.us-east-1.elb.amazonaws.com^
