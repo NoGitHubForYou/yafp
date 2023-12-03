@@ -397,6 +397,7 @@
 ||d1m3nxej8m16wy.cloudfront.net^
 ||d1mq79efvnbgc9.cloudfront.net^
 ||d1mvs2habp2vua.cloudfront.net^
+||d1mw1llhamcs3v.cloudfront.net^
 ||d1n8wuu8qta5yd.cloudfront.net^
 ||d1nhb8qxtoqfuw.cloudfront.net^
 ||d1nna0ec3lv40t.cloudfront.net^
@@ -535,6 +536,7 @@
 ||d2snn9kh306gfp.cloudfront.net^
 ||d2svzekmizsuow.cloudfront.net^
 ||d2tx1swzkx01qw.cloudfront.net^
+||d2u831770g7irc.cloudfront.net^
 ||d2uibrot6s15bb.cloudfront.net^
 ||d2uj3e69il3obf.cloudfront.net^
 ||d2ustmygnzitjf.cloudfront.net^
@@ -672,6 +674,7 @@
 ||data-polish-1205964316.us-west-2.elb.amazonaws.com^
 ||dataswitch-ads-75496044.us-east-1.elb.amazonaws.com^
 ||db8vkb90r22gi.cloudfront.net^
+||db94vqyzp3k0h.cloudfront.net^
 ||dc-212380-894750812.us-east-1.elb.amazonaws.com^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcbvq5zvi7r2l.cloudfront.net^
@@ -737,6 +740,7 @@
 ||dqwg2ujvjfn63.cloudfront.net^
 ||dqzwk7q6muri9.cloudfront.net^
 ||drb0k2mg1d7gh.cloudfront.net^
+||drkiwfkbizrvp.cloudfront.net^
 ||ds4q9odtg7z52.cloudfront.net^
 ||ds9oh7t355owx.cloudfront.net^
 ||dsa.dianomi.com.edgesuite.net^
@@ -1144,6 +1148,7 @@
 ||prod.cedexis-dsa-us.map.fastly.net^
 ||prod.cedexis.map.fastly.net^
 ||prod.cedexis-ssl.map.fastly.net^
+||prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com^
 ||prod-east-lb-public-alb-1451748627.us-east-1.elb.amazonaws.com^
 ||prod-elb-ace-1350792799.us-west-2.elb.amazonaws.com^
 ||prod-eu-pixel-collector-1376320029.eu-west-1.elb.amazonaws.com^
@@ -1406,6 +1411,7 @@
 ||stats-elasticloadb-u7krkypswcm0-1371571406.us-east-1.elb.amazonaws.com^
 ||stats.mediaforge.com.edgekey.net^
 ||statsnew-elasticlo-1g6n6wu402moi-1961872309.us-east-1.elb.amazonaws.com^
+||st-dem-collector-elb-185231579.eu-west-1.elb.amazonaws.com^
 ||s.tribalfusion.com-v1.edgekey.net^
 ||studio-tool-redirect-189172956.us-west-1.elb.amazonaws.com^
 ||subs-alb-prod-us-east-1-1756796197.us-east-1.elb.amazonaws.com^
