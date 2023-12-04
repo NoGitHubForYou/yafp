@@ -34,6 +34,7 @@
 1911673044.rsc.cdn77.org
 1939967541.rsc.cdn77.org
 1978293129.rsc.cdn77.org
+2427596.group46.sites.hubspot.net
 33xchange-1576862511.us-east-1.elb.amazonaws.com
 4179f5a0-appsnapshotpublic-b427-665589860.eu-west-1.elb.amazonaws.com
 41dbe4f9bef9a57f645b4cf9c612cc0e-1782614974.eu-west-2.elb.amazonaws.com
@@ -63,6 +64,8 @@ a6f5eb42e82ce11e7b85c02e1049d57b-1837314962.us-west-1.elb.amazonaws.com
 a71d019afbd014e8eaf9a795613cc0da-581509523.us-east-1.elb.amazonaws.com
 a7ac6ee0b747c417791d6307001c45c9-1483660166.us-west-2.elb.amazonaws.com
 a7e7f6k6.stackpathcdn.com
+a81072ba37e0f4a86b3de7aa499dd2ff-215352822.us-east-1.elb.amazonaws.com
+a948da4540fe74cc89355496a71dcb56-28df03723a4c80ab.elb.us-west-2.amazonaws.com
 a9646996646bb4331a4a36bd95d3c534-791061059.us-east-1.elb.amazonaws.com
 a97c5e4b1935e11eabd640eed5723abf-1602615753.us-east-1.elb.amazonaws.com
 a.ad.gt.cdn.cloudflare.net
@@ -75,6 +78,7 @@ aaxn-api-5-908561641.us-west-1.elb.amazonaws.com
 ab0ca643b0ac44542a819e8db72c76f5-976260111.us-east-1.elb.amazonaws.com
 ab55d6d981d3643928ac0cb3847f3848-1432757414.eu-west-1.elb.amazonaws.com
 ac2409ed291e04841b424223a3ec4991-926974307.us-west-2.elb.amazonaws.com
+acfa3d3199cc14876a038ff8508dcc48-1102969776.us-west-2.elb.amazonaws.com
 action-beta.media6degrees.com.cdn.cloudflare.net
 action.media6degrees.com.cdn.cloudflare.net
 activationedge-activation-1418371804.us-west-1.elb.amazonaws.com
@@ -82,6 +86,7 @@ activationedge-activation-212358690.eu-west-1.elb.amazonaws.com
 activationedge-activation-478000846.us-west-2.elb.amazonaws.com
 activationedge-fabrick-1124129460.us-west-2.elb.amazonaws.com
 ad2.turn.com.cdn.cloudflare.net
+ad5f94679d1e1426488c369de29aff18-1584634277.eu-west-1.elb.amazonaws.com
 adbooking-elb-1570500624.ap-southeast-1.elb.amazonaws.com
 add6d7fc696c04a4895f435ab44df8a2-1447330841.us-east-1.elb.amazonaws.com
 adfarm-global.mplx.akadns.net
@@ -255,6 +260,7 @@ carbonads-2037067561.us-east-1.elb.amazonaws.com
 catchpoint.map.fastly.net
 cd.connatix.com.cdn.cloudflare.net
 cdm.connatix.com.cdn.cloudflare.net
+cdn2.pricespider.com.edgekey.net
 cdn-3.convertexperiments.com.edgekey.net
 cdn-4.convertexperiments.com.edgekey.net
 cdn.adpushup.com.cdn.cloudflare.net
@@ -804,6 +810,7 @@ dualstack.hawker-lb2-9bf5084fd65bd971.elb.us-east-1.amazonaws.com
 dualstack.iad-a-adserver-thd-856326511.us-east-1.elb.amazonaws.com
 dualstack.id-service-prod-109839710.us-west-2.elb.amazonaws.com
 dualstack.media.net.edgekey.net
+dualstack.prowl-app-alb-136978621.us-east-1.elb.amazonaws.com
 dualstack.tls13.taboola.map.fastly.net
 dualstack.ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com
 dubqvfyptwjri.cloudfront.net
@@ -871,6 +878,7 @@ elb-aws-ie-rockabox-scoota-2052063539.eu-west-1.elb.amazonaws.com
 elb-content-edge-prod-11920284.us-west-1.elb.amazonaws.com
 elb-universal-login-907072980.us-east-1.elb.amazonaws.com
 elb-universal-login-np-608344171.us-east-1.elb.amazonaws.com
+embeddedcloud.pricespider.com-1.edgekey.net
 engageforchange.deloitte.com.edgekey.net
 engine.monetate.net.edgekey.net
 esd.taboola.com.edgesuite.net
@@ -1221,6 +1229,7 @@ q5k7g5j5.stackpathcdn.com
 q6u9q8s3.stackpathcdn.com
 q7p8d5f5.stackpathcdn.com
 q7x3f6q2.stackpathcdn.com
+q9b3z6s7.stackpathcdn.com
 qa.assets.purch.com.edgekey.net
 r2a6u7r4.stackpathcdn.com
 r2u4d3c4.stackpathcdn.com
