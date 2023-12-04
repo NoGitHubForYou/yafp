@@ -61,6 +61,8 @@ crta.dailymail.co.uk.edgekey.net
 cs964.wpc.9465e.mucdn.net
 ct.pinterest.com
 customer.homedepot.com
+dap.digitalgov.gov
+dc.ads.linkedin.com
 dcheqjwqu4.mlb.com
 dd.giantfoodstores.com
 dd.nytimes.com
@@ -93,6 +95,7 @@ go.skyward.com
 hub.firestonecompleteautocare.com
 incoming.telemetry.mozilla.org
 infinityid.condenastdigital.com
+links.services.disqus.com
 log.gns.go.com
 log.go.com
 log.pinterest.com
@@ -102,6 +105,7 @@ logs.netflix.com
 logs.us-east-1.internal.dradis.netflix.com
 marketing.cyberdefensemediagroup.com
 mbox.wegmans.com
+me.apple-dns.net
 meter-svc.nytimes.com
 metric.hilton.com
 metric.olivegarden.com
@@ -112,8 +116,10 @@ metrics.aarp.org
 metrics.aem.playstation.com
 metrics.ancestry.com
 metrics.apple.com
+metrics.belk.com
 metrics.bet.com
 metrics.bostonglobe.com
+metrics.brightcove.com
 metrics.capitalone.com
 metrics.cars.com
 metrics.citizensbank.com
@@ -133,6 +139,7 @@ metrics.ford.com
 metrics.foxnews.com
 metrics.global.nba.com
 metrics.hrblock.com
+metrics.icloud.com
 metrics.ionos.com
 metrics.ionos.co.uk
 metrics.jcpenney.com
@@ -142,6 +149,7 @@ metrics.marriott.com
 metrics.marshalls.com
 metrics.mathworks.com
 metrics.mcdonalds.com
+metrics.mzstatic.com
 metrics.napaonline.com
 metrics.nascar.com
 metrics.nba.com
@@ -186,6 +194,7 @@ oms.norton.com
 opus.analytics.yahoo.com
 osimg.nbcuni.com
 os.shutterfly.com
+outreach.abetterinternet.org
 partners.team-cymru.com
 pdmsmrt.cadillac.com
 pdmsmrt.chevrolet.com
@@ -196,6 +205,9 @@ prebid-server.newsbreak.com
 prod.ups-ats.aolp-ds-prd.aws.oath.cloud
 prod.ups-ats.us-east-1.aolp-ds-prd.aws.oath.cloud
 psqsjg.coach.com
+px4.ads.linkedin.com
+px4-ads-linkedin-com.ipv4.l-0005.l-msedge.net
+px.ads.linkedin.com
 rc.yahoo.com
 referrer.disqus.com
 region-selector.nyti.nytimes.com
@@ -212,6 +224,7 @@ sanalytics.verizonwireless.com
 sawap.equifax.com
 securemetrics.apple.com
 securemetrics.v.aaplimg.com
+service.idsync.analytics.yahoo.com
 sjourney.aarp.org
 sm.dell.com
 smetric.hilton.com
@@ -222,6 +235,7 @@ smetrics.aem.playstation.com
 smetrics.ancestry.com
 smetrics.att.com
 smetrics.att.com.edgekey.net
+smetrics.belk.com
 smetrics.bestbuy.com
 smetrics.bet.com
 smetrics.bostonglobe.com
@@ -355,6 +369,7 @@ target.walgreens.com
 target.xfinity.com
 tealium.cbsnews.com
 telemetry-incoming.r53-2.services.mozilla.com
+tempest.services.disqus.com
 tmck.milestonegoldcard.com
 tmetrix.my.chick-fil-a.com
 track.dictionary.com

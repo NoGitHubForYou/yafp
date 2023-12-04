@@ -101,11 +101,8 @@ crashlyticsreports-pa.googleapis.com
 create.leadid.com
 d1lxhc4jvstzrp.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
-d1z2jf7jlzjs58.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
-dap.digitalgov.gov
 data.flurry.com
-dc.ads.linkedin.com
 device.maxmind.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
@@ -137,7 +134,6 @@ js.hscollectedforms.net
 js.wpadmngr.com
 lab.analyticspodium.com
 l.betrad.com
-links.services.disqus.com
 live.chat2show.com
 log.olark.com
 mail-ads.google.com
@@ -147,9 +143,6 @@ mc.yandex.com
 mc.yandex.ru
 media-akam.licdn.com
 metrics.api.drift.com
-metrics.brightcove.com
-metrics.icloud.com
-metrics.mzstatic.com
 mon-va.byteoversea.com
 mpp.vindicosuite.com
 mybbc-analytics.files.bbci.co.uk
@@ -157,7 +150,6 @@ my.toruftuiov.com
 nr.static.mmcdn.com
 onevideosync.uplynk.com
 open.oneplus.net
-outreach.abetterinternet.org
 pagead2.googleadservices.com
 pagead-googlehosted.l.google.com
 pagesense-collect.zoho.com
@@ -172,8 +164,6 @@ p.rfihub.com
 privacy-policy.truste.com
 pt.wmptctl.com
 publisher-config.unityads.unity3d.com
-px4.ads.linkedin.com
-px.ads.linkedin.com
 recs.richrelevance.com
 s3t3d2y8.afcdn.net
 sa.bbc.co.uk
@@ -181,10 +171,8 @@ script.claspo.io
 sdk.iad-01.braze.com
 sdk.iad-08.braze.com
 s.dpmsrv.com
-service.idsync.analytics.yahoo.com
 sifi-cdn-ads-live-prd-us-east4-1bf72d84.storage.googleapis.com
 s.media-imdb.com
-smetrics.belk.com
 s.pemsrv.com
 sp-spiegel-de.spiegel.de
 src.ebay-us.com
@@ -198,7 +186,6 @@ s.zkcdn.net
 tag.crsspxl.com
 targeting.api.drift.com
 telemetry.bluedot.io
-tempest.services.disqus.com
 t.pswec.com
 tracker.adreadyclick.com
 tracker.nbcuas.com
