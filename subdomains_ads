@@ -35,6 +35,8 @@ analytics.yahoo.com
 ans.mlb.com
 as.welt.de
 ats-eks.us-east-1.dcs-online-targeting-prd.aws.oath.cloud
+bat.bing.com
+bat-bing-com.a-0001.a-msedge.net
 beacons5.gvt3.com
 beacons6.gvt2.com
 beacon.samsclub.com
@@ -44,6 +46,8 @@ beacons-handoff.gcp.gvt2.com
 beacon.shutterfly.com
 beacon.walmart.com
 b.stats.paypal.com
+c.bing.com
+c-bing-com.a-0001.a-msedge.net
 cfa.fidelity.com
 cms.analytics.yahoo.com
 content22.citibankonline.com
@@ -91,6 +95,7 @@ incoming.telemetry.mozilla.org
 infinityid.condenastdigital.com
 log.gns.go.com
 log.go.com
+log.pinterest.com
 logs.dradis.netflix.com
 logsink.devices.nest.com
 logs.netflix.com
