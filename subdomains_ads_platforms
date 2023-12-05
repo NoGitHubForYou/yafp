@@ -191,6 +191,7 @@ assets.undertone.com.s3-website-us-east-1.amazonaws.com
 a-stage1-dsa.tribalfusion.com-v1.edgekey.net
 async-admantxfrontend-2017124834.eu-west-1.elb.amazonaws.com
 async-admantxfrontend-410625468.us-east-1.elb.amazonaws.com
+atanar.edgesuite.net
 ati-host.edgekey.net
 atlasdmt.vo.llnwd.net
 a.tribalfusion.com-v1.edgekey.net
@@ -340,7 +341,9 @@ creatives-backend-prod-public-589339833.us-east-1.elb.amazonaws.com
 creatives.cdn-prod-sas.akadns.net
 creatives.sascdn.com.edgesuite.net
 csync-global.smartadserver.com.edgesuite.net
+ct-cnv-collect-it-prod-300781462.eu-west-3.elb.amazonaws.com
 ctm-web-689730851.us-east-1.elb.amazonaws.com
+ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com
 customdomains.buysellads.com.cdn.cloudflare.net
 custom-feeds-prod-lb-506253763.us-east-1.elb.amazonaws.com
 custom-feeds-prod-lb-730702726.us-east-1.elb.amazonaws.com
@@ -702,7 +705,10 @@ da5un8sdba0y8.cloudfront.net
 da8c1gz5mp5sx.cloudfront.net
 daonuc20smvzw.cloudfront.net
 d.applvn.com.cdn.cloudflare.net
+data-collect-it-prod-453971397.eu-west-3.elb.amazonaws.com
+data-cookie-sync-it-prod-1278656394.eu-west-3.elb.amazonaws.com
 data-polish-1205964316.us-west-2.elb.amazonaws.com
+dataqualif2.commandersact.com.cdn.cloudflare.net
 dataswitch-ads-75496044.us-east-1.elb.amazonaws.com
 db8vkb90r22gi.cloudfront.net
 db94vqyzp3k0h.cloudfront.net
@@ -1169,6 +1175,7 @@ pixel-967319188.us-east-1.elb.amazonaws.com
 pixel-event-tracking-v3-1858495376.us-east-1.elb.amazonaws.com
 pixel-lb-1846267185.us-east-1.elb.amazonaws.com
 pl-api-1-1128718925.us-east-1.elb.amazonaws.com
+platform.commandersact.com.cdn.cloudflare.net
 pl-client-1-1331367029.us-east-1.elb.amazonaws.com
 pl-origin-1-8355355.us-east-1.elb.amazonaws.com
 pl-www-1-563586494.us-east-1.elb.amazonaws.com
@@ -1556,6 +1563,7 @@ v2f5i9a4.stackpathcdn.com
 v3z4u6u2.stackpathcdn.com
 v4q8x2v6.stackpathcdn.com
 v6m6t2y3.stackpathcdn.com
+v6qualif.commandersact.com.cdn.cloudflare.net
 v9s5n3m7.stackpathcdn.com
 vast2-dual-1021831800.us-west-2.elb.amazonaws.com
 vast2-dual-124287323.us-east-1.elb.amazonaws.com
@@ -1623,6 +1631,7 @@ wp-us.zetapgmt.akadns.net
 www.33across.com.cdn.cloudflare.net
 www.about.akadns.net
 www.buysellads.com.cdn.cloudflare.net
+www.commandersact.com.cdn.cloudflare.net
 www.crazyegg.com.cdn.cloudflare.net
 www.evergage.com.cdn.cloudflare.net
 www.feedback.redhat.com.edgekey.net
