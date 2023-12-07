@@ -351,6 +351,7 @@ cafemediacam-elb-970864842.us-east-1.elb.amazonaws.com
 capi.connatix.com.cdn.cloudflare.net
 carbonads-2037067561.us-east-1.elb.amazonaws.com
 catchpoint.map.fastly.net
+ccbidder-bidder-proxy-cdsyk72-1656222012.us-east-1.elb.amazonaws.com
 cd.connatix.com.cdn.cloudflare.net
 cdm.connatix.com.cdn.cloudflare.net
 cdn2.pricespider.com.edgekey.net
@@ -446,6 +447,8 @@ cftestscript.crazyegg.com.cdn.cloudflare.net
 cf-track.pubmatic.com.cdn.cloudflare.net
 cf.vast.doubleverify.com.cdn.cloudflare.net
 cks.connatix.com.cdn.cloudflare.net
+clickcertainpartners2-1030473487.us-east-1.elb.amazonaws.com
+clickcertainpartners-871056339.us-east-1.elb.amazonaws.com
 clicks.eu-notifications.newrelic.com.cdn.cloudflare.net
 clicks.notifications.newrelic.com.cdn.cloudflare.net
 clients-moat-prod-1961205157.us-east-1.elb.amazonaws.com
@@ -1331,6 +1334,7 @@ nan-us.zetapgmt.akadns.net
 nan.zetapgmt.akadns.net
 nbcu-mir.fwgtm.akadns.net
 neptune-1892118423.us-east-1.elb.amazonaws.com
+newwildcard.evidon.com.edgekey.net
 nglb-eu.adformnet.akadns.net
 nlb-external-ingress-nginx-746b60fbb24e747f.elb.us-east-1.amazonaws.com
 npttech.s3-website-us-east-1.amazonaws.com
@@ -1340,6 +1344,7 @@ ondemand2ui.webtrends.com.edgekey.net
 ondemandui.webtrends.com.edgekey.net
 ondemand.webtrends.com.edgekey.net
 on.ninthdecimal.com.cdn.cloudflare.net
+optout-1937190711.us-east-1.elb.amazonaws.com
 optout.ib.mookie1.com.edgekey.net
 optout-lb-324461017.us-east-1.elb.amazonaws.com
 opx-vpc-winners-1768717977.us-east-1.elb.amazonaws.com
@@ -1396,6 +1401,7 @@ prd-adplatform-config-oregon-202747448.us-west-2.elb.amazonaws.com
 prd-aladdin-popin-internet-80943482.ap-northeast-1.elb.amazonaws.com
 prd-brain-128408118.us-east-1.elb.amazonaws.com
 prd-survey-weblink-renderer-28044737.us-east-1.elb.amazonaws.com
+privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 privacy-policy.teads.com.edgekey.net
 privacy.purch.com.edgekey.net
 prod1-vpc-elb-427665268.us-east-1.elb.amazonaws.com
@@ -1477,6 +1483,7 @@ r-perf.applovin.com.akadns.net
 rss.buysellads.com.cdn.cloudflare.net
 rt.applvn.com.cdn.cloudflare.net
 rtbnotify-lb1-39b33783cff4da45.elb.us-east-1.amazonaws.com
+rtbportalclickcertain-1638474545.us-east-1.elb.amazonaws.com
 rtr-5-split-vohnu.rtr.innovid.com.akadns.net
 rtr-6-split-vohnus.rtr.innovid.com.akadns.net
 rules.comscore.akadns.net
