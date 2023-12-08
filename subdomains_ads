@@ -128,6 +128,7 @@ metrics1.experian.com
 metrics.aarp.org
 metrics.aem.playstation.com
 metrics.ancestry.com
+metrics.api.drift.com
 metrics.apple.com
 metrics.belk.com
 metrics.bet.com
@@ -376,6 +377,7 @@ target.cisco.com
 target.dodge.com
 target.fiatusa.com
 target.hsn.com
+targeting.api.drift.com
 target.jeep.com
 target.microsoft.com
 target.qvc.com
