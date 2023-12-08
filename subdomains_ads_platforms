@@ -388,6 +388,7 @@ cdn.doubleverify.com.edgesuite.net
 cdn-dsa.clicktale.net.edgekey.net
 cdn-eu.pagesense.io.edgesuite.net
 cdn.flashtalking.com.edgekey.net
+cdn.global.giraff.io.cdn.cloudflare.net
 cdn-ihb.33across.com.cdn.cloudflare.net
 cdn-ima.33across.com.cdn.cloudflare.net
 cdn.indexww.com.cdn.cloudflare.net
@@ -406,6 +407,7 @@ cdn-sic.33across.com.cdn.cloudflare.net
 cdn.staticstuff.net.cdn.cloudflare.net
 cdn.taboola.map.fastly.net
 cdn-tc.33across.com.cdn.cloudflare.net
+cdn.th.giraff.io.cdn.cloudflare.net
 cdn.viglink.com.cdn.cloudflare.net
 cdn-wlb.doubleverify.com.akadns.net
 cds.a3x5d3t4.hwcdn.net
@@ -477,6 +479,9 @@ cm.everesttech.net.akadns.net
 cm-free-domains-902548940.us-east-1.elb.amazonaws.com
 cmm-production-1008859212.us-west-2.elb.amazonaws.com
 cn-wildcard.comscore.com.edgekey.net
+code-eu.giraff.io.cdn.cloudflare.net
+code.giraff.io.cdn.cloudflare.net
+code.th.giraff.io.cdn.cloudflare.net
 collection-gateway-1724304096.us-east-1.elb.amazonaws.com
 collector-proxy-alb-2010247109.sa-east-1.elb.amazonaws.com
 collectors-1434573969.us-east-1.elb.amazonaws.com
@@ -1213,6 +1218,7 @@ img.flashtalking.com.edgekey.net
 img-global.mplx.akadns.net
 img.mplx.akadns.net
 img.purch.com.edgekey.net
+img.th.giraff.io.cdn.cloudflare.net
 impu.send.microad.jp.akadns.net
 ingress.auth.mparticle.com.cdn.cloudflare.net
 insights.sars.gov.za.edgekey.net
