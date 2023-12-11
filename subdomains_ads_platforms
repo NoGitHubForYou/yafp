@@ -423,6 +423,7 @@ cdn.viglink.com.cdn.cloudflare.net
 cdn-wlb.doubleverify.com.akadns.net
 cds.a3x5d3t4.hwcdn.net
 cds.a4r6c3m2.hwcdn.net
+cds.b3g8v4w6.hwcdn.net
 cds.b6n2i5m6.hwcdn.net
 cds.c3j3u5r7.hwcdn.net
 cds.c7z8z9u2.hwcdn.net
@@ -447,13 +448,16 @@ cds.m8h8s5r8.hwcdn.net
 cds.n3g2w2j5.hwcdn.net
 cds.n9a5n5i8.hwcdn.net
 cds.n9r7i3k6.hwcdn.net
+cds.p3e3r8f2.hwcdn.net
 cds.p4z7w3z8.hwcdn.net
 cds.p9x4f5m7.hwcdn.net
 cds.q2y8e7i4.hwcdn.net
+cds.q4y8s2k3.hwcdn.net
 cds.q5t5k9k4.hwcdn.net
 cds.q7x2a8v5.hwcdn.net
 cds.s9c6k9s7.hwcdn.net
 cds.t2f6m6j5.hwcdn.net
+cds.t4x6h8u2.hwcdn.net
 cds.u3e7i5k3.hwcdn.net
 cds.u5v5v9g2.hwcdn.net
 cds.u9c2z2x5.hwcdn.net
@@ -547,6 +551,7 @@ d10lpsik1i8c69.cloudfront.net
 d10po6xnxyi54x.cloudfront.net
 d10zpqiiet5gz0.cloudfront.net
 d11d9azirjf8qx.cloudfront.net
+d11iqv7gybc2be.cloudfront.net
 d12877d0tun27f.cloudfront.net
 d12bsi324hla21.cloudfront.net
 d12cig14800kcp.cloudfront.net
@@ -750,6 +755,7 @@ d2m0mixjpgf46l.cloudfront.net
 d2m1qxggnnaaex.cloudfront.net
 d2m9m7c8.stackpathcdn.com
 d2mpjwdz88rruc.cloudfront.net
+d2n8ih7naru1ql.cloudfront.net
 d2nfit0zukoyc1.cloudfront.net
 d2nn67gg9d92z5.cloudfront.net
 d2ntch3kfgsg6n.cloudfront.net
@@ -1752,6 +1758,7 @@ signin-geo-split.signin.innovid.com.akadns.net
 s-lb.tribalfusion.com.akadns.net
 slingshot-elb-apsing-1107081693.ap-southeast-1.elb.amazonaws.com
 sni-wildcard.en25.com.edgekey.net
+snow-ress-xj2x5feh0ej2-ahavujgjad.elasticbeanstalk.com
 sonobi-go-xcp-917332420.us-east-1.elb.amazonaws.com
 sp-20190719143659740100000009-882373465.us-east-1.elb.amazonaws.com
 sp-20190806072658941500000005-2017189556.us-east-1.elb.amazonaws.com
