@@ -45,6 +45,7 @@
 2119791.group41.sites.hubspot.net
 21374645.group45.sites.hubspot.net
 215600.group0.sites.hubspot.net
+2255849.group49.sites.hubspot.net
 2278447.group47.sites.hubspot.net
 2323601.group1.sites.hubspot.net
 233537g37.secure0141.hubspot.net
@@ -458,6 +459,7 @@ cds.q5t5k9k4.hwcdn.net
 cds.q7x2a8v5.hwcdn.net
 cds.s9c6k9s7.hwcdn.net
 cds.t2f6m6j5.hwcdn.net
+cds.t3r4t2y9.hwcdn.net
 cds.t4x6h8u2.hwcdn.net
 cds.u3e7i5k3.hwcdn.net
 cds.u5v5v9g2.hwcdn.net
@@ -1277,6 +1279,7 @@ internal-gitlab-prod-private-elb-2087164590.us-west-2.elb.amazonaws.com
 internal-internal-api-194437552.us-east-1.elb.amazonaws.com
 internal-metrics-ui-lb-407875061.us-west-2.elb.amazonaws.com
 internal-nv-p-elb-gitlab-internal-497847812.us-east-1.elb.amazonaws.com
+inventory.vidazoo.com.cdn.cloudflare.net
 investors.taboola.com.edgekey.net
 io-api-1173461934.us-east-1.elb.amazonaws.com
 io-api-1372271983.us-west-1.elb.amazonaws.com
@@ -1820,9 +1823,11 @@ static-adccdn.edgekey.net
 static.a-mo.net.cdn.cloudflare.net
 static.etracker.com.edgekey.net
 static.getclicky.com.cdn.cloudflare.net
+static-img.vidazoo.com.cdn.cloudflare.net
 static.innovid.com.edgekey.net
 static-pixel.media6degrees.com.cdn.cloudflare.net
 statics.admanmedia.com.edgekey.net
+static.vidazoo.com.cdn.cloudflare.net
 stats-5-split-vohnu.s.innovid.com.akadns.net
 stats-analytics-722939043.eu-west-1.elb.amazonaws.com
 stats.buysellads.com.cdn.cloudflare.net
