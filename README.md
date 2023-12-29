@@ -9,8 +9,6 @@ ADS / TRACKING:
 
 * [domains_ads](https://raw.githubusercontent.com/NoGitHubForYou/yafp/main/domains_ads)
 
-* [subdomains_ads_cnames](https://raw.githubusercontent.com/NoGitHubForYou/yafp/main/subdomains_ads_cnames)
-
 MALWARE / PHISHING:
 
 * [domains_malicious](https://raw.githubusercontent.com/NoGitHubForYou/yafp/main/domains_malicious)
