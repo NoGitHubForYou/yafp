@@ -1518,6 +1518,8 @@ prod4-tomcat-206651373.us-west-2.elb.amazonaws.com
 prod5-tomcat-1226219876.us-east-2.elb.amazonaws.com
 prod6-tomcat-1798224778.us-east-1.elb.amazonaws.com
 prod7-tomcat-281788907.us-west-2.elb.amazonaws.com
+prod-alb-live-publisher-api-84100441.us-east-1.elb.amazonaws.com
+prod-alb-realtimeingester-ext-400166103.us-east-1.elb.amazonaws.com
 prod.appnexus.map.fastly.net
 prod-c4-wb-alb-948251088.us-east-1.elb.amazonaws.com
 prod.cdn.dynamicyield.com.cdn.cloudflare.net
@@ -2074,6 +2076,7 @@ y7p2h9q4.stackpathcdn.com
 y8b8e6c4.ssl.hwcdn.net
 y9y7w5v9.stackpathcdn.com
 yax-vpc-winners-1479653445.us-east-1.elb.amazonaws.com
+yext-pixel-993640623.us-east-1.elb.amazonaws.com
 yieldlab.net.edgekey.net
 z3u5h9r6.stackpathcdn.com
 z3u7k7h3.stackpathcdn.com
