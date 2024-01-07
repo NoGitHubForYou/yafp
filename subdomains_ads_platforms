@@ -1136,6 +1136,7 @@ ec2-52-24-138-147.us-west-2.compute.amazonaws.com
 ec2-52-28-189-158.eu-central-1.compute.amazonaws.com
 ec2-52-29-249-121.eu-central-1.compute.amazonaws.com
 ec2-52-37-240-243.us-west-2.compute.amazonaws.com
+ec2-52-51-1-250.eu-west-1.compute.amazonaws.com
 ec2-52-57-156-253.eu-central-1.compute.amazonaws.com
 ec2-52-57-194-118.eu-central-1.compute.amazonaws.com
 ec2-52-58-77-152.eu-central-1.compute.amazonaws.com
@@ -1181,7 +1182,13 @@ ennio-cdn.a-mo.net.cdn.cloudflare.net
 esd.taboola.com.edgesuite.net
 euads-801691419.eu-west-1.elb.amazonaws.com
 eu-int-58531295.eu-west-1.elb.amazonaws.com
+eum-blue-saas.instana.io.cdn.cloudflare.net
+eum-eu-west-1.instana.io.cdn.cloudflare.net
+eum.instana.io.cdn.cloudflare.net
+eum-orange-saas.instana.io.cdn.cloudflare.net
 eum-proxy-alb-2113176457.ap-southeast-2.elb.amazonaws.com
+eum-red-saas.instana.io.cdn.cloudflare.net
+eum-us-west-2.instana.io.cdn.cloudflare.net
 eu-west-skimresources-1219884972.eu-west-1.elb.amazonaws.com
 event-collector-1567896821.us-west-2.elb.amazonaws.com
 events-collector.spot.im.edgesuite.net
