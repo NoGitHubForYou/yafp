@@ -178,8 +178,13 @@ admin-workflow-p-104982182.us-east-1.elb.amazonaws.com
 adn-mvdsptest-singapore-692410758.ap-southeast-1.elb.amazonaws.com
 adotube-lb-http1-1295093845.us-east-1.elb.amazonaws.com
 adpopcorn-non-reward-elb-117818874.ap-northeast-1.elb.amazonaws.com
+adpopcorn-offerwall-dev.p78pceppyh.ap-northeast-1.elasticbeanstalk.com
 adpopcorn-reward-dev-elb-656351622.ap-northeast-1.elb.amazonaws.com
 adpopcorn-reward-elb-575706846.ap-northeast-1.elb.amazonaws.com
+adpopcornsspbidding-live.ap-northeast-1.elasticbeanstalk.com
+adpopcornsspcollector-py-live.ap-northeast-1.elasticbeanstalk.com
+adpopcornssptracker-live.ap-northeast-1.elasticbeanstalk.com
+adpopcornssp-web-request-live.2bsn2jhfke.ap-northeast-1.elasticbeanstalk.com
 adroll.map.fastly.net
 ads-1202260457.us-east-1.elb.amazonaws.com
 ads.amxrtb.com.cdn.cloudflare.net
@@ -221,6 +226,7 @@ ag-5-split.ag.innovid.com.akadns.net
 ag-6-split.ag.innovid.com.akadns.net
 a.jsrdn.com.edgesuite.net
 ak1.img.e-planning.net.edgesuite.net
+ak1-static.edgesuite.net
 akacdn.doubleverify.com.edgekey.net
 ak.ad.turn.com.edgekey.net
 akamaisecure7.qualtrics.com.edgekey.net
@@ -301,6 +307,7 @@ app-matheranalytics-1375563249.us-east-1.elb.amazonaws.com
 app-prodb-ext-726392634.us-east-1.elb.amazonaws.com
 appsflyer-ep.edgesuite.net
 apps.smartadserver.com.edgesuite.net
+ap-ssp-be-app-bidder-docker-live.cwzuvsmgzg.ap-northeast-1.elasticbeanstalk.com
 asa.tynt.com.edgesuite.net
 as.casalemedia.com.cdn.cloudflare.net
 as-sec.casalemedia.com.cdn.cloudflare.net
@@ -1273,6 +1280,7 @@ i9y2e2x2.stackpathcdn.com
 iad02-api-hubapi-com-722212115.us-east-1.elb.amazonaws.com
 iad02-zorse-hubapi-com-1490633521.us-east-1.elb.amazonaws.com
 id.hadron.ad.gt.cdn.cloudflare.net
+id-matching-api-prod-3.r8nv2etxed.us-west-2.elasticbeanstalk.com
 idpix.media6degrees.com.cdn.cloudflare.net
 ids.ad.gt.cdn.cloudflare.net
 idsync.reson8.com.cdn.cloudflare.net
@@ -1937,6 +1945,7 @@ traffic-loadbalancer-762371046.us-west-2.elb.amazonaws.com
 translator.a-mo.net.cdn.cloudflare.net
 trc-prod.taboolasyndication.com.edgesuite.net
 trc.taboola.map.fastly.net
+tw-bidder-track-live-adserver.ap-northeast-1.elasticbeanstalk.com
 twinred-standalone-862215681.eu-central-1.elb.amazonaws.com
 u2z3m9c7.stackpathcdn.com
 u4rp3snugf-445422930.us-east-1.elb.amazonaws.com
