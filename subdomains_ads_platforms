@@ -35,6 +35,7 @@
 1777298657.rsc.cdn77.org
 1792641740.rsc.cdn77.org
 1829388590.rsc.cdn77.org
+1852405956.rsc.cdn77.org
 1871091069.rsc.cdn77.org
 1901730265.rsc.cdn77.org
 1911673044.rsc.cdn77.org
@@ -364,6 +365,7 @@ beacons2-dual-365142722.us-west-2.elb.amazonaws.com
 beacon-sin1.rubiconproject.net.akadns.net
 beta-coreapi-load-balancer-418338695.ap-southeast-2.elb.amazonaws.com
 beta-isdc-vision-logger-1164801345.us-west-1.elb.amazonaws.com
+betsson-betsafe.bannerflow.com.cdn.cloudflare.net
 bfp.eu.ipv4.dotomi.weighted.com.akadns.net
 bfp.global.dual.dotomi.weighted.com.akadns.net
 bfp.global.ipv4.dotomi.weighted.com.akadns.net
@@ -387,6 +389,7 @@ cache.addthiscdn.com.cdn.cloudflare.net
 cache.dtmpub.com.edgesuite.net
 cacp-tpsc-hlb.dvgtm.akadns.net
 cafemediacam-elb-970864842.us-east-1.elb.amazonaws.com
+campaign.bannerflow.com.cdn.cloudflare.net
 capi.connatix.com.cdn.cloudflare.net
 carbonads-2037067561.us-east-1.elb.amazonaws.com
 catchpoint.map.fastly.net
@@ -533,6 +536,8 @@ connextra.com.edgekey.net
 console.compass.microad.jp.edgekey.net
 contextweb.map.fastly.net
 conversantmedia.com.edgesuite.net
+convert-cdn.elasticbeanstalk.com
+convert-logs.eu-central-1.elasticbeanstalk.com
 convex.global.dual.dotomi.weighted.com.akadns.net
 convex.global.ipv4.dotomi.weighted.com.akadns.net
 convex-migration-four.dotomi.weighted.com.akadns.net
@@ -869,6 +874,7 @@ d3chd11h16n59r.cloudfront.net
 d3cht5btq2kl2s.cloudfront.net
 d3e0hjd2pm45pt.cloudfront.net
 d3ee72wo2od7bv.cloudfront.net
+d3ei96rmstalic.cloudfront.net
 d3ekz4worpbxb3.cloudfront.net
 d3et5t2dl4ys2y.cloudfront.net
 d3eylmgb44onwg.cloudfront.net
@@ -997,6 +1003,7 @@ detgh1asa1dg4.cloudfront.net
 detrlmfafe7oz.cloudfront.net
 dev.assets.purch.com.edgekey.net
 developers.smaato.com.cdn.cloudflare.net
+de-widgets.crowdtwist.com.edgekey.net
 df2nkacjvuj0w.cloudfront.net
 df5vhwi0vevty.cloudfront.net
 dflikvabz4suu.cloudfront.net
@@ -1028,6 +1035,8 @@ dmg-elb-1408313399.us-east-1.elb.amazonaws.com
 dmlb.adform.com.akadns.net
 dmlmz4f5ohih9.cloudfront.net
 dmp-ha.adform.com.akadns.net
+dm-script-be.us-east-1.elasticbeanstalk.com
+dmstats-env.vvgk75ekc3.us-east-1.elasticbeanstalk.com
 dms_us-sjc.zetapgmt.akadns.net
 dms.zetapgmt.akadns.net
 dmxm50vndzgg.cloudfront.net
@@ -1163,6 +1172,7 @@ edc.adform.net-v3.edgekey.net
 eg5003aprl-803121386.us-west-2.elb.amazonaws.com
 eg5018pr2l-451743247.us-west-2.elb.amazonaws.com
 eg5023bprl2-932068852.us-west-2.elb.amazonaws.com
+eg5029dprl-552264576.us-west-2.elb.amazonaws.com
 eg5072aprl-1477530459.us-west-2.elb.amazonaws.com
 eg5104dprl-1705053195.us-west-2.elb.amazonaws.com
 eg5109aprl-683062047.us-west-2.elb.amazonaws.com
@@ -1174,6 +1184,8 @@ eg5114bde2l-1871350950.us-west-2.elb.amazonaws.com
 eg5114ede1l-1432060681.us-west-2.elb.amazonaws.com
 eg5114edel-936080213.us-west-2.elb.amazonaws.com
 eg6025fprl2-1921168900.eu-west-1.elb.amazonaws.com
+eg6028eprl-135808086.eu-west-1.elb.amazonaws.com
+eg6042aprl-1438117519.eu-west-1.elb.amazonaws.com
 eg6061fde1l-1278084306.eu-west-1.elb.amazonaws.com
 eg6062fpr2l-840968987.eu-west-1.elb.amazonaws.com
 elb-aws-fr-zagreb-1702672115.eu-central-1.elb.amazonaws.com
@@ -1231,6 +1243,7 @@ g2z5x7p4.stackpathcdn.com
 g3v.fwgtm.akadns.net
 g5v2e8v8.stackpathcdn.com
 g7p5h6w7.stackpathcdn.com
+gauges-smoke.us-west-1.elasticbeanstalk.com
 gdpr-tcf.agkn.com.cdn.cloudflare.net
 geo.bsapi.akadns.net
 geo.cnbc.com-v1.edgekey.net
@@ -1304,6 +1317,7 @@ intentsify-production-lb-17344489.us-west-1.elb.amazonaws.com
 internal-a959f75b3ecae481680fffa7af30156c-1953416018.us-east-1.elb.amazonaws.com
 internal-gitlab-prod-private-elb-2087164590.us-west-2.elb.amazonaws.com
 internal-internal-api-194437552.us-east-1.elb.amazonaws.com
+internal-metrics-listener-prod.us-west-2.elasticbeanstalk.com
 internal-metrics-ui-lb-407875061.us-west-2.elb.amazonaws.com
 internal-nv-p-elb-gitlab-internal-497847812.us-east-1.elb.amazonaws.com
 inventory.vidazoo.com.cdn.cloudflare.net
@@ -1423,6 +1437,7 @@ metric-api.newrelic.com.cdn.cloudflare.net
 mia.rubiconproject.net.akadns.net
 miexperiencia.progreso.com.edgekey.net
 mirror.cj.edgekey.net
+mix-collect-it-prod-481773621.eu-west-3.elb.amazonaws.com
 ml-lb-1-1721395666.us-east-1.elb.amazonaws.com
 m-node-alb-ssl-1112-466259459.us-east-1.elb.amazonaws.com
 m-node-alb-ssl-1212-1333103636.us-west-1.elb.amazonaws.com
@@ -1508,6 +1523,7 @@ pg-prebid-vip-32146290.us-east-1.elb.amazonaws.com
 pg-prebid-vip-807077948.ap-northeast-1.elb.amazonaws.com
 pings-498863246.us-east-1.elb.amazonaws.com
 pingsec-web-1619754548.eu-west-1.elb.amazonaws.com
+pinnac-pinnaclesports.bannerflow.com.cdn.cloudflare.net
 pix.cdn.criteo.net.cdn.cloudflare.net
 pixel-2019475890.eu-west-1.elb.amazonaws.com
 pixel-967319188.us-east-1.elb.amazonaws.com
@@ -1526,6 +1542,8 @@ powerup.crazyegg.com.cdn.cloudflare.net
 prd-adplatform-config-oregon-202747448.us-west-2.elb.amazonaws.com
 prd-aladdin-popin-internet-80943482.ap-northeast-1.elb.amazonaws.com
 prd-brain-128408118.us-east-1.elb.amazonaws.com
+prdbrain-env-2.us-west-2.elasticbeanstalk.com
+prdbrn.us-west-2.elasticbeanstalk.com
 prd-survey-weblink-renderer-28044737.us-east-1.elb.amazonaws.com
 preference-center-a-788000971.us-east-1.elb.amazonaws.com
 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
@@ -1601,6 +1619,7 @@ receiver-ipv4-686787523.us-east-1.elb.amazonaws.com
 recommenders.fresh8.co-v1.edgekey.net
 redbull-as.turn.com.akadns.net
 redirect-1966248761.us-west-2.elb.amazonaws.com
+red-production.us-east-1.elasticbeanstalk.com
 remote-data-1.urbanairship.com.edgekey.net
 reporting.go-mpulse.net.edgekey.net
 rescdn.atomex.net.cdn.cloudflare.net
@@ -1639,8 +1658,10 @@ s1168746.sc.en25.com.edgekey.net
 s1183721.sc.en25.com.edgekey.net
 s1211.sc.en25.com.edgekey.net
 s1219509997.sc.en25.com.edgekey.net
+s1227503250.sc.en25.com.edgekey.net
 s12511217.sc.en25.com.edgekey.net
 s1253878073.sc.en25.com.edgekey.net
+s12580078.sc.en25.com.edgekey.net
 s126818393.sc.en25.com.edgekey.net
 s1273213753.sc.en25.com.edgekey.net
 s128625352.sc.en25.com.edgekey.net
@@ -1649,6 +1670,7 @@ s1325.sc.en25.com.edgekey.net
 s1365454607.sc.en25.com.edgekey.net
 s1372514231.sc.en25.com.edgekey.net
 s1387486446.sc.en25.com.edgekey.net
+s1399.sc.en25.com.edgekey.net
 s1417573558.sc.en25.com.edgekey.net
 s1427524768.sc.en25.com.edgekey.net
 s1447373.sc.en25.com.edgekey.net
@@ -1656,6 +1678,7 @@ s1449698164.sc.en25.com.edgekey.net
 s1477570687.sc.en25.com.edgekey.net
 s1505979.sc.en25.com.edgekey.net
 s1507378874.sc.en25.com.edgekey.net
+s1517700.sc.en25.com.edgekey.net
 s1521.sc.en25.com.edgekey.net
 s1546404098.sc.en25.com.edgekey.net
 s154878491.sc.en25.com.edgekey.net
@@ -1664,6 +1687,7 @@ s1555122525.sc.en25.com.edgekey.net
 s1591793372.sc.en25.com.edgekey.net
 s1615637.sc.en25.com.edgekey.net
 s1618673430.sc.en25.com.edgekey.net
+s1654.sc.en25.com.edgekey.net
 s1667884968.sc.en25.com.edgekey.net
 s1672222.sc.en25.com.edgekey.net
 s1690315.sc.en25.com.edgekey.net
@@ -1747,10 +1771,12 @@ s507163351.sc.en25.com.edgekey.net
 s5139842.sc.en25.com.edgekey.net
 s522772699.sc.en25.com.edgekey.net
 s5267799.sc.en25.com.edgekey.net
+s534595109.sc.en25.com.edgekey.net
 s535304419.sc.en25.com.edgekey.net
 s546304447.sc.en25.com.edgekey.net
 s561652.sc.en25.com.edgekey.net
 s564771534.sc.en25.com.edgekey.net
+s5802312.sc.en25.com.edgekey.net
 s598301108.sc.en25.com.edgekey.net
 s609957852.sc.en25.com.edgekey.net
 s615419487.sc.en25.com.edgekey.net
@@ -1761,9 +1787,11 @@ s680149.sc.en25.com.edgekey.net
 s694598850.sc.en25.com.edgekey.net
 s736472.sc.en25.com.edgekey.net
 s736811171.sc.en25.com.edgekey.net
+s782268955.sc.en25.com.edgekey.net
 s788658067.sc.en25.com.edgekey.net
 s794418472.sc.en25.com.edgekey.net
 s7p3j2a5.stackpathcdn.com
+s8112638.sc.en25.com.edgekey.net
 s8399903.sc.en25.com.edgekey.net
 s8812321.sc.en25.com.edgekey.net
 s88570519.sc.en25.com.edgekey.net
@@ -1772,9 +1800,11 @@ s90815893.sc.en25.com.edgekey.net
 s9445901.sc.en25.com.edgekey.net
 s956125.sc.en25.com.edgekey.net
 s990742620.sc.en25.com.edgekey.net
+s998.sc.en25.com.edgekey.net
 s9d7s5t8.stackpathcdn.com
 s9i8s5e7.stackpathcdn.com
 s9j4y4p2.stackpathcdn.com
+sample-api-v2-prod.us-east-1.elasticbeanstalk.com
 san.adscale.de.edgekey.net
 san.sakimg.e-planning.net.edgekey.net
 san.valueclick.com.edgekey.net
@@ -1813,6 +1843,8 @@ sid-334503485.us-east-1.elb.amazonaws.com
 signal-lb-prod-1723845896.us-east-2.elb.amazonaws.com
 signin-geo-split.signin.innovid.com.akadns.net
 s-lb.tribalfusion.com.akadns.net
+sleeper-production.us-east-1.elasticbeanstalk.com
+sleeper-production-v2.jp22kcsxbx.us-east-1.elasticbeanstalk.com
 slingshot-elb-apsing-1107081693.ap-southeast-1.elb.amazonaws.com
 sni-wildcard.en25.com.edgekey.net
 snow-ress-xj2x5feh0ej2-ahavujgjad.elasticbeanstalk.com
@@ -1962,6 +1994,7 @@ use1-dev-public-ingress-lb-1949663291.us-east-1.elb.amazonaws.com
 use2-failover.delivery-prod-sas.akadns.net
 us-east-1.bsapi.akadns.net
 us-east2-skimresources-179475094.us-east-1.elb.amazonaws.com
+user-event-tracker-prod.us-east-1.elasticbeanstalk.com
 us.owneriq-prebid.akadns.net
 us-va-mo-lb02-2108426755.us-east-1.elb.amazonaws.com
 usw2-statse-webtrendslive-48fab771a99a4ab5.elb.us-west-2.amazonaws.com
@@ -1988,6 +2021,7 @@ video-outstream.rubiconproject.com.edgekey.net
 video-qa.doubleverify.com.cdn.cloudflare.net
 video-server.rubiconproject.net.akadns.net
 video.unrulymedia.com.cdn.cloudflare.net
+viewcounter-production.ywpr7aui8d.eu-west-1.elasticbeanstalk.com
 vimp.u.send.microad.jp.akadns.net
 vip0x019.map2.ssl.hwcdn.net
 vip0x02d.map2.ssl.hwcdn.net
