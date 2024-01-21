@@ -322,6 +322,7 @@ assets.undertone.com.s3-website-us-east-1.amazonaws.com
 a-stage1-dsa.tribalfusion.com-v1.edgekey.net
 async-admantxfrontend-2017124834.eu-west-1.elb.amazonaws.com
 async-admantxfrontend-410625468.us-east-1.elb.amazonaws.com
+at1.listrakbi.com.cdn.cloudflare.net
 atanar.edgesuite.net
 ati-host.edgekey.net
 atlasdmt.vo.llnwd.net
@@ -378,6 +379,7 @@ bfp.us-west.ipv4.dotomi.weighted.com.akadns.net
 bidder9-imp.tribalfusion.com.akadns.net
 bidder9-imp.tribalfusion.com.edgekey.net
 bids-elb-195079410.us-west-2.elb.amazonaws.com
+bl.listrakbi.com.cdn.cloudflare.net
 blog.buysellads.com.cdn.cloudflare.net
 blog.crazyegg.com.cdn.cloudflare.net
 bluekai-stackb-1947899961.us-east-1.elb.amazonaws.com
@@ -1418,6 +1420,7 @@ log-api.eu.newrelic.com.cdn.cloudflare.net
 log-api.newrelic.com.cdn.cloudflare.net
 loggly-haproxy-1333703238.us-west-2.elb.amazonaws.com
 login-aws-alb-prod-us-east-1-507982896.us-east-1.elb.amazonaws.com
+m1.listrakbi.com.cdn.cloudflare.net
 m2mtest.m2m-geo.akadns.net
 m3y8r7u4.stackpathcdn.com
 m4f5f8u8.stackpathcdn.com
@@ -1582,6 +1585,7 @@ productcatalog-prod-elb-874459065.us-east-1.elb.amazonaws.com
 production-coreapi-load-balancer-845796554.ap-southeast-2.elb.amazonaws.com
 production-lb-20110531-581599358.us-east-1.elb.amazonaws.com
 production-studio-load-balancer-970038813.us-west-1.elb.amazonaws.com
+product.listrakbi.com.cdn.cloudflare.net
 prod-vpc-us-east-event-listener-488568541.us-east-1.elb.amazonaws.com
 prod-vpc-us-west-event-listener-989611256.us-west-1.elb.amazonaws.com
 pro-market.net.edgekey.net
@@ -1619,6 +1623,7 @@ reach-api.urbanairship.com-v1.edgekey.net
 receiver-dual-730307430.us-east-1.elb.amazonaws.com
 receiver-ipv4-686787523.us-east-1.elb.amazonaws.com
 recommenders.fresh8.co-v1.edgekey.net
+recs.listrakbi.com.cdn.cloudflare.net
 redbull-as.turn.com.akadns.net
 redirect-1966248761.us-west-2.elb.amazonaws.com
 red-production.us-east-1.elasticbeanstalk.com
@@ -1719,6 +1724,7 @@ s1.adform.net-v2.edgekey.net
 s1.adform.net-v3.edgekey.net
 s1-eu.adformnet.akadns.net
 s1-eu-cname.adformnet.akadns.net
+s1.listrakbi.com.cdn.cloudflare.net
 s2008141379.sc.en25.com.edgekey.net
 s2021774972.sc.en25.com.edgekey.net
 s2049007180.sc.en25.com.edgekey.net
