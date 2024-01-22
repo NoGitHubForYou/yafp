@@ -532,6 +532,7 @@ collection-gateway-1724304096.us-east-1.elb.amazonaws.com
 collector-proxy-alb-2010247109.sa-east-1.elb.amazonaws.com
 collectors-1434573969.us-east-1.elb.amazonaws.com
 collins-44300711.us-east-1.elb.amazonaws.com
+companyoptoutpage-production-773396181.us-east-1.elb.amazonaws.com
 comparison-prod-web-passthrough-1399613537.us-west-2.elb.amazonaws.com
 complete-ext-shared-prod-elb2-802164298.us-east-1.elb.amazonaws.com
 confiant-integrations.global.ssl.fastly.net
@@ -811,6 +812,7 @@ d2p92aehtxk1ll.cloudfront.net
 d2pbcviywxotf2.cloudfront.net
 d2pi6uqm86x3o8.cloudfront.net
 d2pjrvfrfokvdz.cloudfront.net
+d2pw3r8ecoh3h0.cloudfront.net
 d2q0jy082j0tjq.cloudfront.net
 d2q6my7i6lbg44.cloudfront.net
 d2qda6eimxvjbm.cloudfront.net
@@ -1223,6 +1225,7 @@ events-collector.spot.im.edgesuite.net
 event.search-gtm.spotxchange.com.akadns.net
 events-lb-1299892453.us-east-1.elb.amazonaws.com
 events-lb-1943848055.us-east-1.elb.amazonaws.com
+evidon-prodextweb-1269497188.us-east-1.elb.amazonaws.com
 ewr-rtb.rfihub.com.akadns.net
 exapi-eu.rubiconproject.net.akadns.net
 exchange-elb-293385133.us-east-2.elb.amazonaws.com
@@ -1402,6 +1405,7 @@ kidozbidderserver-alb-env-1955970217.us-east-1.elb.amazonaws.com
 klaviyo-app.map.fastly.net
 klaviyo-onsite.map.fastly.net
 kraken-measurements.s3-external-1.amazonaws.com
+l3-production-5017897.us-east-1.elb.amazonaws.com
 l4.aaxads.com.edgesuite.net
 landing.adyoulike.com.s3-website-eu-west-1.amazonaws.com
 lb-02_nl-ams.zetapgmt.akadns.net
@@ -1435,6 +1439,7 @@ mailsig.zetaglobal.com-https.edgesuite.net
 mansef-1.hs.llnwd.net
 mansef.vo.llnwd.net
 map.media6degrees.com.cdn.cloudflare.net
+march-2018-info-l3-227044694.us-east-1.elb.amazonaws.com
 marfeel.map.fastly.net
 marketing-dev-lb-864260401.us-west-1.elb.amazonaws.com
 match-975362022.us-east-1.elb.amazonaws.com
@@ -1496,6 +1501,7 @@ ondemand.webtrends.com.edgekey.net
 onelinksmartscript.edgesuite.net
 on.ninthdecimal.com.cdn.cloudflare.net
 optout-1937190711.us-east-1.elb.amazonaws.com
+optoutapi-production-1854155937.us-east-1.elb.amazonaws.com
 optout.ib.mookie1.com.edgekey.net
 optout-lb-324461017.us-east-1.elb.amazonaws.com
 opx-vpc-winners-1768717977.us-east-1.elb.amazonaws.com
@@ -1556,6 +1562,7 @@ prdbrain-env-2.us-west-2.elasticbeanstalk.com
 prdbrn.us-west-2.elasticbeanstalk.com
 prd-survey-weblink-renderer-28044737.us-east-1.elb.amazonaws.com
 preference-center-a-788000971.us-east-1.elb.amazonaws.com
+privacycollector-prod-evidon-1122372851.us-east-1.elb.amazonaws.com
 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 privacy-policy.teads.com.edgekey.net
 privacy.purch.com.edgekey.net
@@ -2072,6 +2079,7 @@ wildcard-ads-303593808.ap-southeast-1.elb.amazonaws.com
 wildcard.adscale.de.edgekey.net
 wildcard.cdn.optimizely.com.edgekey.net
 wildcard.comscore.com.edgekey.net
+wildcard.evidon.com.edgekey.net
 wildcard.go-mpulse.net.edgekey.net
 wildcard.inner-active.mobi.edgekey.net
 wildcard.ipromote.com.edgekey.net
