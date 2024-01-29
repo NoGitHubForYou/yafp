@@ -59,6 +59,7 @@
 2352509.group9.sites.hubspot.net
 2427596.group46.sites.hubspot.net
 2529493.group43.sites.hubspot.net
+2536424.group24.sites.hubspot.net
 2539528.group28.sites.hubspot.net
 2584409g9.secure0065.hubspot.net
 2898305.group5.sites.hubspot.net
@@ -104,6 +105,7 @@
 5897358.group8.sites.hubspot.net
 5928778.group28.sites.hubspot.net
 5b2ce62cbd5714437022c188dee0d335.yl4.us-east-1.eks.amazonaws.com
+605589b8-default-insticato-d8e0-980118239.us-east-1.elb.amazonaws.com
 6381084.group34.sites.hubspot.net
 6430289.group39.sites.hubspot.net
 6743804.group4.sites.hubspot.net
@@ -388,6 +390,9 @@ bl.listrakbi.com.cdn.cloudflare.net
 blog.buysellads.com.cdn.cloudflare.net
 blog.crazyegg.com.cdn.cloudflare.net
 bluekai-stackb-1947899961.us-east-1.elb.amazonaws.com
+bob-755825701.us-east-1.elb.amazonaws.com
+bob-west-lb-2107927538.us-west-1.elb.amazonaws.com
+bob-west-lb-858886716.us-west-1.elb.amazonaws.com
 b.postback.amxrtb.com.cdn.cloudflare.net
 c3.a-mo.net.cdn.cloudflare.net
 c5z7w5f2.stackpathcdn.com
@@ -715,6 +720,7 @@ d1ze4bct7nvx6o.cloudfront.net
 d1zmx3ryuhblxw.cloudfront.net
 d20519brkbo4nz.cloudfront.net
 d20ihkc4ochbq5.cloudfront.net
+d20nhkql2qnash.cloudfront.net
 d20p7hff68prsp.cloudfront.net
 d20qwf0wrdtevy.cloudfront.net
 d20skogma9ce2j.cloudfront.net
@@ -796,6 +802,7 @@ d2kw1ijwih9v9g.cloudfront.net
 d2l3x1ydi04yhf.cloudfront.net
 d2l6m8wzchx7x8.cloudfront.net
 d2lml4lq5yh749.cloudfront.net
+d2lmwnbidq3l96.cloudfront.net
 d2m0mixjpgf46l.cloudfront.net
 d2m1qxggnnaaex.cloudfront.net
 d2m21blcqfz9nv.cloudfront.net
@@ -1383,6 +1390,7 @@ k8s-csproduc-haproxyi-77b1e1ba21-05eb21ea7279ac13.elb.us-east-2.amazonaws.com
 k8s-csproduc-haproxyi-af3b4f3ec8-fbb28c4f5108dd53.elb.us-east-2.amazonaws.com
 k8s-dcmonito-dcmonito-c051d472da-1024055099.eu-west-1.elb.amazonaws.com
 k8s-default-client-baceb72635-1c03e3ff5e3de3ed.elb.eu-central-1.amazonaws.com
+k8s-default-insticat-866597d3fe-1559487265.us-east-1.elb.amazonaws.com
 k8s-docsprd-confluen-f8163910dd-403556188.us-west-2.elb.amazonaws.com
 k8s-emissary-emissary-ab287afd2b-848b453d8ee92cd6.elb.us-east-1.amazonaws.com
 k8s-external-b74225ed7f-868207584.eu-west-1.elb.amazonaws.com
@@ -1645,6 +1653,8 @@ rescdn.atomex.net.cdn.cloudflare.net
 rescdn.atomex.net.edgekey.net
 research.flightcentre.com.edgekey.net
 research.interactionmetrics.com.edgekey.net
+responder-1672229474.eu-west-1.elb.amazonaws.com
+responder-medionfoto-914578886.us-east-1.elb.amazonaws.com
 restful-vpc-156481057.ap-northeast-1.elb.amazonaws.com
 reuters-no-wall-492142523.us-east-1.elb.amazonaws.com
 rj.a-mo.net.cdn.cloudflare.net
@@ -1952,6 +1962,7 @@ t8s3j9q2.stackpathcdn.com
 tableau-test-improvedigital-com-1455005134.eu-west-1.elb.amazonaws.com
 tab-tabworker-red-tableau-prod-1005710324.us-east-1.elb.amazonaws.com
 tag.aticdn.net.edgekey.net
+tag-responder-us-prod-01-752315848.us-west-1.elb.amazonaws.com
 tags.expo9.exponential.com.akadns.net
 tags.expo9.exponential.com-v1.edgekey.net
 tags-lb.expo9.exponential.com.akadns.net
@@ -2103,6 +2114,7 @@ wpix.media6degrees.com.cdn.cloudflare.net
 wpn.hs.llnwd.net
 wp-onsite.netmng.com.edgesuite.net
 wp-us.zetapgmt.akadns.net
+wt-responder-aws-us-1-1446711524.us-west-1.elb.amazonaws.com
 wv.m2m1.akadns.net
 www2121a.qualtrics.com.cdn.cloudflare.net
 www.33across.com.cdn.cloudflare.net
