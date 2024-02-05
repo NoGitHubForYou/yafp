@@ -1457,6 +1457,7 @@ mbz200.future-publishing.map.fastly.net
 mediago-official-website-1693059739.us-west-2.elb.amazonaws.com
 mediaplex.bfp.dotomi.weighted.com.akadns.net
 metric-api.newrelic.com.cdn.cloudflare.net
+metrics.att.com.edgekey.net
 mia.rubiconproject.net.akadns.net
 miexperiencia.progreso.com.edgekey.net
 mirror.cj.edgekey.net
@@ -1876,6 +1877,7 @@ s-lb.tribalfusion.com.akadns.net
 sleeper-production.us-east-1.elasticbeanstalk.com
 sleeper-production-v2.jp22kcsxbx.us-east-1.elasticbeanstalk.com
 slingshot-elb-apsing-1107081693.ap-southeast-1.elb.amazonaws.com
+smetrics.att.com.edgekey.net
 sni-wildcard.en25.com.edgekey.net
 snow-ress-xj2x5feh0ej2-ahavujgjad.elasticbeanstalk.com
 sonobi-go-xcp-917332420.us-east-1.elb.amazonaws.com
