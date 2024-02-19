@@ -220,6 +220,7 @@ metrics.marshalls.com
 metrics.mathworks.com
 metrics.mcafee.com
 metrics.mcdonalds.com
+metrics.medallia.com
 metrics.metrobyt-mobile.com
 metrics.mzstatic.com
 metrics.napaonline.com
@@ -233,6 +234,7 @@ metrics.realtor.com
 metrics.riteaid.com
 metrics.samsclub.com
 metrics-sentry.cvshealth.com
+metrics-sentry.cvshealth.com.edgekey.net
 metrics.showtime.com
 metrics.siriusxm.com
 metrics.sky.com
@@ -355,6 +357,7 @@ smetrics.marshalls.com
 smetrics.mathworks.com
 smetrics.mcafee.com
 smetrics.mcdonalds.com
+smetrics.medallia.com
 smetrics.metrobyt-mobile.com
 smetrics.napaonline.com
 smetrics.nascar.com
@@ -392,7 +395,9 @@ s.ml-attr.com
 smodus.nike.com
 somni.bluecrossma.com
 somni.deere.com
+somni.myrocket.com
 somni.rei.com
+somni.rocketaccount.com
 somni.rocketmortgage.com
 somt.honda.com
 soptimize.southwest.com
