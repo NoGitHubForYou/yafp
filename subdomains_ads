@@ -53,6 +53,7 @@ ats-eks.us-east-1.dcs-online-targeting-prd.aws.oath.cloud
 axp.8newsnow.com
 axp.abc27.com
 axp.abc4.com
+axp.dcnewsnow.com
 axp.fox21news.com
 axp.fox40.com
 axp.fox5sandiego.com
@@ -186,6 +187,7 @@ metrics.aetn.com
 metrics.ancestry.com
 metrics.api.drift.com
 metrics.apple.com
+metrics.as.com
 metrics.att.com
 metrics.belk.com
 metrics.bet.com
@@ -329,6 +331,7 @@ smetrics.aarp.org
 smetrics.aem.playstation.com
 smetrics.aetn.com
 smetrics.ancestry.com
+smetrics.as.com
 smetrics.att.com
 smetrics.belk.com
 smetrics.bestbuy.com
@@ -450,6 +453,7 @@ stats.cartoonnetwork.com
 stats.glb.paypal.com
 stats.meijer.com
 stats.pandora.com
+stats.pusher.com
 stats.wp.com
 stracking.skyword.com
 stt.dell.com

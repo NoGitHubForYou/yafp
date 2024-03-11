@@ -1252,6 +1252,7 @@ exchange-elb-293385133.us-east-2.elb.amazonaws.com
 exchange-lb-1822662812.us-east-1.elb.amazonaws.com
 exchange.m2m-geo.akadns.net
 exchange.postrelease.com.akadns.net
+experiences.mrf.io.cdn.cloudflare.net
 f2.taboola.map.fastly.net
 f4r5k7i5.stackpathcdn.com
 f6v5a2n6.stackpathcdn.com
@@ -1265,6 +1266,7 @@ feedback.trustage.com.edgekey.net
 fidelitymfc.myfidelityconnection.com.edgekey.net
 files.adformnet.akadns.net
 files.bidtellect.com.s3-website-us-east-1.amazonaws.com
+flowcards.mrf.io.cdn.cloudflare.net
 fo_global.zetapgmt.akadns.net
 frcp-tpsc-hlb.dvgtm.akadns.net
 fy-m2m1.edgekey.net
@@ -1869,6 +1871,7 @@ s-d569233cde3248ea8.server.transfer.us-east-1.amazonaws.com
 sdk-2.a-mo.net.cdn.cloudflare.net
 sdk.a-mo.net.cdn.cloudflare.net
 sdk-lb-998269421.us-east-1.elb.amazonaws.com
+sdk.mrf.io.cdn.cloudflare.net
 sdk.sascdn.com.edgekey.net
 sdk.sascdn.com.edgesuite.net
 sd.turn.com.akadns.net
