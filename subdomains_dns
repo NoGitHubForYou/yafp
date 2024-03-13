@@ -4,6 +4,7 @@
 2.dnscrypt.unfiltered.ns1.adguard.com
 adblock.doh.mullvad.net
 dandelionsprout.asuscomm.com
+dns.aaflalo.me
 dns.adguard.com
 dns.alidns.com
 dns.cfiec.net
@@ -14,12 +15,16 @@ dns.digitale-gesellschaft.ch
 dns.east.comss.one
 dns-family.adguard.com
 dns.google.com
+dns-nyc.aaflalo.me
 dns.oszx.co
 dns.pumplex.com
 dns.switch.ch
 dns.twnic.tw
 dns-unfiltered.adguard.com
 dns.yandex.com
+doh-01.spectrum.com
+doh-02.spectrum.com
+doh-03.spectrum.com
 doh.360.cn
 doh.applied-privacy.net
 doh.dnslify.com
