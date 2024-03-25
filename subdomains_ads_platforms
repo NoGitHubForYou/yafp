@@ -953,6 +953,7 @@ d3pypcxb49gfy9.cloudfront.net
 d3qcuhk6vnaimp.cloudfront.net
 d3qnr1m59zehbb.cloudfront.net
 d3qzu4n9z2v9eg.cloudfront.net
+d3r0g374ots6qf.cloudfront.net
 d3r8y5t8.stackpathcdn.com
 d3rdu7el16u9fz.cloudfront.net
 d3rdz3v5v42y77.cloudfront.net
@@ -1131,6 +1132,8 @@ dualstack.awseb-awseb-ittdh15xkpdg-2143310635.us-west-2.elb.amazonaws.com
 dualstack.hawker-lb2-9bf5084fd65bd971.elb.us-east-1.amazonaws.com
 dualstack.iad-a-adserver-thd-856326511.us-east-1.elb.amazonaws.com
 dualstack.id-service-prod-109839710.us-west-2.elb.amazonaws.com
+dualstack.lql-prod-pub-elb-1960726663.us-east-1.elb.amazonaws.com
+dualstack.lql-qa-pub-elb-592332845.us-east-1.elb.amazonaws.com
 dualstack.media.net.edgekey.net
 dualstack.prowl-app-alb-136978621.us-east-1.elb.amazonaws.com
 dualstack.tls13.taboola.map.fastly.net
