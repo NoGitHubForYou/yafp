@@ -300,6 +300,7 @@ analytics.tiktok.com.bytewlb.akadns.net
 analytics.webtrends.com.edgekey.net
 a.netmng.com-v1.edgesuite.net
 any.microad.net.edgekey.net
+anyroom.newsroom.cision.com.cdn.cloudflare.net
 ap-cdn.33across.com.edgesuite.net
 apd-andbeyond-2026438072.eu-west-1.elb.amazonaws.com
 apd-delivery-live-386479441.eu-west-1.elb.amazonaws.com
@@ -314,6 +315,8 @@ api-v2-stage-2063380750.us-east-1.elb.amazonaws.com
 apks.kidoz.net.s3.amazonaws.com
 apmebf.valueclick.akadns.net
 a.postback.amxrtb.com.cdn.cloudflare.net
+app2.cision.com.cdn.cloudflare.net
+app.cision.com.cdn.cloudflare.net
 applink.a-mo.net.cdn.cloudflare.net
 app-matheranalytics-1375563249.us-east-1.elb.amazonaws.com
 app-prodb-ext-726392634.us-east-1.elb.amazonaws.com
@@ -414,6 +417,7 @@ capi.connatix.com.cdn.cloudflare.net
 carbonads-2037067561.us-east-1.elb.amazonaws.com
 catchpoint.map.fastly.net
 ccbidder-bidder-proxy-cdsyk72-1656222012.us-east-1.elb.amazonaws.com
+ccs.cision.com.cdn.cloudflare.net
 cd.connatix.com.cdn.cloudflare.net
 cdm.connatix.com.cdn.cloudflare.net
 cdn2.pricespider.com.edgekey.net
@@ -555,6 +559,7 @@ configure-tcp-ios-d21592f047732b3b.elb.us-east-1.amazonaws.com
 confluence-20211204-258573741.us-west-2.elb.amazonaws.com
 connextra.com.edgekey.net
 console.compass.microad.jp.edgekey.net
+contentapi.cision.com.cdn.cloudflare.net
 contextweb.map.fastly.net
 conversantmedia.com.edgesuite.net
 convert-cdn.elasticbeanstalk.com
@@ -1235,6 +1240,7 @@ engine.monetate.net.edgekey.net
 ennio-cdn.a-mo.net.cdn.cloudflare.net
 esd.taboola.com.edgesuite.net
 euads-801691419.eu-west-1.elb.amazonaws.com
+eu-app.cision.com.cdn.cloudflare.net
 eu-int-58531295.eu-west-1.elb.amazonaws.com
 eum-blue-saas.instana.io.cdn.cloudflare.net
 eum-eu-west-1.instana.io.cdn.cloudflare.net
@@ -1316,6 +1322,7 @@ helios.vo.llnwd.net
 hello.staticstuff.net.cdn.cloudflare.net
 help.webtrends.com.edgekey.net
 hodor-lb2-c267ddd1ff69578b.elb.us-east-1.amazonaws.com
+horreum.app.cision.com.cdn.cloudflare.net
 hp.teads.com.edgekey.net
 h.scorecardresearch.com.edgesuite.net
 ht.indexww.com.edgekey.net
@@ -1521,6 +1528,7 @@ nan.zetapgmt.akadns.net
 nbcuas-tracker-prod.us-east-1.elasticbeanstalk.com
 nbcu-mir.fwgtm.akadns.net
 neptune-1892118423.us-east-1.elb.amazonaws.com
+news.cision.com.cdn.cloudflare.net
 newwildcard.evidon.com.edgekey.net
 nglb-eu.adformnet.akadns.net
 nlb-external-ingress-nginx-746b60fbb24e747f.elb.us-east-1.amazonaws.com
@@ -1536,6 +1544,7 @@ optout-1937190711.us-east-1.elb.amazonaws.com
 optoutapi-production-1854155937.us-east-1.elb.amazonaws.com
 optout.ib.mookie1.com.edgekey.net
 optout-lb-324461017.us-east-1.elb.amazonaws.com
+optout.ne.cision.com.cdn.cloudflare.net
 opx-vpc-winners-1768717977.us-east-1.elb.amazonaws.com
 or-elb-p-frontend-01-1949259340.us-west-2.elb.amazonaws.com
 origin.edgekey.net
@@ -1641,6 +1650,7 @@ pub.doubleverify.com.cdn.cloudflare.net
 public.ntv.io.edgesuite.net
 public-svcs-83236595.us-east-1.elb.amazonaws.com
 publishers.teads.edgekey.net
+publish.ne.cision.com.cdn.cloudflare.net
 pub-qa.doubleverify.com.cdn.cloudflare.net
 pub-staging.doubleverify.com.cdn.cloudflare.net
 punt-1342691256.eu-west-1.elb.amazonaws.com
@@ -1958,6 +1968,7 @@ statse.webtrends.akadns.net
 stats.mediaforge.com.edgekey.net
 statsnew-elasticlo-1g6n6wu402moi-1961872309.us-east-1.elb.amazonaws.com
 st-dem-collector-elb-185231579.eu-west-1.elb.amazonaws.com
+storywebapp-prod-cision-432390184.us-east-1.elb.amazonaws.com
 s.tribalfusion.com-v1.edgekey.net
 studio-tool-redirect-189172956.us-west-1.elb.amazonaws.com
 subs-alb-prod-us-east-1-1756796197.us-east-1.elb.amazonaws.com
@@ -2050,6 +2061,7 @@ um.indexww.com.akadns.net
 unicredit.webtrends.akadns.net
 universe.send.microad.jp.akadns.net
 us2-events-2011833292.us-west-2.elb.amazonaws.com
+us.cision.com.cdn.cloudflare.net
 use1-dev-public-ingress-lb-1949663291.us-east-1.elb.amazonaws.com
 use2-failover.delivery-prod-sas.akadns.net
 us-east-1.bsapi.akadns.net
@@ -2152,6 +2164,7 @@ www.amxrtb.com.cdn.cloudflare.net
 www.awin1.com.edgekey.net
 www.bugsnag.com.cdn.cloudflare.net
 www.buysellads.com.cdn.cloudflare.net
+www.cision.com.cdn.cloudflare.net
 www.commandersact.com.cdn.cloudflare.net
 www.crazyegg.com.cdn.cloudflare.net
 www.engagement.gov.sg.edgekey.net
