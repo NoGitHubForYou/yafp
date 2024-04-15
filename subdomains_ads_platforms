@@ -101,6 +101,7 @@
 5237928.group28.sites.hubspot.net
 546156g6.secure0034.hubspot.net
 546156.group6.sites.hubspot.net
+553734.group34.sites.hubspot.net
 5678245.group45.sites.hubspot.net
 5692875.group25.sites.hubspot.net
 5699504.group4.sites.hubspot.net
@@ -130,6 +131,7 @@ a2380e8ca90e545ea82a5457f697d8a1-2105449806.us-east-1.elb.amazonaws.com
 a24365-c026.edgekey.net
 a2592442075214d508e55599c534a7d0-909919686.eu-west-1.elb.amazonaws.com
 a2e4w9e9.stackpathcdn.com
+a2.shared.global.fastly.net
 a37e7ff53ca1a46ee91de988679b125e-1369109733.us-east-1.elb.amazonaws.com
 a3p5q4h4.stackpathcdn.com
 a40a5e53d07e84022a91c8241dcd6f63-1221044844.us-east-2.elb.amazonaws.com
@@ -1018,6 +1020,7 @@ dataswitch-ads-75496044.us-east-1.elb.amazonaws.com
 db8vkb90r22gi.cloudfront.net
 db94vqyzp3k0h.cloudfront.net
 dc-212380-894750812.us-east-1.elb.amazonaws.com
+dc3-user-sync-edge-1819895440.us-east-1.elb.amazonaws.com
 dc8xl0ndzn2cb.cloudfront.net
 dcbvq5zvi7r2l.cloudfront.net
 dcn.comscore.akadns.net
