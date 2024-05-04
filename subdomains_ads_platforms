@@ -429,6 +429,7 @@ cdn-4.convertexperiments.com.edgekey.net
 cdn.adpushup.com.cdn.cloudflare.net
 cdn.adpushup.com.edgesuite.net
 cdna-dsa.clicktale.net.edgekey.net
+cdn-akamai.unityads.unity3d.com.edgekey.net
 cdn.atomex.net.cdn.cloudflare.net
 cdn.atomex.net.edgekey.net
 cdn-au.pagesense.io.edgesuite.net
@@ -457,6 +458,7 @@ cdn.pagesense.io.edgesuite.net
 cdn.resonate.com.cdn.cloudflare.net
 cdn-sic.33across.com.cdn.cloudflare.net
 cdn.staticstuff.net.cdn.cloudflare.net
+cdn-store-icons-akamai-prd.unityads.unity3d.com.edgekey.net
 cdn.taboola.map.fastly.net
 cdn-tc.33across.com.cdn.cloudflare.net
 cdn.th.giraff.io.cdn.cloudflare.net
@@ -539,6 +541,7 @@ clk.a-mo.net.cdn.cloudflare.net
 clk.amxrtb.com.cdn.cloudflare.net
 clkn.amxrtb.com.cdn.cloudflare.net
 cloudenhanced.qualtrics.com.edgekey.net
+cloudmedia-docs.unity3d.com.edgekey.net
 c-lt1.go-mpulse.net.cdn.cloudflare.net
 c-lt2.go-mpulse.net.edgekey.net
 cm.everesttech.net.akadns.net
@@ -629,6 +632,7 @@ d18268bcww8kq4.cloudfront.net
 d182jjritq324.cloudfront.net
 d188m5xxcpvuue.cloudfront.net
 d18kystukhbcb1.cloudfront.net
+d18yyyqht609b0.cloudfront.net
 d198qyfk7ebkyt.cloudfront.net
 d19lc07zm70enc.cloudfront.net
 d19t9xn5yfcnlo.cloudfront.net
@@ -718,6 +722,7 @@ d1tcwf12y4kqv3.cloudfront.net
 d1tjaz2iibtu17.cloudfront.net
 d1ubbaq2151s8g.cloudfront.net
 d1uc3t7g81m5tl.cloudfront.net
+d1uiiw95yqfkwo.cloudfront.net
 d1w0grjyh98p4m.cloudfront.net
 d1w1kqt9iahaqg.cloudfront.net
 d1wd4uausd8z22.cloudfront.net
@@ -1334,6 +1339,7 @@ ht.indexww.com.edgekey.net
 htlb.casalemedia.com.cdn.cloudflare.net
 http2.monetate.edgekey.net
 hubapi-1330022245.us-east-1.elb.amazonaws.com
+hub-dist.unity3d.com.edgesuite.net
 huracan-936647329.us-east-1.elb.amazonaws.com
 i2p6a8e4.stackpathcdn.com
 i2t7n2j2.stackpathcdn.com
@@ -1591,6 +1597,7 @@ pixel-2019475890.eu-west-1.elb.amazonaws.com
 pixel-967319188.us-east-1.elb.amazonaws.com
 pixel-event-tracking-v3-1858495376.us-east-1.elb.amazonaws.com
 pixel-lb-1846267185.us-east-1.elb.amazonaws.com
+pixel-prod-2-1626934611.us-east-1.elb.amazonaws.com
 pl-api-1-1128718925.us-east-1.elb.amazonaws.com
 platform.commandersact.com.cdn.cloudflare.net
 pl-client-1-1331367029.us-east-1.elb.amazonaws.com
@@ -1904,6 +1911,8 @@ seg.hadron.ad.gt.cdn.cloudflare.net
 segments.webtrends.com.edgekey.net
 servedby-142411671.us-west-1.elb.amazonaws.com
 servedby.flashtalking.com-v1.edgekey.net
+server-api-prod-placed-1-330229105.us-east-1.elb.amazonaws.com
+server-api-prod-placed-2-1666821535.us-east-1.elb.amazonaws.com
 service-3-split-vohn.service.innovid.com.akadns.net
 service.maxymiser.net.edgekey.net
 sessions.viglink.com.cdn.cloudflare.net
@@ -2064,6 +2073,7 @@ uffa-alb-354740383.us-east-1.elb.amazonaws.com
 umfrage.spiegelgruppe.de.edgekey.net
 um.indexww.com.akadns.net
 unicredit.webtrends.akadns.net
+unityads.edgesuite.net
 universe.send.microad.jp.akadns.net
 us2-events-2011833292.us-west-2.elb.amazonaws.com
 us.cision.com.cdn.cloudflare.net
@@ -2118,6 +2128,7 @@ waudist.tynt.com.cdn.cloudflare.net
 wdc-ah-routers-2057451199.us-east-1.elb.amazonaws.com
 web-1817063591.us-east-1.elb.amazonaws.com
 web-2099239636.us-east-1.elb.amazonaws.com
+webapp-placed-2-669171687.us-east-1.elb.amazonaws.com
 web-misc-454199433.us-east-1.elb.amazonaws.com
 web-prod-1506973851.us-east-1.elb.amazonaws.com
 web-push-api-staging.urbanairship.com.edgekey.net
