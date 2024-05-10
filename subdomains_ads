@@ -297,6 +297,8 @@ mparticle.weather.com
 mybbc-analytics.files.bbci.co.uk
 nmetrics.samsung.com
 now1.t-mobile.com
+offer.alibaba.com
+offer.alibaba.com.gds.alibabadns.com
 om.familysearch.org
 omn.americanexpress.com
 omni.basspro.com
@@ -314,6 +316,7 @@ outreach.abetterinternet.org
 pages-stats.rbl.ms
 partnerads.ysm.yahoo.com
 partners.team-cymru.com
+paywall-ad-bucket.s3.amazonaws.com
 pcookie.aliexpress.com
 pcookie-us.taobao.com
 pcookie-us.taobao.com.gds.alibabadns.com
@@ -535,6 +538,7 @@ t.firstpromoter.com
 tkbbmhcb-ccd-testing-v4.metric.gstatic.com
 tmck.milestonegoldcard.com
 tmetrix.my.chick-fil-a.com
+t.paypal.com
 trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 track.dictionary.com
 tracker.nbcuas.com
