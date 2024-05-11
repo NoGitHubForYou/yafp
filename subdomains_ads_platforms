@@ -328,6 +328,7 @@ app-prodb-ext-726392634.us-east-1.elb.amazonaws.com
 appsflyer-ep.edgesuite.net
 apps.smartadserver.com.edgesuite.net
 ap-ssp-be-app-bidder-docker-live.cwzuvsmgzg.ap-northeast-1.elasticbeanstalk.com
+aq-sp-api-1539593539.us-east-1.elb.amazonaws.com
 asa.tynt.com.edgesuite.net
 as.casalemedia.com.cdn.cloudflare.net
 as-sec.casalemedia.com.cdn.cloudflare.net
@@ -777,6 +778,7 @@ d24n15hnbwhuhn.cloudfront.net
 d24v0qfgxmmkdg.cloudfront.net
 d2587izi1kducr.cloudfront.net
 d25kzywvvt1inq.cloudfront.net
+d25pjzhavkmvev.cloudfront.net
 d26da0dx1ebj70.cloudfront.net
 d26gwar7vfhit7.cloudfront.net
 d26p066pn2w0s0.cloudfront.net
@@ -884,6 +886,7 @@ d2wcz8sc48ztgm.cloudfront.net
 d2wjyp0sx49z1w.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2x3nchcgc98ep.cloudfront.net
+d2xguj4f61bx8f.cloudfront.net
 d2yb1bkhdjcerk.cloudfront.net
 d2yp938kdisqbd.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
@@ -1210,6 +1213,7 @@ ec2-3-93-183-235.compute-1.amazonaws.com
 ec2-46-137-95-8.eu-west-1.compute.amazonaws.com
 ec2-50-17-88-129.compute-1.amazonaws.com
 ec2-50-19-56-81.compute-1.amazonaws.com
+ec2-52-11-126-28.us-west-2.compute.amazonaws.com
 ec2-52-11-47-212.us-west-2.compute.amazonaws.com
 ec2-52-220-114-22.ap-southeast-1.compute.amazonaws.com
 ec2-52-220-121-39.ap-southeast-1.compute.amazonaws.com
