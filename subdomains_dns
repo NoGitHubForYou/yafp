@@ -2,8 +2,13 @@
 2.dnscrypt.default.ns1.adguard.com
 2.dnscrypt.family.ns1.adguard.com
 2.dnscrypt.unfiltered.ns1.adguard.com
+adblock.dns.mullvad.net
 adblock.doh.mullvad.net
+all.dns.mullvad.net
+base.dns.mullvad.net
 dandelionsprout.asuscomm.com
+dns1.nordvpn.com
+dns2.nordvpn.com
 dns.aaflalo.me
 dns.adguard.com
 dns.alidns.com
@@ -15,6 +20,7 @@ dns.digitale-gesellschaft.ch
 dns.east.comss.one
 dns-family.adguard.com
 dns.google.com
+dns.mullvad.net
 dns-nyc.aaflalo.me
 dns.oszx.co
 dns.pumplex.com
@@ -34,8 +40,10 @@ dot1.applied-privacy.net
 dot.360.cn
 dot.seby.io
 dot.xfinity.com
+extended.dns.mullvad.net
 family-block.dns.adguard.com
 family.canadianshield.cira.ca
+family.dns.mullvad.net
 kaitain.restena.lu
 odvr.nic.cz
 one.one.one.one
