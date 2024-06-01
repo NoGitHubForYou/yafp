@@ -29,6 +29,7 @@
 ||ads.tiktok.com.edgekey.net^
 ||ads.twitter.com^
 ||ads.us.nextdoor.com^
+||advertising.yahooinc.com^
 ||a.et.nytimes.com^
 ||airlytics-web.airlock.twcmobile.weather.com^
 ||alb.reddit.com^
@@ -211,7 +212,6 @@
 ||mbox.wegmans.com^
 ||mc.yandex.com^
 ||mc.yandex.ru^
-||me.apple-dns.net^
 ||meter-svc.nytimes.com^
 ||metric.hilton.com^
 ||metric.olivegarden.com^
@@ -235,6 +235,7 @@
 ||metrics.cars.com^
 ||metrics.citizensbank.com^
 ||metrics.cnn.com^
+||metrics-collector.tidio.co^
 ||metrics.columbia.com^
 ||metrics.comenity.net^
 ||metrics.consumerreports.org^
@@ -280,6 +281,7 @@
 ||metrics.riteaid.com^
 ||metrics.roblox.com^
 ||metrics.samsclub.com^
+||metrics.sbs.com.au^
 ||metrics-sentry.cvshealth.com^
 ||metrics-sentry.cvshealth.com.edgekey.net^
 ||metrics.showtime.com^
@@ -434,6 +436,7 @@
 ||smetrics.realtor.com^
 ||smetrics.riteaid.com^
 ||smetrics.samsung.com^
+||smetrics.sbs.com.au^
 ||smetrics.showtime.com^
 ||smetrics.siriusxm.com^
 ||smetrics.sky.com^

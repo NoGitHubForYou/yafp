@@ -8,14 +8,18 @@
 ||base.dns.mullvad.net^
 ||dandelionsprout.asuscomm.com^
 ||dns1.nordvpn.com^
+||dns2.digitalcourage.de^
 ||dns2.nordvpn.com^
+||dns3.digitalcourage.de^
 ||dns.aaflalo.me^
 ||dns.adguard.com^
 ||dns.alidns.com^
+||dns.artikel10.org^
 ||dns.cfiec.net^
 ||dns.cloudflare.com^
 ||dns.comss.one^
 ||dns.decloudus.com^
+||dns.digitalcourage.de^
 ||dns.digitale-gesellschaft.ch^
 ||dns.dnshome.de^
 ||dns.east.comss.one^
@@ -24,6 +28,7 @@
 ||dns.mullvad.net^
 ||dns-nyc.aaflalo.me^
 ||dns.oszx.co^
+||dnspub.restena.lu^
 ||dns.pumplex.com^
 ||dns.seby.io^
 ||dns.switch.ch^
@@ -36,6 +41,7 @@
 ||doh-03.spectrum.com^
 ||doh.360.cn^
 ||doh.applied-privacy.net^
+||doh.dns.apple.com^
 ||doh.dnslify.com^
 ||doh.mullvad.net^
 ||doh.seby.io^
