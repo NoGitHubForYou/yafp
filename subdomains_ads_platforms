@@ -188,6 +188,7 @@ adbooking-elb-1570500624.ap-southeast-1.elb.amazonaws.com
 add6d7fc696c04a4895f435ab44df8a2-1447330841.us-east-1.elb.amazonaws.com
 adfarm-global.mplx.akadns.net
 adfs.vclk.akadns.net
+adgear-vault-prod-2095953673.us-east-1.elb.amazonaws.com
 admanmedia.com.edgekey.net
 admin-static.ntv.io.edgekey.net
 admin-workflow-p-104982182.us-east-1.elb.amazonaws.com
@@ -464,6 +465,7 @@ cdn-ns.cdn-prod-sas.akadns.net
 cdn.pagesense.io.edgesuite.net
 cdn.resonate.com.cdn.cloudflare.net
 cdn-sic.33across.com.cdn.cloudflare.net
+cdn.ssl-delivery-network.com.edgekey.net
 cdn.staticstuff.net.cdn.cloudflare.net
 cdn-store-icons-akamai-prd.unityads.unity3d.com.edgekey.net
 cdn.taboola.map.fastly.net
@@ -739,6 +741,7 @@ d1s5zpl2n9mdng.cloudfront.net
 d1t032vs3j3d31.cloudfront.net
 d1tcwf12y4kqv3.cloudfront.net
 d1tjaz2iibtu17.cloudfront.net
+d1tsqpxb41dwd6.cloudfront.net
 d1ubbaq2151s8g.cloudfront.net
 d1uc3t7g81m5tl.cloudfront.net
 d1uiiw95yqfkwo.cloudfront.net
@@ -1024,6 +1027,7 @@ d5n9qufsywyzx.cloudfront.net
 d5phz18u4wuww.cloudfront.net
 d6jdux3y9l697.cloudfront.net
 d6ljnlstfas69.cloudfront.net
+d6rfihco9ssv5.cloudfront.net
 d6zw3ysy0ope4.cloudfront.net
 d78fikflryjgj.cloudfront.net
 d7qud41j1l2xj.cloudfront.net
@@ -1034,12 +1038,14 @@ d876dvg8hoa54.cloudfront.net
 d893hfcunl4qj.cloudfront.net
 d8fpmv6i5eqc8.cloudfront.net
 d8vva6hsqdwog.cloudfront.net
+d95o1l3gjohs3.cloudfront.net
 d9cxbsy59l4vb.cloudfront.net
 d9hf292i08pw3.cloudfront.net
 d-9jn2itxcr4.execute-api.us-west-1.amazonaws.com
 d9qmzzwbyjyzd.cloudfront.net
 da5un8sdba0y8.cloudfront.net
 da8c1gz5mp5sx.cloudfront.net
+d.adgear.com.tech.akadns.net
 dafwzlydbswd1.cloudfront.net
 dakscgfaoqqx7.cloudfront.net
 daonuc20smvzw.cloudfront.net
@@ -1190,6 +1196,7 @@ dun10qihat1x2.cloudfront.net
 dvdafwzlrgj6j.cloudfront.net
 dvq6oxypfjahq.cloudfront.net
 dvxehkmvn4hzj.cloudfront.net
+dwbiaf148q40k.cloudfront.net
 dweqmkohotjyr.cloudfront.net
 dwp5xggou5urg.cloudfront.net
 dwq3lvioggr6h.cloudfront.net
@@ -1336,6 +1343,7 @@ g5v2e8v8.stackpathcdn.com
 g7p5h6w7.stackpathcdn.com
 gauges-smoke.us-west-1.elasticbeanstalk.com
 gdpr-tcf.agkn.com.cdn.cloudflare.net
+geo.adgear.com.tech.akadns.net
 geo.bsapi.akadns.net
 geo.cnbc.com-v1.edgekey.net
 geo-eu-us.delivery-prod-sas.akadns.net
@@ -1586,6 +1594,8 @@ nlb-external-ingress-nginx-746b60fbb24e747f.elb.us-east-1.amazonaws.com
 npttech.s3-website-us-east-1.amazonaws.com
 nxlite.customerdashboard.newsxtend.com.au.edgekey.net
 nycp-tpsc-phlb.dvgtm.akadns.net
+o.adgear.com.tech.akadns.net
+o.adgrx.com.tech.akadns.net
 ondemand2ui.webtrends.com.edgekey.net
 ondemandui.webtrends.com.edgekey.net
 ondemand.webtrends.com.edgekey.net
@@ -1752,8 +1762,10 @@ routing.newrelic.com.cdn.cloudflare.net
 r-perf.applovin.com.akadns.net
 rss.buysellads.com.cdn.cloudflare.net
 rt.applvn.com.cdn.cloudflare.net
+rtb.adgrx.com.tech.akadns.net
 rtbnotify-lb1-39b33783cff4da45.elb.us-east-1.amazonaws.com
 rtbportalclickcertain-1638474545.us-east-1.elb.amazonaws.com
+rtbx.adgrx.com.tech.akadns.net
 rtr-5-split-vohnu.rtr.innovid.com.akadns.net
 rtr-6-split-vohnus.rtr.innovid.com.akadns.net
 rules.comscore.akadns.net
@@ -2100,10 +2112,13 @@ track-global.cj.akadns.net
 tracking-917764059.us-west-2.elb.amazonaws.com
 track.reson8.com.cdn.cloudflare.net
 track-us.adformnet.akadns.net
+trader.adgear.com.edgekey.net
+trader.adgear.com.tech.akadns.net
 traffic-loadbalancer-762371046.us-west-2.elb.amazonaws.com
 translator.a-mo.net.cdn.cloudflare.net
 trc-prod.taboolasyndication.com.edgesuite.net
 trc.taboola.map.fastly.net
+tvx.adgrx.com.tech.akadns.net
 tw-bidder-track-live-adserver.ap-northeast-1.elasticbeanstalk.com
 twinred-standalone-862215681.eu-central-1.elb.amazonaws.com
 u2z3m9c7.stackpathcdn.com
