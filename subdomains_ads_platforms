@@ -1180,6 +1180,7 @@ dualstack.admantx-cluster-nlb-eu-2071973585.eu-west-1.elb.amazonaws.com
 dualstack.async-lb-2129785755.us-east-1.elb.amazonaws.com
 dualstack.awseb-awseb-gka7lu8mzfw-711964431.us-west-2.elb.amazonaws.com
 dualstack.awseb-awseb-ittdh15xkpdg-2143310635.us-west-2.elb.amazonaws.com
+dualstack.awseb-e-m-awsebloa-75zh9ik6et4z-129218481.us-east-1.elb.amazonaws.com
 dualstack.hawker-lb2-9bf5084fd65bd971.elb.us-east-1.amazonaws.com
 dualstack.iad-a-adserver-thd-856326511.us-east-1.elb.amazonaws.com
 dualstack.id-service-prod-109839710.us-west-2.elb.amazonaws.com
@@ -1715,6 +1716,7 @@ publishers.teads.edgekey.net
 publish.ne.cision.com.cdn.cloudflare.net
 pub-qa.doubleverify.com.cdn.cloudflare.net
 pub-staging.doubleverify.com.cdn.cloudflare.net
+pulley-prd.us-east-1.elasticbeanstalk.com
 punt-1342691256.eu-west-1.elb.amazonaws.com
 punt-476338545.eu-west-1.elb.amazonaws.com
 p-v2v-250481873.us-east-1.elb.amazonaws.com
@@ -2106,6 +2108,7 @@ tpsc-video-uw.dvgtm.akadns.net
 track.adformnet.akadns.net
 track-apac.adformnet.akadns.net
 track.cj.akadns.net
+tracker-new-prod.us-east-1.elasticbeanstalk.com
 track-eu.adformnet.akadns.net
 track-eu-isp.adformnet.akadns.net
 track-global.cj.akadns.net
