@@ -122,6 +122,7 @@
 ||collector.cdp.cnn.com^
 ||collector.cdp.cnn.io^
 ||collector.github.com^
+||concertads-configs.vox-cdn.com^
 ||content22.citibankonline.com^
 ||content22.online.citi.com^
 ||content.discovercard.com^
@@ -319,6 +320,7 @@
 ||metrics.wm.com^
 ||metrics.wyndhamhotels.com^
 ||metrics.xfinity.com^
+||metrics.yellowbook.com^
 ||metrics.yellowpages.com^
 ||metric.trulia.com^
 ||minerva.healthcentral.com^
@@ -475,6 +477,7 @@
 ||smetrics.wegmans.com^
 ||smetrics.wm.com^
 ||smetrics.wyndhamhotels.com^
+||smetrics.yellowbook.com^
 ||smetrics.yellowpages.com^
 ||smetric.trulia.com^
 ||sminerva.healthcentral.com^
