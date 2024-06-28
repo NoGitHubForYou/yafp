@@ -1,4 +1,2 @@
-# yafp
-Yet Another Filter Project
-
-README to come...
+# Yet Another Filter Project
+yafp is a filtering blocklist project compatible with [PiHole](https://pi-hole.net/) and [AdGuardHome](https://adguard.com/en/adguard-home/overview.html). This is a non-aggregatable, manually updated blocklist. Contributions, corrections and classifying domains and subdomains are welcome. The goal of this project, although personal, is to provide a solid blocklist back to the community as well as fast commits and issue resolving.
