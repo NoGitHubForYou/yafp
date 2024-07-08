@@ -17,6 +17,7 @@
 ||ads.empowerlocal.co^
 ||adservice.google.ca^
 ||adservice.google.co.in^
+||adservice.google.com^
 ||adservice.google.com.sg^
 ||adservice.google.com.ua^
 ||adservice.google.co.uk^
@@ -130,6 +131,7 @@
 ||content.nielsen.com^
 ||content.product.glitch.com^
 ||content.product.greynoise.io^
+||contributions.guardianapis.com^
 ||crta.dailymail.co.uk^
 ||crta.dailymail.co.uk.edgekey.net^
 ||cs1561.wpc.edgecastcdn.net^
@@ -215,6 +217,7 @@
 ||log.olark.com^
 ||log.pinterest.com^
 ||logs.dradis.netflix.com^
+||logs.guardianapis.com^
 ||logsink.devices.nest.com^
 ||logs.netflix.com^
 ||logs.us-east-1.internal.dradis.netflix.com^
@@ -369,6 +372,7 @@
 ||px4-ads-linkedin-com.ipv4.l-0005.l-msedge.net^
 ||px.ads.linkedin.com^
 ||qfp.intuit.com^
+||rba-screen.healthsafe-id.com^
 ||rc.yahoo.com^
 ||referrer.disqus.com^
 ||region1.analytics.google.com^
