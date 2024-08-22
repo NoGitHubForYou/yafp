@@ -264,7 +264,9 @@
 ||intake-analytics.wikimedia.org^
 ||jac.yahoosandbox.com^
 ||jcwpbvjc-ccd-testing-v4.metric.gstatic.com^
+||jtggamvu-ccd-testing-v4.metric.gstatic.com^
 ||jvgadatu-ccd-testing-v4.metric.gstatic.com^
+||kricdgsb-ccd-testing-v4.metric.gstatic.com^
 ||lan.sdk.linkedin.com^
 ||link.healthline.com^
 ||links.services.disqus.com^
@@ -287,6 +289,7 @@
 ||mc.yandex.ru^
 ||mdr.esentire.com^
 ||meter-svc.nytimes.com^
+||metric.gstatic.com^
 ||metric.hilton.com^
 ||metric.olivegarden.com^
 ||metrics1.citibankonline.com^
@@ -392,6 +395,7 @@
 ||minerva.healthcentral.com^
 ||mparticle.weather.com^
 ||mybbc-analytics.files.bbci.co.uk^
+||nhkkazae-ccd-testing-v4.metric.gstatic.com^
 ||nmetrics.samsung.com^
 ||now1.t-mobile.com^
 ||offer.alibaba.com^
@@ -444,6 +448,7 @@
 ||region-selector.nyti.nytimes.com^
 ||responder.wt.heise.de^
 ||rma.homedepot.com^
+||rmwaxcmz-ccd-testing-v4.metric.gstatic.com^
 ||rna.homedepot.com^
 ||s1.subaru.com^
 ||s3-analytics-events.easybrain.com^
@@ -616,6 +621,7 @@
 ||stats.pandora.com^
 ||stats.pusher.com^
 ||stats.wp.com^
+||stats-xlb.syd-1.linewize.net^
 ||stracking.skyword.com^
 ||stt.dell.com^
 ||stt.thelott.com^
@@ -683,6 +689,7 @@
 ||ups.analytics.yahoo.com^
 ||user-stats.rbl.ms^
 ||v20.events.data.microsoft.com^
+||vqpcxols-ccd-testing-v4.metric.gstatic.com^
 ||w88.abc.com^
 ||w88.espn.com^
 ||w88.freeform.com^
@@ -696,3 +703,4 @@
 ||xp.apple.com^
 ||zion-telemetry.api.cnn.io^
 ||zrk.imgur.com^
+||zysonipc-ccd-testing-v4.metric.gstatic.com^
