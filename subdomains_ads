@@ -222,12 +222,14 @@
 ||elqtrk.intel.com^
 ||engage.stairwell.com^
 ||event-logger.tagboard.com^
+||events.data.microsoft.com^
 ||events.launchdarkly.com^
 ||events.mapbox.com^
 ||events.newsroom.bi^
 ||feet-prod.segds.engsvc.go.com^
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
+||flask.us.nextdoor.com^
 ||fpa-api.arstechnica.com^
 ||fpa-cdn.arstechnica.com^
 ||fpa-cdn.newsweek.com^
@@ -389,6 +391,7 @@
 ||metrics.yellowpages.com^
 ||metric.trulia.com^
 ||minerva.healthcentral.com^
+||mobile.events.data.microsoft.com^
 ||mparticle.weather.com^
 ||mybbc-analytics.files.bbci.co.uk^
 ||nmetrics.samsung.com^
