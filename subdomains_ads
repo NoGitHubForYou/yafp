@@ -399,6 +399,7 @@
 ||offer.alibaba.com^
 ||offer.alibaba.com.gds.alibabadns.com^
 ||ogads-pa.clients6.google.com^
+||ogads-pa.googleapis.com^
 ||om.familysearch.org^
 ||omn.americanexpress.com^
 ||omni.basspro.com^
@@ -687,6 +688,7 @@
 ||udc.yahoo.com^
 ||ups.analytics.yahoo.com^
 ||user-stats.rbl.ms^
+||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
 ||v6analytics.htmedia.in.edgekey.net^
 ||w88.abc.com^
