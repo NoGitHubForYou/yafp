@@ -227,6 +227,7 @@
 ||events.launchdarkly.com^
 ||events.mapbox.com^
 ||events.newsroom.bi^
+||events.syd-1.linewize.net^
 ||feet-prod.segds.engsvc.go.com^
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
@@ -289,6 +290,7 @@
 ||mc.yandex.ru^
 ||mdr.esentire.com^
 ||meter-svc.nytimes.com^
+||metric.gstatic.com^
 ||metric.hilton.com^
 ||metric.olivegarden.com^
 ||metrics1.citibankonline.com^
