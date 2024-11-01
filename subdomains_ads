@@ -107,6 +107,7 @@
 ||analytics.lillydigitalmedia.com^
 ||analytics.mailmunch.co^
 ||analytics.mobile.walmart.com^
+||analytics.mobile.yandex.net^
 ||analytics.ncaa.com^
 ||analytics.nike.com^
 ||analytics.nike.com.edgekey.net^
@@ -454,6 +455,8 @@
 ||referrer.disqus.com^
 ||region1.analytics.google.com^
 ||region-selector.nyti.nytimes.com^
+||report.appmetrica.yandex.net^
+||report-partners.appmetrica.yandex.net^
 ||responder.wt.heise.de^
 ||rma.homedepot.com^
 ||rna.homedepot.com^
