@@ -305,6 +305,7 @@
 ||metrics.aarp.org^
 ||metrics.aem.playstation.com^
 ||metrics.aetn.com^
+||metrics.allstate.com^
 ||metrics.ancestry.com^
 ||metrics.api.drift.com^
 ||metrics.apple.com^
@@ -490,6 +491,7 @@
 ||smetrics.aarp.org^
 ||smetrics.aem.playstation.com^
 ||smetrics.aetn.com^
+||smetrics.allstate.com^
 ||smetrics.ancestry.com^
 ||smetrics.as.com^
 ||smetrics.att.com^
@@ -713,6 +715,7 @@
 ||w88.freeform.com^
 ||w88.go.com^
 ||w88.nationalgeographic.com^
+||watson.events.data.microsoft.com^
 ||webc2s.pubgw.yahoo.com^
 ||webmetrics.mayoclinic.org^
 ||webstats.eb.com^
