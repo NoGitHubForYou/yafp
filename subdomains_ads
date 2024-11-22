@@ -227,6 +227,7 @@
 ||elqtrk.intel.com^
 ||engage.stairwell.com^
 ||e.reddit.com^
+||eu-mobile.events.data.microsoft.com^
 ||event-logger.tagboard.com^
 ||events.data.microsoft.com^
 ||events.launchdarkly.com^
@@ -246,6 +247,7 @@
 ||friendship.nbc.com^
 ||friendship.nbc.com.edgesuite.net^
 ||fundingchoicesmessages.google.com^
+||gc.newsweek.com^
 ||geo-atsv2.media.g03.yahoodns.net^
 ||geo.cnbc.com^
 ||geo.query.yahoo.com^
@@ -293,6 +295,7 @@
 ||log.svc.screencastify.com^
 ||mads.dailymail.co.uk^
 ||marketing.cyberdefensemediagroup.com^
+||matomo.ext.icrc.org^
 ||mbox.wegmans.com^
 ||mc.yandex.com^
 ||mc.yandex.ru^
@@ -367,6 +370,8 @@
 ||metrics.petco.com^
 ||metrics.politico.eu^
 ||metrics.realtor.com^
+||metrics.redcrossblood.org^
+||metrics.redcross.org^
 ||metrics.riteaid.com^
 ||metrics.roblox.com^
 ||metrics.samsclub.com^
@@ -548,6 +553,8 @@
 ||smetrics.petco.com^
 ||smetrics.politico.eu^
 ||smetrics.realtor.com^
+||smetrics.redcrossblood.org^
+||smetrics.redcross.org^
 ||smetrics.riteaid.com^
 ||smetrics.samsung.com^
 ||smetrics.sbs.com.au^
