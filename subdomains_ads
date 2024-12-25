@@ -99,6 +99,7 @@
 ||als-svc.nytimes.com^
 ||ametrics.lumen.com^
 ||analytics.crimewatchtech.com^
+||analyticsengine.s3.amazonaws.com^
 ||analytics.global.sky.com^
 ||analytics.google.com^
 ||analytics.htmedia.in^
@@ -113,6 +114,7 @@
 ||analytics.nike.com.edgekey.net^
 ||analytics.pinterest.com^
 ||analytics.pnc.com^
+||analytics.s3.amazonaws.com^
 ||analytics-secure.dollargeneral.com^
 ||analytics.sitewit.com^
 ||analytics.slashdotmedia.com^
@@ -121,8 +123,10 @@
 ||analytics.tiktok.com^
 ||analytics.twitter.com^
 ||analytics.yahoo.com^
+||an.facebook.com^
 ||ans.mlb.com^
 ||a.nytimes.com^
+||api-adservices.apple.com^
 ||app-analytics-v2.snapchat.com^
 ||apps.realtor.com^
 ||apv-launcher.minute.ly^
@@ -175,6 +179,7 @@
 ||beap-bc.yahoo.com^
 ||beap.gemini.yahoo.com^
 ||b.fox.com^
+||books-analytics-events.apple.com^
 ||browser.events.data.microsoft.com^
 ||browser.events.data.msn.com^
 ||b.stats.paypal.com^
@@ -269,6 +274,7 @@
 ||hm.baidu.com^
 ||hub.firestonecompleteautocare.com^
 ||hz-telemetry.adobe.io^
+||iadsdk.apple.com^
 ||images.ads.supplyframe.com^
 ||img.consumer.risk.lexisnexis.com^
 ||incoming.telemetry.mozilla.org^
@@ -283,6 +289,7 @@
 ||links.thetruth.com^
 ||location.p7cloud.net^
 ||log1.olark.com^
+||log.fc.yahoo.com^
 ||log.gns.go.com^
 ||log.go.com^
 ||log.olark.com^
@@ -413,6 +420,7 @@
 ||mparticle.weather.com^
 ||mybbc-analytics.files.bbci.co.uk^
 ||nmetrics.samsung.com^
+||notes-analytics-events.apple.com^
 ||now1.t-mobile.com^
 ||offer.alibaba.com^
 ||offer.alibaba.com.gds.alibabadns.com^
@@ -716,6 +724,7 @@
 ||tr.snapchat.com^
 ||ttmetrics.jcpenney.com^
 ||t.wepay.com^
+||udcm.yahoo.com^
 ||udc.yahoo.com^
 ||ups.analytics.yahoo.com^
 ||user-stats.rbl.ms^
@@ -728,6 +737,7 @@
 ||w88.go.com^
 ||w88.nationalgeographic.com^
 ||watson.events.data.microsoft.com^
+||weather-analytics-events.apple.com^
 ||webc2s.pubgw.yahoo.com^
 ||webmetrics.mayoclinic.org^
 ||webstats.eb.com^
