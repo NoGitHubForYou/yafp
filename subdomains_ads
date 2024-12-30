@@ -240,6 +240,7 @@
 ||events.newsroom.bi^
 ||events.syd-1.linewize.net^
 ||feet-prod.segds.engsvc.go.com^
+||firebaseinstallations.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 ||flask.us.nextdoor.com^
@@ -459,6 +460,7 @@
 ||pixel-static.spotify.com^
 ||pixel.wp.com^
 ||pixiedust.buzzfeed.com^
+||placements.tapjoy.com^
 ||prebid-server.newsbreak.com^
 ||prod.ups-ats.aolp-ds-prd.aws.oath.cloud^
 ||prod.ups-ats.us-east-1.aolp-ds-prd.aws.oath.cloud^
