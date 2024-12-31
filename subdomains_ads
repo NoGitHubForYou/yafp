@@ -225,6 +225,10 @@
 ||doppler-beacon.cbsivideo.com^
 ||drfdisvc.walmart.com^
 ||ds-beap1.cb.g01.yahoodns.net^
+||dualstack.ichnaea-vpc0-1163803123.us-east-2.elb.amazonaws.com^
+||dualstack.ichnaea-vpc0-1899527791.us-east-1.elb.amazonaws.com^
+||dualstack.ichnaea-web-1082243146.us-east-2.elb.amazonaws.com^
+||dualstack.ichnaea-web-121909266.us-east-1.elb.amazonaws.com^
 ||dynatrace.att.com^
 ||ead.newint.org^
 ||edgecast-vod.yimg.com^
@@ -276,6 +280,14 @@
 ||hub.firestonecompleteautocare.com^
 ||hz-telemetry.adobe.io^
 ||iadsdk.apple.com^
+||ichnaea.dradis.netflix.com^
+||ichnaea.netflix.com^
+||ichnaea.us-east-1.internal.dradis.netflix.com^
+||ichnaea.us-east-2.internal.dradis.netflix.com^
+||ichnaea-web.dradis.netflix.com^
+||ichnaea-web.netflix.com^
+||ichnaea-web.us-east-1.internal.dradis.netflix.com^
+||ichnaea-web.us-east-2.internal.dradis.netflix.com^
 ||images.ads.supplyframe.com^
 ||img.consumer.risk.lexisnexis.com^
 ||incoming.telemetry.mozilla.org^
