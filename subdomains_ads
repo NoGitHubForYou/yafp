@@ -456,6 +456,7 @@
 ||oms.expedia.com^
 ||oms.gendigital.com^
 ||oms.norton.com^
+||ondemand-ad-server.tritondigital.com^
 ||opr.adx.opera.com^
 ||opus.analytics.yahoo.com^
 ||osimg.nbcuni.com^
@@ -479,6 +480,7 @@
 ||pixiedust.buzzfeed.com^
 ||placements.tapjoy.com^
 ||player-telemetry.vimeo.com^
+||prebid-satellite-prod-02-alb-2061439435.us-west-2.elb.amazonaws.com^
 ||prebid-server.newsbreak.com^
 ||prod.ups-ats.aolp-ds-prd.aws.oath.cloud^
 ||prod.ups-ats.us-east-1.aolp-ds-prd.aws.oath.cloud^
