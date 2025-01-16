@@ -240,6 +240,7 @@
 ||engage.stairwell.com^
 ||e.reddit.com^
 ||eu-mobile.events.data.microsoft.com^
+||event.api.drift.com^
 ||event-logger.tagboard.com^
 ||events.data.microsoft.com^
 ||events.launchdarkly.com^
@@ -482,6 +483,7 @@
 ||player-telemetry.vimeo.com^
 ||prebid-satellite-prod-02-alb-2061439435.us-west-2.elb.amazonaws.com^
 ||prebid-server.newsbreak.com^
+||presence.api.drift.com^
 ||prod.ups-ats.aolp-ds-prd.aws.oath.cloud^
 ||prod.ups-ats.us-east-1.aolp-ds-prd.aws.oath.cloud^
 ||psqsjg.coach.com^
