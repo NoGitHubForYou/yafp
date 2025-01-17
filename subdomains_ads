@@ -107,6 +107,7 @@
 ||analytics.global.sky.com^
 ||analytics.google.com^
 ||analytics.htmedia.in^
+||analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com^
 ||analytics.kaltura.com^
 ||analytics.lexisnexisrisk.com^
 ||analytics.lillydigitalmedia.com^
@@ -131,6 +132,7 @@
 ||ans.mlb.com^
 ||a.nytimes.com^
 ||api-adservices.apple.com^
+||api.tracking.al-array.com^
 ||app-analytics-v2.snapchat.com^
 ||apps.realtor.com^
 ||apv-launcher.minute.ly^
@@ -440,6 +442,7 @@
 ||mybbc-analytics.files.bbci.co.uk^
 ||nmetrics.samsung.com^
 ||notes-analytics-events.apple.com^
+||notify.firetv.bugsnag.appstore.a2z.com^
 ||now1.t-mobile.com^
 ||offer.alibaba.com^
 ||offer.alibaba.com.gds.alibabadns.com^
@@ -740,6 +743,7 @@
 ||trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev^
 ||track.dictionary.com^
 ||tracker.nbcuas.com^
+||tracking.al-array.com^
 ||tracking.bloomberg.com^
 ||tracking.bloomberg.com.shared.bloomberga.com^
 ||tracking.clarivate.com^
@@ -766,6 +770,7 @@
 ||watson.events.data.microsoft.com^
 ||weather-analytics-events.apple.com^
 ||webc2s.pubgw.yahoo.com^
+||webcontentassessor.global.ssl.fastly.net^
 ||webmetrics.mayoclinic.org^
 ||webstats.eb.com^
 ||wlfanduelus.adsrv.eacdn.com^
