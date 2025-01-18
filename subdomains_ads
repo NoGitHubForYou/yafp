@@ -134,6 +134,7 @@
 ||api-adservices.apple.com^
 ||api.tracking.al-array.com^
 ||app-analytics-v2.snapchat.com^
+||applicationinsights.azure.com^
 ||apps.realtor.com^
 ||apv-launcher.minute.ly^
 ||as.welt.de^
@@ -762,6 +763,8 @@
 ||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
 ||v6analytics.htmedia.in.edgekey.net^
+||w3-reporting-nel.reddit.com^
+||w3-reporting.reddit.com^
 ||w88.abc.com^
 ||w88.espn.com^
 ||w88.freeform.com^
@@ -773,6 +776,7 @@
 ||webcontentassessor.global.ssl.fastly.net^
 ||webmetrics.mayoclinic.org^
 ||webstats.eb.com^
+||westus2-0.in.applicationinsights.azure.com^
 ||wlfanduelus.adsrv.eacdn.com^
 ||ww8.kohls.com^
 ||www2.centricsoftware.com^
