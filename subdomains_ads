@@ -200,6 +200,7 @@
 ||collector.cdp.cnn.com^
 ||collector.cdp.cnn.io^
 ||collector.github.com^
+||collector.pi.spectrum.net^
 ||concertads-configs.vox-cdn.com^
 ||content22.citibankonline.com^
 ||content22.online.citi.com^
@@ -419,6 +420,7 @@
 ||metrics.telegraph.co.uk^
 ||metrics.thelott.com^
 ||metrics.thetruth.com^
+||metrics.timewarnercable.com^
 ||metrics.t-mobile.com^
 ||metrics.tmz.com^
 ||metrics.toyota.com^
@@ -436,6 +438,7 @@
 ||metrics.yellowbook.com^
 ||metrics.yellowpages.com^
 ||metrics.zalesoutlet.com^
+||metric.timewarnercable.com^
 ||metric.trulia.com^
 ||minerva.healthcentral.com^
 ||mobile.events.data.microsoft.com^
@@ -478,8 +481,10 @@
 ||pdmsmrt.cadillac.com^
 ||pdmsmrt.chevrolet.com^
 ||permutive.arstechnica.com^
+||pixel.byspotify.com^
 ||pixel.condenastdigital.com^
 ||pixel.spotify.com^
+||pixels.spotify.com^
 ||pixel-static.spotify.com^
 ||pixel.wp.com^
 ||pixiedust.buzzfeed.com^
@@ -498,6 +503,7 @@
 ||px4-ads-linkedin-com.ipv4.l-0005.l-msedge.net^
 ||px.ads.linkedin.com^
 ||qfp.intuit.com^
+||quantum-ingest-production-770847698.us-east-1.elb.amazonaws.com^
 ||rba-screen.healthsafe-id.com^
 ||rc.yahoo.com^
 ||referrer.disqus.com^
