@@ -103,6 +103,7 @@
 ||als-svc.nytimes.com^
 ||ametrics.lumen.com^
 ||analytics.crimewatchtech.com^
+||analytics.eip.telegraph.co.uk^
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.global.sky.com^
 ||analytics.google.com^
@@ -250,6 +251,7 @@
 ||events.launchdarkly.com^
 ||events.mapbox.com^
 ||events.newsroom.bi^
+||events.split.io^
 ||events.syd-1.linewize.net^
 ||feet-prod.segds.engsvc.go.com^
 ||firebaseinstallations.googleapis.com^
