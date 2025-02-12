@@ -12,7 +12,6 @@
 ||ads.linkedin.com^
 ||ads.reddit.com^
 ||ads-script.b-cdn.net^
-||ads.superawesome.tv^
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
 ||ads.youtube.com^
@@ -45,7 +44,6 @@
 ||clicktale.pantherssl.com^
 ||cmp.axelspringer.com^
 ||code.adsales.snidigital.com^
-||code.visitor-track.com^
 ||collector.ex.co^
 ||collector.githubapp.com^
 ||connect.facebook.net^
@@ -103,7 +101,6 @@
 ||s.media-imdb.com^
 ||s.pemsrv.com^
 ||sp-spiegel-de.spiegel.de^
-||static.adziff.com^
 ||stats.olark.com^
 ||stun.voiparound.com^
 ||surveygizmobeacon.s3.amazonaws.com^
@@ -118,7 +115,6 @@
 ||traxex.gannettdigital.com^
 ||triggeredmail.appspot.com^
 ||u3y8v8u4.aucdn.net^
-||us-east-1-ads.superawesome.tv^
 ||video-transcoded-api-main-awesomeads.sacdn.net^
 ||waykpbhcbdvlst4xxzwxmhhx2q0vzctf.lambda-url.us-east-1.on.aws^
 ||web.diagnostic.networking.aws.dev^
