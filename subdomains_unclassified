@@ -15,7 +15,6 @@
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
 ||ads.youtube.com^
-||adtago.s3.amazonaws.com^
 ||ad-tech-pyxis-2124195674.us-west-2.elb.amazonaws.com^
 ||advertising.yandex.ru^
 ||advice-ads.s3.amazonaws.com^
@@ -119,7 +118,7 @@
 ||waykpbhcbdvlst4xxzwxmhhx2q0vzctf.lambda-url.us-east-1.on.aws^
 ||web.diagnostic.networking.aws.dev^
 ||ww2.rategain.com^
-||www.imcounting.com^
+||www.^
 ||www.qksrv.net^
 ||www.tracemyip.org^
 ||x.fidelity-media.com^
