@@ -1,11 +1,6 @@
-||2a4bdae240342194b734ed184604eb50f3226052ee33add4cac3b43efce7a3d.us.prod.service.minerva.devices.a2z.com^
-||3b5ff16dcf99c0a777d61bde95d9d836349c2a23df05c5f0caa79b77d9c70f5.us-east-1.prod.service.minerva.devices.a2z.com^
-||982b762063fc2544cee0e2dcd38ecc8013de47c88bca28ae25044c4da969ba8.us-east-1.prod.service.minerva.devices.a2z.com^
-||982b762063fc2544cee0e2dcd38ecc8013de47c88bca28ae25044c4da969ba8.us.prod.service.minerva.devices.a2z.com^
 ||a1802.dscq.akamai.net^
 ||a1895.dscq.akamai.net^
 ||a1928.dscq.akamai.net^
-||a1rabvci4qcikc.us-east-1.prod.service.minerva.devices.a2z.com^
 ||a80a9201ee101bbc3.awsglobalaccelerator.com^
 ||aamt.msnbc.com^
 ||aamt.nbcnews.com^
@@ -233,6 +228,8 @@
 ||dd.giantfoodstores.com^
 ||dd.nytimes.com^
 ||dd.study.com^
+||device-metrics-us-2.amazon.com^
+||device-metrics-us.amazon.com^
 ||digitalid.santanderbank.com^
 ||dmtracking2.alibaba.com^
 ||dmtracking2.alibaba.com.gds.alibabadns.com^
@@ -448,6 +445,7 @@
 ||metrics.zalesoutlet.com^
 ||metric.timewarnercable.com^
 ||metric.trulia.com^
+||minerva.devices.a2z.com^
 ||minerva.healthcentral.com^
 ||mobile.events.data.microsoft.com^
 ||mybbc-analytics.files.bbci.co.uk^
