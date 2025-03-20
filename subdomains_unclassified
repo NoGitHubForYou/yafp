@@ -9,6 +9,7 @@
 ||adsdk.yandex.ru^
 ||adservices.brandcdn.com^
 ||adsession.exacdn.com^
+||ads.google.com^
 ||ads.linkedin.com^
 ||ads.reddit.com^
 ||ads-script.b-cdn.net^
@@ -39,6 +40,7 @@
 ||cdn44221613.ahacdn.me^
 ||cedexis.fastlylb.net^
 ||cedexis-test.akamaized.net^
+||click.prod.mplat-ppcprotect.com^
 ||clicktalecdn.sslcs.cdngc.net^
 ||clicktale.pantherssl.com^
 ||cmp.axelspringer.com^
@@ -91,6 +93,7 @@
 ||prebid.becdn.net^
 ||prod.pyxis.atp.fox^
 ||pt.wmptctl.com^
+||resolver.confidence.dev^
 ||rtb.ex.co^
 ||s3t3d2y8.afcdn.net^
 ||secureir.ebaystatic.com^
@@ -115,6 +118,7 @@
 ||video-transcoded-api-main-awesomeads.sacdn.net^
 ||waykpbhcbdvlst4xxzwxmhhx2q0vzctf.lambda-url.us-east-1.on.aws^
 ||web.diagnostic.networking.aws.dev^
+||widgixca-beacon.s3.amazonaws.com^
 ||ww2.rategain.com^
 ||www.imcounting.com^
 ||www.tracemyip.org^
