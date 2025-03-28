@@ -339,6 +339,7 @@
 ||logs.netflix.com^
 ||logs.us-east-1.internal.dradis.netflix.com^
 ||log.svc.screencastify.com^
+||log-va-us-looki.capcutapi.com^
 ||mads.amazon.com^
 ||mads.dailymail.co.uk^
 ||marketing.cyberdefensemediagroup.com^
@@ -802,7 +803,6 @@
 ||webmetrics.mayoclinic.org^
 ||webstats.eb.com^
 ||westus2-0.in.applicationinsights.azure.com^
-||wlfanduelus.adsrv.eacdn.com^
 ||ww8.kohls.com^
 ||www2.centricsoftware.com^
 ||www91.intel.com^
