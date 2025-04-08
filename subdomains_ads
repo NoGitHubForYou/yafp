@@ -112,9 +112,11 @@
 ||als-svc.nytimes.com^
 ||ametrics.lumen.com^
 ||analytics-api.samsunghealthcn.com^
+||analytics-au.cloud.coveo.com^
 ||analytics.crimewatchtech.com^
 ||analytics.eip.telegraph.co.uk^
 ||analyticsengine.s3.amazonaws.com^
+||analytics-eu.cloud.coveo.com^
 ||analytics.global.sky.com^
 ||analytics.google.com^
 ||analytics.htmedia.in^
@@ -128,6 +130,7 @@
 ||analytics.ncaa.com^
 ||analytics.nike.com^
 ||analytics.nike.com.edgekey.net^
+||analytics.org.coveo.com^
 ||analytics.pinterest.com^
 ||analytics.pnc.com^
 ||analytics.s3.amazonaws.com^
