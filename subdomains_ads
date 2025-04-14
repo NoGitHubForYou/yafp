@@ -141,6 +141,7 @@
 ||analytics.slashdotmedia.com^
 ||analytics.starlink.com^
 ||analytics.supplyframe.com^
+||analytics.ticketmaster.com^
 ||analytics.tiktok.com^
 ||analytics.twitter.com^
 ||analytics-v2.wetransfer.com^
@@ -212,6 +213,7 @@
 ||capture.condenastdigital.com^
 ||c.arstechnica.com^
 ||c-bing-com.a-0001.a-msedge.net^
+||cdntranscend.eventbrite.com^
 ||cfa.fidelity.com^
 ||client-telemetry.roblox.com^
 ||cms.analytics.yahoo.com^
@@ -329,6 +331,7 @@
 ||infinityid.condenastdigital.com^
 ||info.upkeep.com^
 ||intake-analytics.wikimedia.org^
+||ip2location.wmgartistservices.com^
 ||jac.yahoosandbox.com^
 ||jvxpxl.marriott.com^
 ||lan.sdk.linkedin.com^
@@ -395,6 +398,7 @@
 ||metrics.dominos.com^
 ||metrics.fcacert.com^
 ||metrics.fedex.com^
+||metrics-fe-na1.hubspot.com^
 ||metrics.fieldandstreamshop.com^
 ||metrics.ford.com^
 ||metrics.fortinet.com^
@@ -461,6 +465,7 @@
 ||metrics.washingtonpost.com^
 ||metrics.wegmans.com^
 ||metrics.wm.com^
+||metrics.wmg.com^
 ||metrics.wyndhamhotels.com^
 ||metrics.xfinity.com^
 ||metrics.yellowbook.com^
@@ -655,6 +660,7 @@
 ||smetrics.washingtonpost.com^
 ||smetrics.wegmans.com^
 ||smetrics.wm.com^
+||smetrics.wmg.com^
 ||smetrics.wyndhamhotels.com^
 ||smetrics.yellowbook.com^
 ||smetrics.yellowpages.com^
@@ -782,6 +788,9 @@
 ||trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev^
 ||track.dictionary.com^
 ||tracker.nbcuas.com^
+||track-eu1.hubspot.com^
+||track-fra04-origin.spectrum.hubspot.com^
+||track.hubspot.com^
 ||tracking.al-array.com^
 ||tracking.bloomberg.com^
 ||tracking.bloomberg.com.shared.bloomberga.com^
