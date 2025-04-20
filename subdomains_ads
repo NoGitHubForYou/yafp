@@ -299,6 +299,7 @@
 ||geo-atsv2.media.g03.yahoodns.net^
 ||geo.cnbc.com^
 ||geoip.businessinsider.com^
+||geoip.radio-canada.ca^
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
 ||glitter.services.disqus.com^
@@ -386,6 +387,7 @@
 ||metrics.brightcove.com^
 ||metrics.capitalone.com^
 ||metrics.cars.com^
+||metrics.cbc.ca^
 ||metrics.chipotle.com^
 ||metrics.citizensbank.com^
 ||metrics.cnn.com^
@@ -408,6 +410,7 @@
 ||metrics.fortinet.com^
 ||metrics.foxnews.com^
 ||metrics.global.nba.com^
+||metrics.globalnews.ca^
 ||metrics.hrblock.com^
 ||metrics.icloud.com^
 ||metrics.ionos.com^
@@ -490,6 +493,7 @@
 ||ogads-pa.clients6.google.com^
 ||ogads-pa.googleapis.com^
 ||ohttp-relay1.fastly-edge.com^
+||om1.sportsnet.ca^
 ||om.familysearch.org^
 ||omn.americanexpress.com^
 ||omni.basspro.com^
@@ -497,6 +501,7 @@
 ||omnis.basspro.com^
 ||omniture.stuff.co.nz^
 ||omns.americanexpress.com^
+||oms1.sportsnet.ca^
 ||oms.dowjoneson.com^
 ||oms.expedia.com^
 ||oms.gendigital.com^
@@ -593,6 +598,7 @@
 ||smetrics.bostonglobe.com^
 ||smetrics.capitalone.com^
 ||smetrics.cars.com^
+||smetrics.cbc.ca^
 ||smetrics.cisco.com^
 ||smetrics.citizensbank.com^
 ||smetrics.cnn.com^
@@ -613,6 +619,7 @@
 ||smetrics.foxbusiness.com^
 ||smetrics.foxnews.com^
 ||smetrics.global.nba.com^
+||smetrics.globalnews.ca^
 ||smetrics.hrblock.com^
 ||smetrics.jcpenney.com^
 ||smetrics.kay.com^
@@ -725,11 +732,13 @@
 ||starget.thetruth.com^
 ||startup.mobile.yandex.net^
 ||stats.adobe.com^
+||stats-api.sportsnet.ca^
 ||stats.bitdefender.com^
 ||stats.cartoonnetwork.com^
 ||stats.glb.paypal.com^
 ||stats.kaltura.com^
 ||stats.meijer.com^
+||stats.myibtimes.com^
 ||stats.newsweek.com^
 ||stats.pandora.com^
 ||stats.pusher.com^
