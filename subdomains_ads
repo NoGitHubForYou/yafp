@@ -205,6 +205,7 @@
 ||beacon.wikia-services.com^
 ||beap-bc.yahoo.com^
 ||beap.gemini.yahoo.com^
+||beehiiv-adnetwork-production.s3.amazonaws.com^
 ||b.fox.com^
 ||books-analytics-events.apple.com^
 ||browser.events.data.microsoft.com^
@@ -224,6 +225,7 @@
 ||collector.github.com^
 ||collector.pi.spectrum.net^
 ||concertads-configs.vox-cdn.com^
+||confiant-integrations.global.ssl.fastly.net^
 ||content22.citibankonline.com^
 ||content22.citi.eu^
 ||content22.online.citi.com^
@@ -578,6 +580,7 @@
 ||secured.netflix.com^
 ||securemetrics.apple.com^
 ||securemetrics.v.aaplimg.com^
+||sentinelpro.b-cdn.net^
 ||service.idsync.analytics.yahoo.com^
 ||sjourney.aarp.org^
 ||sm.dell.com^
@@ -766,6 +769,7 @@
 ||swasc.homedepot.com^
 ||swa.tjmaxx.tjx.com^
 ||syndication.twitter.com^
+||tag.aftvnews.com^
 ||tagdelivery.mayoclinic.org^
 ||tagman.britishairways.com^
 ||tags.news.com.au^
