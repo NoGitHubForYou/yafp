@@ -19,8 +19,8 @@
 ||crl.sectigo.com^
 ||crl.usertrust.com^
 ||d3b1c42fugk7m1.cloudfront.net^
+||duhb7ois6x4q0.cloudfront.net^
 ||e5.c.lencr.org^
-||e5.i.lencr.org^
 ||e5.o.lencr.org^
 ||gdcrl.godaddy.com.akadns.net^
 ||ocsp2.apple.com^
@@ -41,9 +41,11 @@
 ||ocsp.rootca1.amazontrust.com^
 ||ocsp.sectigo.com^
 ||ocsp.usertrust.com^
+||o.lencr.edgesuite.net^
+||o.lencr.org^
 ||oneocsp.microsoft.com^
 ||oneocsp-microsoft-com.a-0003.a-msedge.net^
 ||o.pki.goog^
-||r10.i.lencr.org^
+||r10.c.lencr.org^
 ||r10.o.lencr.org^
 ||x1.c.lencr.org^
