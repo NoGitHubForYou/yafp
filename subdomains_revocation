@@ -9,6 +9,7 @@
 ||crl.comodoca.com.cdn.cloudflare.net^
 ||crl.edge.digicert.com^
 ||crl.g.aaplimg.com^
+||crl.globalsign.com^
 ||crl.globalsign.net^
 ||crl.godaddy.com^
 ||crl-lb.apple.com.akadns.net^
@@ -19,6 +20,8 @@
 ||crl.usertrust.com^
 ||d3b1c42fugk7m1.cloudfront.net^
 ||e5.c.lencr.org^
+||e5.i.lencr.org^
+||e5.o.lencr.org^
 ||gdcrl.godaddy.com.akadns.net^
 ||ocsp2.apple.com^
 ||ocsp2.g.aaplimg.com^
@@ -30,6 +33,7 @@
 ||ocsp.digicert.com^
 ||ocsp.edge.digicert.com^
 ||ocsp.globalsign.com^
+||ocsp.globalsign.net^
 ||ocsp.godaddy.com^
 ||ocsp.godaddy.com.akadns.net^
 ||ocsp-lb.apple.com.akadns.net^
@@ -40,4 +44,6 @@
 ||oneocsp.microsoft.com^
 ||oneocsp-microsoft-com.a-0003.a-msedge.net^
 ||o.pki.goog^
+||r10.i.lencr.org^
+||r10.o.lencr.org^
 ||x1.c.lencr.org^
