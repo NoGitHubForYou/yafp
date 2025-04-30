@@ -17,6 +17,8 @@
 ||crl.r2m02.amazontrust.com^
 ||crl.root-x1.letsencrypt.org.edgekey.net^
 ||crl.sectigo.com^
+||crl.swisssign.net^
+||crl.swisssign.net.edgekey.net^
 ||crl.usertrust.com^
 ||d3b1c42fugk7m1.cloudfront.net^
 ||d3ixo6lo4k7evu.cloudfront.net^
