@@ -1,5 +1,8 @@
 ||cac-ocsp.digicert.com.edgekey.net^
 ||cdn.globalsigncdn.com.cdn.cloudflare.net^
+||cdp.geotrust.com^
+||cdp.rapidssl.com^
+||cdp.thawte.com^
 ||c.lencr.org^
 ||c.pki.goog^
 ||crl3.digicert.com^
@@ -8,13 +11,17 @@
 ||crl.comodoca.com^
 ||crl.comodoca.com.cdn.cloudflare.net^
 ||crl.edge.digicert.com^
+||crl.entrust.net^
+||crl.entrust.net.edgesuite.net^
 ||crl.g.aaplimg.com^
 ||crl.globalsign.com^
 ||crl.globalsign.net^
 ||crl.godaddy.com^
 ||crl-lb.apple.com.akadns.net^
 ||crl.pki.goog^
+||crl.r2m01.amazontrust.com^
 ||crl.r2m02.amazontrust.com^
+||crl.r2m03.amazontrust.com^
 ||crl.root-x1.letsencrypt.org.edgekey.net^
 ||crl.sectigo.com^
 ||crl.swisssign.net^
@@ -42,6 +49,9 @@
 ||ocsp.godaddy.com.akadns.net^
 ||ocsp-lb.apple.com.akadns.net^
 ||ocsp.pki.goog^
+||ocsp.r2m01.amazontrust.com^
+||ocsp.r2m02.amazontrust.com^
+||ocsp.r2m03.amazontrust.com^
 ||ocsp.rootca1.amazontrust.com^
 ||ocsp.sectigo.com^
 ||ocsp.usertrust.com^
