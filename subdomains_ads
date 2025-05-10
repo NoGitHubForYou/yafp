@@ -245,6 +245,7 @@
 ||dap.digitalgov.gov^
 ||dc.ads.linkedin.com^
 ||dcheqjwqu4.mlb.com^
+||dc.services.visualstudio.c^
 ||dd.giantfoodstores.com^
 ||dd.nytimes.com^
 ||dd.study.com^
@@ -340,6 +341,7 @@
 ||intake-analytics.wikimedia.org^
 ||ip2location.wmgartistservices.com^
 ||jac.yahoosandbox.com^
+||js.monitor.azure.com^
 ||jvxpxl.marriott.com^
 ||lan.sdk.linkedin.com^
 ||link.healthline.com^
@@ -485,6 +487,7 @@
 ||minerva.devices.a2z.com^
 ||minerva.healthcentral.com^
 ||mobile.events.data.microsoft.com^
+||monitor.azure.com^
 ||mybbc-analytics.files.bbci.co.uk^
 ||nmetrics.samsung.com^
 ||notes-analytics-events.apple.com^
@@ -514,6 +517,7 @@
 ||osimg.nbcuni.com^
 ||os.shutterfly.com^
 ||otr.kaspersky.com^
+||ots.webtrends-optimize.trafficmanager.net^
 ||outreach.abetterinternet.org^
 ||paa-reporting-advertising.amazon^
 ||pages-stats.rbl.ms^
@@ -577,6 +581,7 @@
 ||sci.intuit.com^
 ||s.click.aliexpress.com^
 ||sdtagging.azureedge.net^
+||search.supplyframe.com^
 ||secured.netflix.com^
 ||securemetrics.apple.com^
 ||securemetrics.v.aaplimg.com^
@@ -844,6 +849,8 @@
 ||webcontentassessor.global.ssl.fastly.net^
 ||webmetrics.mayoclinic.org^
 ||webstats.eb.com^
+||webtrends-optimize.trafficmanager.net^
+||webtrends-optimize-ue2-v1.eastus2.cloudapp.azure.com^
 ||westus2-0.in.applicationinsights.azure.com^
 ||ww8.kohls.com^
 ||www2.centricsoftware.com^
