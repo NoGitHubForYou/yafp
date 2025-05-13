@@ -1,3 +1,4 @@
+||00110.citi.com^
 ||1082243146.us-east-2.elb.amazonaws.com^
 ||1163803123.us-east-2.elb.amazonaws.com^
 ||121909266.us-east-1.elb.amazonaws.com^
@@ -234,6 +235,9 @@
 ||content.nielsen.com^
 ||content.product.glitch.com^
 ||content.product.greynoise.io^
+||contents1.00110.citi.com^
+||contents2.00110.citi.com^
+||contents3.00110.citi.com^
 ||contributions.guardianapis.com^
 ||crta.dailymail.co.uk^
 ||crta.dailymail.co.uk.edgekey.net^
@@ -546,6 +550,7 @@
 ||prod.ups-ats.aolp-ds-prd.aws.oath.cloud^
 ||prod.ups-ats.us-east-1.aolp-ds-prd.aws.oath.cloud^
 ||psqsjg.coach.com^
+||p.typekit.net^
 ||pubgw.ads.yahoo.com^
 ||pubgw.yahoo.com^
 ||purr.nytimes.com^
