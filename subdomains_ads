@@ -201,6 +201,7 @@
 ||beacons.gcp.gvt2.com^
 ||beacons.gvt2.com^
 ||beacons-handoff.gcp.gvt2.com^
+||beacon.shazam.com^
 ||beacon.shutterfly.com^
 ||beacon.walmart.com^
 ||beacon.wikia-services.com^
@@ -250,6 +251,7 @@
 ||dc.ads.linkedin.com^
 ||dcheqjwqu4.mlb.com^
 ||dc.services.visualstudio.c^
+||dc.services.visualstudio.com^
 ||dd.giantfoodstores.com^
 ||dd.nytimes.com^
 ||dd.study.com^
@@ -277,6 +279,7 @@
 ||error-analytics-sessions-production.shopifysvc.com^
 ||error-tracking.reddit.com^
 ||eu-mobile.events.data.microsoft.com^
+||eventcollector.mcf-prod.a.intuit.com^
 ||event-logger.tagboard.com^
 ||events.data.microsoft.com^
 ||events.launchdarkly.com^
@@ -824,8 +827,10 @@
 ||tracking.bloomberg.com^
 ||tracking.bloomberg.com.shared.bloomberga.com^
 ||tracking.clarivate.com^
+||tracking.fortnite.com^
 ||tracking-prod1.ext.cirrus.bloomberg.com^
 ||tracking.skyword.com^
+||tracking-website-prod-674464163.us-east-1.elb.amazonaws.com^
 ||track.playsimple.games^
 ||track.spe.schoolmessenger.com^
 ||trkapi.impact.com^
@@ -838,6 +843,7 @@
 ||udc.yahoo.com^
 ||ups.analytics.yahoo.com^
 ||user-stats.rbl.ms^
+||us-events.api.iheart.com^
 ||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
 ||v6analytics.htmedia.in.edgekey.net^
