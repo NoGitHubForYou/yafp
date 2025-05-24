@@ -7961,8 +7961,10 @@
 ||applepay.ddns.net^
 ||applepayfr.redirectme.net^
 ||apple-pay.myvnc.com^
+||applepay.onthewifi.com^
 ||applepay-otp.servehttp.com^
 ||applepay.redirectme.net^
+||applepay-review.onthewifi.com^
 ||applepay.servehttp.com^
 ||applepay.serveirc.com^
 ||applepay-support.ddns.net^
@@ -8946,6 +8948,7 @@
 ||aulas2012.no-ip.org^
 ||aulhhojaxxgl6o.ddns.net^
 ||aunger.workers.dev^
+||aupost.onthewifi.com^
 ||aupost.redirectme.net^
 ||auracraft.no-ip.biz^
 ||auroraborealis.sytes.net^
@@ -16089,6 +16092,7 @@
 ||commbank-alert.redirectme.net^
 ||commbank-au.myvnc.com^
 ||commbankau.redirectme.net^
+||commbank-login.onthewifi.com^
 ||commbank-myaccount.redirectme.net^
 ||commbankreview.redirectme.net^
 ||commbank.servehttp.com^
@@ -16108,6 +16112,7 @@
 ||commission-machines.gl.at.ply.gg^
 ||comm-logon.ddns.net^
 ||commoman.zapto.org^
+||commonbank-online.onthewifi.com^
 ||common-combo.gl.at.ply.gg^
 ||common-congratulations.gl.at.ply.gg^
 ||common-instructional.gl.at.ply.gg^
@@ -16636,6 +16641,7 @@
 ||cost-hughes.gl.at.ply.gg^
 ||costs-cellular.gl.at.ply.gg^
 ||costs-lafayette.gl.at.ply.gg^
+||costumersupport.cloudns.ph^
 ||cotizacionesnuevas1.duckdns.org^
 ||cotreadfinest.no-ip.biz^
 ||cot.sells-it.net^
@@ -23303,6 +23309,7 @@
 ||etranc-online.myvnc.com^
 ||etranlnterarc.ddns.net^
 ||etrannsferdsosits.myvnc.com^
+||etransfer.clienturl.net^
 ||etransfer-deposit.ddns.net^
 ||etransferdeposit.myvnc.com^
 ||etransferdeposits.myvnc.com^
@@ -23310,6 +23317,7 @@
 ||etransferdsosits.myvnc.com^
 ||etransfer-interac-canada.gleeze.com^
 ||etransfer-interac-canada.mywire.org^
+||etransfer-interac.kozow.com^
 ||etransferinterac.myvnc.com^
 ||etransfer-interac.mywire.org^
 ||etransfer-mytelus.serveftp.com^
@@ -33569,7 +33577,9 @@
 ||interac-emt.ddns.net^
 ||interac-etransfer.publicvm.com^
 ||interacetransfer.publicvm.com^
+||interac.ignorelist.com^
 ||interac-mobile.ddns.net^
+||interac.mooo.com^
 ||interac.myvnc.com^
 ||interaconline.3utilities.com^
 ||interaconline.cloudns.nz^
@@ -40133,6 +40143,8 @@
 ||login.loginto.me^
 ||login-lt.gl.at.ply.gg^
 ||login-maildelivery-mailbox.s3.us-east-1.amazonaws.com^
+||loginmy-gov.onthewifi.com^
+||loginmygov.onthewifi.com^
 ||login-netbank.ddns.net^
 ||login-scotia.linkpc.net^
 ||loginsdaum.viewdns.net^
@@ -46782,6 +46794,7 @@
 ||mygov-ato-returns.publicvm.com^
 ||mygov-au365.ddns.net^
 ||mygovauinbox.duckdns.org^
+||mygovau.onthewifi.com^
 ||mygovau.publicvm.com^
 ||mygovaus.ddns.net^
 ||mygovausecure.duckdns.org^
@@ -46793,6 +46806,9 @@
 ||mygov-inbox.myddns.me^
 ||mygov-inbox.redirectme.net^
 ||mygovinbox.redirectme.net^
+||mygov-inbox.webredirect.org^
+||mygov-login.onthewifi.com^
+||mygovlogin.onthewifi.com^
 ||mygovmessage-alert.redirectme.net^
 ||mygov-message.redirectme.net^
 ||mygov-myinbox.redirectme.net^
@@ -46875,6 +46891,7 @@
 ||myip.no-ip.biz^
 ||my-ird.publicvm.com^
 ||myird-refund.myvnc.com^
+||my-ird.theworkpc.com^
 ||myisrael.ddns.net^
 ||myistealer2.no-ip.biz^
 ||myjizzle.ddns.net^
@@ -47039,6 +47056,7 @@
 ||myskibiditoilet.zapto.org^
 ||myslavesbitch.no-ip.biz^
 ||myslaves.ddns.net^
+||my-slot.selfip.com^
 ||mysmeetr.ddns.net^
 ||myspace-dns.no-ip.biz^
 ||mysparta322.myftp.biz^
@@ -47174,6 +47192,7 @@
 ||n1tr0-73.no-ip.org^
 ||n23k56.3utilities.com^
 ||n26alert.redirectme.net^
+||n26.webhop.me^
 ||n3ijwcg6opdv.viewdns.net^
 ||n3l.duckdns.org^
 ||n3tf-ix.serveblog.net^
@@ -52738,10 +52757,13 @@
 ||pichicoyote.duckdns.org^
 ||picim.no-ip.biz^
 ||picka.linkpc.net^
+||pick.from-ne.com^
 ||pickle0669.no-ip.info^
 ||pickled.myddns.com^
 ||pickles1234234.no-ip.biz^
 ||pickles.zapto.org^
+||pickslot.for-more.biz^
+||pick-slot.for-our.info^
 ||picla.oss-eu-central-1.aliyuncs.com^
 ||picmisin.no-ip.biz^
 ||picopoco.no-ip.biz^
@@ -60015,6 +60037,7 @@
 ||securitynetwork.zapto.org^
 ||security.no-ip.biz^
 ||securityonline-hsbc.ddns.net^
+||securitypage2023.zapto.org^
 ||securitypoint.ddns.net^
 ||securityprocess.no-ip.biz^
 ||security-response.northeurope.cloudapp.azure.com^
@@ -70618,6 +70641,7 @@
 ||voicia-net.ddns.net^
 ||voidingaim.no-ip.biz^
 ||voidsystems.duckdns.org^
+||voiksbank2024.hopto.org^
 ||voinmraka.no-ip.biz^
 ||voip19.ddns.net^
 ||voip4suriname.duckdns.org^
@@ -70647,6 +70671,7 @@
 ||volksbank2023.sytes.net^
 ||volksbankinfo.sytes.net^
 ||volksservice.sytes.net^
+||volksup.zapto.org^
 ||volleyball.ddns.net^
 ||vollpfosten.redirectme.net^
 ||volnado.sytes.net^
