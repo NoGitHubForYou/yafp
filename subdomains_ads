@@ -25,9 +25,11 @@
 ||ad-host-backup-america.s3.us-west-1.amazonaws.com^
 ||ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com^
 ||ad.mail.ru^
+||ad.parkvv.com^
 ||ads-cloud.rovio.com^
 ||ads.empowerlocal.co^
 ||adserver.pressboard.ca^
+||adserver.wenxuecity.com^
 ||adservice.cm.bloomberg.com^
 ||adservice.google.ca^
 ||adservice.google.co.in^
@@ -543,6 +545,7 @@
 ||pixel.spotify.com^
 ||pixels.spotify.com^
 ||pixel-static.spotify.com^
+||pixel.wenxuecity.com^
 ||pixel.wp.com^
 ||pixiedust.buzzfeed.com^
 ||pix.nbcuni.com^
