@@ -1,4 +1,5 @@
 ||00110.citi.com^
+||1070735534.rsc.cdn77.org^
 ||1082243146.us-east-2.elb.amazonaws.com^
 ||1163803123.us-east-2.elb.amazonaws.com^
 ||121909266.us-east-1.elb.amazonaws.com^
@@ -219,6 +220,7 @@
 ||capture.condenastdigital.com^
 ||c.arstechnica.com^
 ||c-bing-com.a-0001.a-msedge.net^
+||cdn-hb.b-cdn.net^
 ||cdntranscend.eventbrite.com^
 ||cfa.fidelity.com^
 ||clickhouse-error-analyti-yo42ots2-observe-clickhouse-us-ea1-ts8.shopifycloud.com^
@@ -359,6 +361,10 @@
 ||links.thetruth.com^
 ||location.p7cloud.net^
 ||log1.olark.com^
+||log.byteoversea.com^
+||log.byteoversea.com.bytewlb.akadns.net^
+||log.byteoversea.com.edgekey.net^
+||log.byteoversea.com.ttdns2.com^
 ||log.fc.yahoo.com^
 ||log.gns.go.com^
 ||log.go.com^
@@ -705,6 +711,7 @@
 ||smodus.nike.com^
 ||smon.congress.gov^
 ||smy.iheart.com^
+||snack-scripts.b-cdn.net^
 ||somni.bluecrossma.com^
 ||somni.deere.com^
 ||somni.myrocket.com^
