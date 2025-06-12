@@ -1,3 +1,4 @@
+||cacerts.digicert.com^
 ||cac-ocsp.digicert.com.edgekey.net^
 ||cdn.globalsigncdn.com.cdn.cloudflare.net^
 ||cdp.geotrust.com^
@@ -68,5 +69,8 @@
 ||r11.o.lencr.org^
 ||r12.c.lencr.org^
 ||r12.o.lencr.org^
+||seal.globalsign.com^
+||ssif1.globalsign.com^
 ||x1.c.lencr.org^
+||x1.i.lencr.org^
 ||x2.c.lencr.org^
