@@ -6,6 +6,8 @@
 ||adblock.doh.mullvad.net^
 ||all.dns.mullvad.net^
 ||base.dns.mullvad.net^
+||child.joindns4.eu^
+||child-noads.joindns4.eu^
 ||dandelionsprout.asuscomm.com^
 ||dns1.nordvpn.com^
 ||dns2.digitalcourage.de^
@@ -58,11 +60,14 @@
 ||family.canadianshield.cira.ca^
 ||family.dns.mullvad.net^
 ||kaitain.restena.lu^
+||noads.joindns4.eu^
 ||odvr.nic.cz^
 ||one.one.one.one^
 ||ordns.he.net^
 ||private.canadianshield.cira.ca^
 ||protected.canadianshield.cira.ca^
+||protective.joindns4.eu^
 ||public.dns.iij.jp^
 ||resolver-eu.lelux.fi^
 ||standard-block.dns.adguard.com^
+||unfiltered.joindns4.eu^
