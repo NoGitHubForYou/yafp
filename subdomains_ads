@@ -215,6 +215,7 @@
 ||books-analytics-events.apple.com^
 ||browser.events.data.microsoft.com^
 ||browser.events.data.msn.com^
+||bs-adserver.b-cdn.net^
 ||b.stats.paypal.com^
 ||c2shb.pubgw.yahoo.com^
 ||capture.condenastdigital.com^
@@ -230,6 +231,9 @@
 ||collector.cdp.cnn.io^
 ||collector.github.com^
 ||collector.pi.spectrum.net^
+||collector.xhamster43.desi^
+||collector.xhamster.com^
+||collector.xhchannel.com^
 ||concertads-configs.vox-cdn.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||content22.citibankonline.com^
@@ -733,6 +737,7 @@
 ||soptimize.southwest.com^
 ||sp.analytics.yahoo.com^
 ||spdc-global.pbp.gysm.yahoodns.net^
+||sponsor-v2.lebtown.com^
 ||src.ebay-us.com^
 ||src.g03.yahoodns.net^
 ||srtb.msn.com^
