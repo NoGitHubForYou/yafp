@@ -23,6 +23,7 @@
 ||a.beap.gemini.yahoo.com^
 ||abt.nike.com^
 ||acemetrics.aaa.com^
+||ad.daum.net^
 ||ad-host-backup-america.s3.us-west-1.amazonaws.com^
 ||ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com^
 ||ad.mail.ru^
@@ -347,6 +348,7 @@
 ||clickhouse-error-analyti-yo42ots2-observe-clickhouse-us-ea1-ts8.shopifycloud.com^
 ||client-telemetry.roblox.com^
 ||cms.analytics.yahoo.com^
+||c.msn.com^
 ||collector.cdp.cnn.com^
 ||collector.cdp.cnn.io^
 ||collector-direct.xhamster.com^
@@ -558,6 +560,7 @@
 ||metrics.beyondwords.io^
 ||metrics.bostonglobe.com^
 ||metrics.brightcove.com^
+||metrics.caesars.com^
 ||metrics.capitalone.com^
 ||metrics.cars.com^
 ||metrics.cbc.ca^
@@ -761,6 +764,7 @@
 ||sentinelpro.b-cdn.net^
 ||service.idsync.analytics.yahoo.com^
 ||sjourney.aarp.org^
+||s.lenovo.com^
 ||sm.dell.com^
 ||smetric.hilton.com^
 ||smetric.olivegarden.com^
@@ -778,6 +782,7 @@
 ||smetrics.bet.com^
 ||smetrics.boston.com^
 ||smetrics.bostonglobe.com^
+||smetrics.caesars.com^
 ||smetrics.capitalone.com^
 ||smetrics.cars.com^
 ||smetrics.cbc.ca^
@@ -912,6 +917,7 @@
 ||sstats.meijer.com^
 ||sstats.paloaltonetworks.com^
 ||sstats.scholastic.com^
+||sst.dell.com^
 ||starget.bitdefender.com^
 ||starget.intel.com^
 ||starget.mathworks.com^
@@ -1019,6 +1025,7 @@
 ||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
 ||v6analytics.htmedia.in.edgekey.net^
+||vmss-clarity-ingest-eus.eastus.cloudapp.azure.com^
 ||w3-reporting-nel.reddit.com^
 ||w3-reporting.reddit.com^
 ||w88.abc.com^

@@ -26,6 +26,7 @@
 ||crl.r2m03.amazontrust.com^
 ||crl.root-x1.letsencrypt.org.edgekey.net^
 ||crl.sectigo.com^
+||crls.ssl.com^
 ||crl.swisssign.net^
 ||crl.swisssign.net.edgekey.net^
 ||crl.usertrust.com^
@@ -57,6 +58,7 @@
 ||ocsp.r2m03.amazontrust.com^
 ||ocsp.rootca1.amazontrust.com^
 ||ocsp.sectigo.com^
+||ocsps.ssl.com^
 ||ocsp.usertrust.com^
 ||o.lencr.edgesuite.net^
 ||o.lencr.org^
