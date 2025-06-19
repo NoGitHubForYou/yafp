@@ -240,6 +240,7 @@
 ||analytics-api.samsunghealthcn.com^
 ||analytics-au.cloud.coveo.com^
 ||analytics.crimewatchtech.com^
+||analytics.egov.gov.il^
 ||analytics.eip.telegraph.co.uk^
 ||analyticsengine.s3.amazonaws.com^
 ||analytics-eu.cloud.coveo.com^
@@ -262,6 +263,7 @@
 ||analytics.pnc.com^
 ||analytics.s3.amazonaws.com^
 ||analytics.samsungknox.com^
+||analytics-sdk.yle.fi^
 ||analytics-secure.dollargeneral.com^
 ||analytics.sitewit.com^
 ||analytics.slashdotmedia.com^
@@ -394,6 +396,7 @@
 ||contents2.00110.citi.com^
 ||contents3.00110.citi.com^
 ||contributions.guardianapis.com^
+||contributor.google.com^
 ||count.schwab.com^
 ||crta.dailymail.co.uk^
 ||crta.dailymail.co.uk.edgekey.net^
@@ -410,6 +413,7 @@
 ||dd.leboncoin.fr^
 ||dd.nytimes.com^
 ||dd.study.com^
+||d.email.forbes.com^
 ||depart-use1-alb-publb-1946368143.us-east-1.elb.amazonaws.com^
 ||device-metrics-us-2.amazon.com^
 ||device-metrics-us.amazon.com^
@@ -427,8 +431,10 @@
 ||dynatrace.att.com^
 ||ead.newint.org^
 ||edgecast-vod.yimg.com^
+||e.email.forbes.com^
 ||e.emails.erieinsurance.com^
 ||elqtrk.intel.com^
+||engage.email.britannica.com^
 ||engage.stairwell.com^
 ||e.reddit.com^
 ||error-analytics-sessions-production.shopifysvc.com^
@@ -471,6 +477,7 @@
 ||geo.cnbc.com^
 ||geoip.businessinsider.com^
 ||geoip.radio-canada.ca^
+||geolocation.forbes.com^
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
 ||glitter.services.disqus.com^
@@ -517,6 +524,7 @@
 ||links.services.disqus.com^
 ||links.thetruth.com^
 ||location.p7cloud.net^
+||locations.api.yle.fi^
 ||log1.olark.com^
 ||log.byteoversea.com^
 ||log.byteoversea.com.bytewlb.akadns.net^
@@ -721,6 +729,7 @@
 ||prebid-server.newsbreak.com^
 ||prod.ups-ats.aolp-ds-prd.aws.oath.cloud^
 ||prod.ups-ats.us-east-1.aolp-ds-prd.aws.oath.cloud^
+||promote-subscribe.forbes.com^
 ||psqsjg.coach.com^
 ||p.typekit.net^
 ||pubgw.ads.yahoo.com^
@@ -739,6 +748,7 @@
 ||report.appmetrica.yandex.net^
 ||report-partners.appmetrica.yandex.net^
 ||responder.wt.heise.de^
+||revboostprocdnadsprod.azureedge.net^
 ||rma.homedepot.com^
 ||rna.homedepot.com^
 ||rtbdemand.apiip.net^
@@ -763,6 +773,7 @@
 ||secured.netflix.com^
 ||securemetrics.apple.com^
 ||securemetrics.v.aaplimg.com^
+||se.email.forbes.com^
 ||sentinelpro.b-cdn.net^
 ||service.idsync.analytics.yahoo.com^
 ||sjourney.aarp.org^
@@ -964,6 +975,7 @@
 ||syndication.twitter.com^
 ||tag.aftvnews.com^
 ||tagdelivery.mayoclinic.org^
+||tag-manager.yle.fi^
 ||tagman.britishairways.com^
 ||tags.news.com.au^
 ||tags.toyota.com^
