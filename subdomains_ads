@@ -248,6 +248,7 @@
 ||analytics.google.com^
 ||analytics.htmedia.in^
 ||analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com^
+||analytics-ingress-global.bitmovin.com^
 ||analytics.kaltura.com^
 ||analytics.lexisnexisrisk.com^
 ||analytics.lillydigitalmedia.com^
@@ -311,6 +312,7 @@
 ||axp.wane.com^
 ||axp.westernslopenow.com^
 ||axp.wnct.com^
+||axp.wric.com^
 ||axp.yourbigsky.com^
 ||axp.yourcentralvalley.com^
 ||axp.yourerie.com^
@@ -520,6 +522,7 @@
 ||js.monitor.azure.com^
 ||jvxpxl.marriott.com^
 ||lan.sdk.linkedin.com^
+||licensing.bitmovin.com^
 ||link.healthline.com^
 ||links.services.disqus.com^
 ||links.thetruth.com^
@@ -682,6 +685,7 @@
 ||ogads-pa.googleapis.com^
 ||ohttp-relay1.fastly-edge.com^
 ||om1.sportsnet.ca^
+||omapp.b-cdn.net^
 ||om.familysearch.org^
 ||omn.americanexpress.com^
 ||omni.basspro.com^
@@ -977,8 +981,10 @@
 ||tagdelivery.mayoclinic.org^
 ||tag-manager.yle.fi^
 ||tagman.britishairways.com^
+||tags.nba.com^
 ||tags.news.com.au^
 ||tags.toyota.com^
+||tags.wnba.com^
 ||target.bankofamerica.com^
 ||target.chase.com^
 ||target.cisco.com^
