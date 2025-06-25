@@ -28,6 +28,7 @@
 ||ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com^
 ||ad.mail.ru^
 ||ad.parkvv.com^
+||ads-alpha.ewscloud.com^
 ||ads-cloud.rovio.com^
 ||ads.empowerlocal.co^
 ||adserver.pressboard.ca^
@@ -415,6 +416,7 @@
 ||dd.giantfoodstores.com^
 ||dd.leboncoin.fr^
 ||dd.nytimes.com^
+||dd.reuters.com^
 ||dd.study.com^
 ||d.email.forbes.com^
 ||depart-use1-alb-publb-1946368143.us-east-1.elb.amazonaws.com^
@@ -737,6 +739,7 @@
 ||promote-subscribe.forbes.com^
 ||psqsjg.coach.com^
 ||p.typekit.net^
+||p.typekit.net-stls-v3.edgesuite.net^
 ||pubgw.ads.yahoo.com^
 ||pubgw.yahoo.com^
 ||purr.nytimes.com^
