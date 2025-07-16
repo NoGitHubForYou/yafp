@@ -2,7 +2,10 @@
 ||cloudflare-dns.com^
 ||dns.google^
 ||dns.pub^
+||dns.sb^
 ||doh.pub^
+||doh.sb^
 ||dot.pub^
+||dot.sb^
 ||use-application-dns.net^
 ||wikimedia-dns.org^

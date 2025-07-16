@@ -15,6 +15,7 @@
 ||dns.dnswarden.com^
 ||dns-family.adguard.com^
 ||dns.google.com^
+||dns.lindung.pp.ua^
 ||dns.nextdns.io^
 ||dns.opendns.com^
 ||dns.quad9.net^
@@ -30,6 +31,8 @@
 ||doh.libredns.gr^
 ||doh.opendns.com^
 ||doh-sg.blahdns.com^
+||doh.tiarap.org^
+||doh.tiar.app^
 ||dot1.applied-privacy.net^
 ||dot.libredns.gr^
 ||dot-sg.blahdns.com^
