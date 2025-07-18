@@ -1,4 +1,6 @@
 ||adult-filter-dns.cleanbrowsing.org^
+||anycast.censurfridns.dk^
+||anycast.uncensoreddns.org^
 ||child.joindns4.eu^
 ||child-noads.joindns4.eu^
 ||dns10.quad9.net^
@@ -56,3 +58,5 @@
 ||tky-dns.bitdefender.net^
 ||unfiltered.adguard-dns.com^
 ||unfiltered.joindns4.eu^
+||unicast.censurfridns.dk^
+||unicast.uncensoreddns.org^
