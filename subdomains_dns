@@ -17,6 +17,8 @@
 ||dns.bitdefender.net^
 ||dns.cloudflare.com^
 ||dns.dnswarden.com^
+||dns-doh.dnsforfamily.com^
+||dns-dot.dnsforfamily.com^
 ||dns-family.adguard.com^
 ||dns.google.com^
 ||dns.lindung.pp.ua^
