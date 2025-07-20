@@ -1,12 +1,16 @@
 ||ada.openbld.net^
+||adblock.dns.dnswarden.com^
 ||adblock.mydns.network^
 ||adult-filter-dns.cleanbrowsing.org^
+||adultfilter.dns.dnswarden.com^
 ||anycast.censurfridns.dk^
 ||anycast.uncensoreddns.org^
 ||child.joindns4.eu^
 ||child-noads.joindns4.eu^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
+||dns12.quad9.net^
+||dns13.quad9.net^
 ||dns1.nordvpn.com^
 ||dns2.nordvpn.com^
 ||dns3.digitalcourage.de^
@@ -51,6 +55,7 @@
 ||family.adguard-dns.com^
 ||family.canadianshield.cira.ca^
 ||family-filter-dns.cleanbrowsing.org^
+||family.freedns.controld.com^
 ||fra-dns.bitdefender.net^
 ||freedns.controld.com^
 ||freedom.mydns.network^
@@ -61,6 +66,10 @@
 ||nvi-dns.bitdefender.net^
 ||one.one.one.one^
 ||ore-dns.bitdefender.net^
+||p0.freedns.controld.com^
+||p1.freedns.controld.com^
+||p2.freedns.controld.com^
+||p3.freedns.controld.com^
 ||paranoia.mydns.network^
 ||private.canadianshield.cira.ca^
 ||protected.canadianshield.cira.ca^
@@ -68,6 +77,7 @@
 ||security-filter-dns.cleanbrowsing.org^
 ||sky.rethinkdns.com^
 ||tky-dns.bitdefender.net^
+||uncensored.freedns.controld.com^
 ||unfiltered.adguard-dns.com^
 ||unfiltered.joindns4.eu^
 ||unicast.censurfridns.dk^
