@@ -1,6 +1,7 @@
 ||ada.openbld.net^
 ||adblock.dns.dnswarden.com^
 ||adblock.mydns.network^
+||adl.adfilter.net^
 ||adult-filter-dns.cleanbrowsing.org^
 ||adultfilter.dns.dnswarden.com^
 ||anycast.censurfridns.dk^
@@ -81,11 +82,13 @@
 ||p2.freedns.controld.com^
 ||p3.freedns.controld.com^
 ||paranoia.mydns.network^
+||per.adfilter.net^
 ||private.canadianshield.cira.ca^
 ||protected.canadianshield.cira.ca^
 ||protective.joindns4.eu^
 ||security-filter-dns.cleanbrowsing.org^
 ||sky.rethinkdns.com^
+||syd.adfilter.net^
 ||tky-dns.bitdefender.net^
 ||uncensored.freedns.controld.com^
 ||unfiltered.adguard-dns.com^
