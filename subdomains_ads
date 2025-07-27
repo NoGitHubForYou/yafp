@@ -8,6 +8,7 @@
 ||2000866608.ap-south-1.elb.amazonaws.com^
 ||2061439435.us-west-2.elb.amazonaws.com^
 ||770847698.us-east-1.elb.amazonaws.com^
+||a02342.cumnockchronicle.com^
 ||a1802.dscq.akamai.net^
 ||a1895.dscq.akamai.net^
 ||a1928.dscq.akamai.net^
@@ -110,6 +111,9 @@
 ||ads.twitter.com^
 ||ads.us.nextdoor.com^
 ||adtago.s3.amazonaws.com^
+||advertising-cdn.walmart.com.akadns.net^
+||advertising.walmart.com^
+||advertising.walmart.com.cdn.cloudflare.net^
 ||advertising.yahooinc.com^
 ||aem.dickssportinggoods.com^
 ||a.et.nytimes.com^
@@ -347,6 +351,7 @@
 ||b.stats.paypal.com^
 ||c1.microsoft.com^
 ||c2shb.pubgw.yahoo.com^
+||campaigns.movavi.io^
 ||capture.condenastdigital.com^
 ||c.arstechnica.com^
 ||c-bing-com.a-0001.a-msedge.net^
