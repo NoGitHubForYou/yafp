@@ -32,6 +32,9 @@
 ||crl.swisssign.net.edgekey.net^
 ||crl.usertrust.com^
 ||crt.comodoca.com.cdn.cloudflare.net^
+||crt.r2m03.amazontrust.com^
+||crt.rootca1.amazontrust.com^
+||crt.rootg2.amazontrust.com^
 ||crt.sectigo.com^
 ||crt.usertrust.com^
 ||d3b1c42fugk7m1.cloudfront.net^
@@ -71,6 +74,7 @@
 ||oneocsp.microsoft.com^
 ||oneocsp-microsoft-com.a-0003.a-msedge.net^
 ||o.pki.goog^
+||o.ss2.us^
 ||r10.c.lencr.org^
 ||r10.o.lencr.org^
 ||r11.c.lencr.org^
@@ -84,3 +88,4 @@
 ||x1.c.lencr.org^
 ||x1.i.lencr.org^
 ||x2.c.lencr.org^
+||x.ss2.us^
