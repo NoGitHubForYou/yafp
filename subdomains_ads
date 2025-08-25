@@ -599,6 +599,7 @@
 ||metrics.brightcove.com^
 ||metrics.caesars.com^
 ||metrics.capitalone.com^
+||metrics.carnival.co.uk^
 ||metrics.cars.com^
 ||metrics.cbc.ca^
 ||metrics.chipotle.com^
@@ -832,6 +833,7 @@
 ||smetrics.bostonglobe.com^
 ||smetrics.caesars.com^
 ||smetrics.capitalone.com^
+||smetrics.carnival.co.uk^
 ||smetrics.cars.com^
 ||smetrics.cbc.ca^
 ||smetrics.cisco.com^
@@ -1014,8 +1016,10 @@
 ||tagman.britishairways.com^
 ||tags.nba.com^
 ||tags.news.com.au^
+||tags.rferl.org^
 ||tags.toyota.com^
 ||tags.wnba.com^
+||tag.uplift.com^
 ||target.bankofamerica.com^
 ||target.chase.com^
 ||target.cisco.com^
