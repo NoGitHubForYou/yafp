@@ -552,7 +552,6 @@
 ||links.thetruth.com^
 ||location.p7cloud.net^
 ||locations.api.yle.fi^
-||log1.olark.com^
 ||log.byteoversea.com^
 ||log.byteoversea.com.bytewlb.akadns.net^
 ||log.byteoversea.com.edgekey.net^
@@ -560,11 +559,11 @@
 ||log.fc.yahoo.com^
 ||log.gns.go.com^
 ||log.go.com^
-||log.olark.com^
 ||log.pinterest.com^
 ||logs.dradis.netflix.com^
 ||logs.guardianapis.com^
 ||logsink.devices.nest.com^
+||logsink.zedge.net^
 ||logs.netflix.com^
 ||logs.us-east-1.internal.dradis.netflix.com^
 ||log.svc.screencastify.com^
@@ -696,11 +695,16 @@
 ||metrics.zalesoutlet.com^
 ||metric.timewarnercable.com^
 ||metric.trulia.com^
+||m-id.ls.glanceapis.com^
 ||minerva.devices.a2z.com^
 ||minerva.healthcentral.com^
+||m-in.ls.glanceapis.com^
+||m-in.spaces.glanceapis.com^
 ||mobile.events.data.microsoft.com^
 ||monitor.azure.com^
 ||mshopbugsnag.irm.amazon.dev^
+||m-us.ls.glanceapis.com^
+||m-us.spaces.glanceapis.com^
 ||mybbc-analytics.files.bbci.co.uk^
 ||nmetrics.samsung.com^
 ||notes-analytics-events.apple.com^
@@ -757,6 +761,7 @@
 ||pix.nbcuni.com^
 ||placements.tapjoy.com^
 ||player-telemetry.vimeo.com^
+||postback.glanceapis.com^
 ||prebid-satellite-prod-02-alb-2061439435.us-west-2.elb.amazonaws.com^
 ||prebid-server.newsbreak.com^
 ||prod.ups-ats.aolp-ds-prd.aws.oath.cloud^
@@ -774,6 +779,7 @@
 ||qfp.intuit.com^
 ||quantum-ingest-production-770847698.us-east-1.elb.amazonaws.com^
 ||rba-screen.healthsafe-id.com^
+||r-co.ls.glanceapis.com^
 ||rc.yahoo.com^
 ||referrer.disqus.com^
 ||region1.analytics.google.com^
@@ -782,7 +788,10 @@
 ||report-partners.appmetrica.yandex.net^
 ||responder.wt.heise.de^
 ||revboostprocdnadsprod.azureedge.net^
+||r-id.ls.glanceapis.com^
+||r-in.ls.glanceapis.com^
 ||rma.homedepot.com^
+||r-mx.ls.glanceapis.com^
 ||rna.homedepot.com^
 ||rtbdemand.apiip.net^
 ||s1.subaru.com^
@@ -985,6 +994,7 @@
 ||stats.myibtimes.com^
 ||stats.newsweek.com^
 ||stats.pandora.com^
+||stats.partners.glanceapis.com^
 ||stats.pusher.com^
 ||stats.wp.com^
 ||stats-xlb.syd-1.linewize.net^
@@ -1044,6 +1054,7 @@
 ||telemetry-incoming.r53-2.services.mozilla.com^
 ||tempest.services.disqus.com^
 ||t.firstpromoter.com^
+||t-in.ls.glanceapis.com^
 ||tmck.milestonegoldcard.com^
 ||tmetrix.my.chick-fil-a.com^
 ||tmx.bestbuy.com^
@@ -1104,6 +1115,8 @@
 ||ww8.kohls.com^
 ||www2.centricsoftware.com^
 ||www91.intel.com^
+||x-id.ls.glanceapis.com^
+||x-in.ls.glanceapis.com^
 ||xp.apple.com^
 ||zion-telemetry.api.cnn.io^
 ||zmetrics.boston.com^
