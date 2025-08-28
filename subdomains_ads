@@ -29,6 +29,7 @@
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
 ||ad-host-backup-america.s3.us-west-1.amazonaws.com^
 ||ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com^
+||adm.admixer.com^
 ||ad.mail.ru^
 ||ad.parkvv.com^
 ||ads-alpha.ewscloud.com^
@@ -346,6 +347,8 @@
 ||beap.gemini.yahoo.com^
 ||beehiiv-adnetwork-production.s3.amazonaws.com^
 ||b.fox.com^
+||blend-in.analytics.glanceapis.com^
+||blend-us.analytics.glanceapis.com^
 ||books-analytics-events.apple.com^
 ||browser.events.data.microsoft.com^
 ||browser.events.data.msn.com^
@@ -357,6 +360,7 @@
 ||capture.condenastdigital.com^
 ||c.arstechnica.com^
 ||c-bing-com.a-0001.a-msedge.net^
+||cdn.adm.admixer.com^
 ||cdn-hb.b-cdn.net^
 ||cdntranscend.eventbrite.com^
 ||cfa.fidelity.com^
@@ -521,6 +525,7 @@
 ||gurgle.retailmenot.com^
 ||hb-dot-valuad.appspot.com^
 ||heatmap-events-collector.instapage.com^
+||heisenberg.trends.c.glanceapis.com^
 ||hm.baidu.com^
 ||hub.firestonecompleteautocare.com^
 ||hz-telemetry.adobe.io^
@@ -790,6 +795,7 @@
 ||revboostprocdnadsprod.azureedge.net^
 ||r-id.ls.glanceapis.com^
 ||r-in.ls.glanceapis.com^
+||r-in.spaces.glanceapis.com^
 ||rma.homedepot.com^
 ||r-mx.ls.glanceapis.com^
 ||rna.homedepot.com^
