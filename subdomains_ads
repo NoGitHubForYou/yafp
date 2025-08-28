@@ -284,6 +284,11 @@
 ||analytics.twitter.com^
 ||analytics-v2.wetransfer.com^
 ||analytics.yahoo.com^
+||analytics.yandex.by^
+||analytics.yandex.com^
+||analytics.yandex.com.tr^
+||analytics.yandex.kz^
+||analytics.yandex.ru^
 ||an.facebook.com^
 ||ans.mlb.com^
 ||a.nytimes.com^
@@ -707,6 +712,7 @@
 ||metrics.zalesoutlet.com^
 ||metric.timewarnercable.com^
 ||metric.trulia.com^
+||metrika.yandex.ru^
 ||m-id.ls.glanceapis.com^
 ||minerva.devices.a2z.com^
 ||minerva.healthcentral.com^
