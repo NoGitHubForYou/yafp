@@ -8,10 +8,12 @@
 ||all.dns.mullvad.net^
 ||anycast.censurfridns.dk^
 ||anycast.uncensoreddns.org^
+||au.teradns.org^
 ||base.dns.mullvad.net^
 ||child.joindns4.eu^
 ||child-noads.joindns4.eu^
 ||de-fra-dns-001.mullvad.net^
+||de.teradns.org^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
@@ -41,9 +43,11 @@
 ||dns.twnic.tw^
 ||dns.umbrella.com^
 ||dns-unfiltered.adguard.com^
+||dns.vietdns.net^
 ||dns.virga.pp.ua^
 ||doh.360.cn^
 ||doh64.dns4all.eu^
+||doh.archuser.org^
 ||doh.cleanbrowsing.org^
 ||doh.cq0.co^
 ||doh-de.blahdns.com^
@@ -81,10 +85,12 @@
 ||gb-lon-dns-301.mullvad.net^
 ||iow-dns.bitdefender.net^
 ||kids.dns0.eu^
+||kids.vietdns.net^
 ||max.rethinkdns.com^
 ||noads.joindns4.eu^
 ||noads.libredns.gr^
 ||nvi-dns.bitdefender.net^
+||ny.teradns.org^
 ||one.one.one.one^
 ||open.dns0.eu^
 ||ore-dns.bitdefender.net^
@@ -102,6 +108,7 @@
 ||se-mma-dns-001.mullvad.net^
 ||se-sto-dns-001.mullvad.net^
 ||sg-sin-dns-101.mullvad.net^
+||sg.teradns.org^
 ||sky.rethinkdns.com^
 ||syd.adfilter.net^
 ||tky-dns.bitdefender.net^
