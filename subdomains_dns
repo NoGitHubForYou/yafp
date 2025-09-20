@@ -29,6 +29,7 @@
 ||dns.alidns.com^
 ||dns.bitdefender.net^
 ||dns.cloudflare.com^
+||dns.comss.one^
 ||dns.dnswarden.com^
 ||dns-doh.dnsforfamily.com^
 ||dns-dot.dnsforfamily.com^
@@ -56,6 +57,7 @@
 ||doh.dns.apple.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||doh.familyshield.opendns.com^
+||doh.ffmuc.net^
 ||doh.la.ahadns.net^
 ||doh.libredns.gr^
 ||doh.nl.ahadns.net^
@@ -104,6 +106,8 @@
 ||private.canadianshield.cira.ca^
 ||protected.canadianshield.cira.ca^
 ||protective.joindns4.eu^
+||public.dns.iij.jp^
+||router.comss.one^
 ||security-filter-dns.cleanbrowsing.org^
 ||se-got-dns-001.mullvad.net^
 ||se-mma-dns-001.mullvad.net^
