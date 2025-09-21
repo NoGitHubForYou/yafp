@@ -21,7 +21,6 @@
 ||aax-us-east-retail-direct.amazon.com^
 ||aax-us-east-retail-direct.iad.amazon.com^
 ||aax-us-east-retail-rtb.amazon.com^
-||aax-us-iad.amazon.com^
 ||a.beap.gemini.yahoo.com^
 ||abt.nike.com^
 ||acemetrics.aaa.com^
@@ -487,7 +486,6 @@
 ||elqtrk.intel.com^
 ||engage.email.britannica.com^
 ||engage.stairwell.com^
-||e.reddit.com^
 ||error-analytics-sessions-production.shopifysvc.com^
 ||error-tracking.reddit.com^
 ||eu-mobile.events.data.microsoft.com^
@@ -1156,6 +1154,7 @@
 ||tracking.bloomberg.com.shared.bloomberga.com^
 ||tracking.clarivate.com^
 ||tracking.fortnite.com^
+||tracking.levelblue.com^
 ||tracking-prod1.ext.cirrus.bloomberg.com^
 ||tracking.skyword.com^
 ||tracking-website-prod-674464163.us-east-1.elb.amazonaws.com^

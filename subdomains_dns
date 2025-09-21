@@ -10,8 +10,10 @@
 ||anycast.uncensoreddns.org^
 ||au.teradns.org^
 ||base.dns.mullvad.net^
+||blank.dnsforge.de^
 ||child.joindns4.eu^
 ||child-noads.joindns4.eu^
+||clean.dnsforge.de^
 ||de-fra-dns-001.mullvad.net^
 ||de.teradns.org^
 ||dns10.quad9.net^
@@ -86,6 +88,7 @@
 ||freedom.mydns.network^
 ||gb-lon-dns-001.mullvad.net^
 ||gb-lon-dns-301.mullvad.net^
+||hard.dnsforge.de^
 ||iow-dns.bitdefender.net^
 ||kids.dns0.eu^
 ||kids.vietdns.net^
