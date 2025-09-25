@@ -602,6 +602,8 @@
 ||logs.us-east-1.internal.dradis.netflix.com^
 ||log.svc.screencastify.com^
 ||log-va-us-looki.capcutapi.com^
+||log-va-us-looki.capcutapi.com.edgesuite.net^
+||log-va-us-looki.capcutapi.com.ttdns2.com^
 ||mads.amazon.com^
 ||mads.dailymail.co.uk^
 ||marketing.cyberdefensemediagroup.com^
@@ -777,6 +779,11 @@
 ||monitoring.us-gov-west-1.amazonaws.com^
 ||monitoring.us-west-1.amazonaws.com^
 ||monitoring.us-west-2.amazonaws.com^
+||mon-sg.capcutapi.com^
+||mon-sg.capcutapi.com.edgesuite.net^
+||mon-sg.capcutapi.com.ttdns2.com^
+||mon-sg.tiktokv.com^
+||mon-sg.tiktokv.com.edgekey.net^
 ||mshopbugsnag.irm.amazon.dev^
 ||m-us.ls.glanceapis.com^
 ||m-us.spaces.glanceapis.com^
@@ -866,6 +873,7 @@
 ||r-id.ls.glanceapis.com^
 ||r-in.ls.glanceapis.com^
 ||r-in.spaces.glanceapis.com^
+||rlog.baifentan.com^
 ||rma.homedepot.com^
 ||r-mx.ls.glanceapis.com^
 ||rna.homedepot.com^
@@ -1138,6 +1146,7 @@
 ||tmck.milestonegoldcard.com^
 ||tmetrix.my.chick-fil-a.com^
 ||tmx.bestbuy.com^
+||tnc-sg.capcutapi.com^
 ||t-odx.op-mobile.opera.com^
 ||toyota-tagging-prod.azureedge.net^
 ||t.paypal.com^
