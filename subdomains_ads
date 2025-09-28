@@ -123,8 +123,11 @@
 ||advertising.yahooinc.com^
 ||aem.dickssportinggoods.com^
 ||a.et.nytimes.com^
+||aim-tag.hcn.health^
+||aimv4-lb-807679157.us-east-1.elb.amazonaws.com^
 ||airlytics-web.airlock.twcmobile.weather.com^
 ||alb.reddit.com^
+||alb-semidxchgame-1022178486.us-east-1.elb.amazonaws.com^
 ||al-smetrics.vizio.com^
 ||als-svc.nytimes.com^
 ||ametrics.lumen.com^
@@ -581,6 +584,7 @@
 ||jac.yahoosandbox.com^
 ||js.monitor.azure.com^
 ||jvxpxl.marriott.com^
+||k8s-default-ingress-7a0478170e-1709036071.us-east-2.elb.amazonaws.com^
 ||lan.sdk.linkedin.com^
 ||licensing.bitmovin.com^
 ||link.healthline.com^
