@@ -30,6 +30,7 @@
 ||ad.gpwa.org^
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
 ||ad-host-backup-america.s3.us-west-1.amazonaws.com^
+||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
 ||ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com^
 ||adm.admixer.com^
 ||ad.mail.ru^
@@ -503,7 +504,6 @@
 ||events.data.microsoft.com^
 ||events.launchdarkly.com^
 ||events.mapbox.com^
-||events.newsroom.bi^
 ||events.split.io^
 ||events.swishapps.ai^
 ||events.syd-1.linewize.net^
@@ -1073,6 +1073,7 @@
 ||sstats.paloaltonetworks.com^
 ||sstats.scholastic.com^
 ||sst.dell.com^
+||sta-events.swishapps.ai^
 ||starget.bitdefender.com^
 ||starget.intel.com^
 ||starget.mathworks.com^
