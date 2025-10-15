@@ -30,6 +30,7 @@
 ||crls.ssl.com^
 ||crl.swisssign.net^
 ||crl.swisssign.net.edgekey.net^
+||crl.trust-provider.com^
 ||crl.usertrust.com^
 ||crt.comodoca.com.cdn.cloudflare.net^
 ||crt.r2m03.amazontrust.com^
@@ -68,6 +69,7 @@
 ||ocsp.sectigo.com^
 ||ocsps.ssl.com^
 ||ocsp.starfieldtech.com^
+||ocsp.trust-provider.com^
 ||ocsp.usertrust.com^
 ||o.lencr.edgesuite.net^
 ||o.lencr.org^
