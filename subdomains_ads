@@ -653,6 +653,7 @@
 ||metrics.cars.com^
 ||metrics.cbc.ca^
 ||metrics.chipotle.com^
+||metrics.chrysler.com^
 ||metrics.citizensbank.com^
 ||metrics.cnn.com^
 ||metrics-collector.tidio.co^
@@ -940,6 +941,7 @@
 ||smetrics.carnival.co.uk^
 ||smetrics.cars.com^
 ||smetrics.cbc.ca^
+||smetrics.chrysler.com^
 ||smetrics.cisco.com^
 ||smetrics.citizensbank.com^
 ||smetrics.cnn.com^
@@ -973,6 +975,7 @@
 ||smetrics.mcdonalds.com^
 ||smetrics.medallia.com^
 ||smetrics.metrobyt-mobile.com^
+||smetrics.mopar.com^
 ||smetrics.napaonline.com^
 ||smetrics.nascar.com^
 ||smetrics.nba.com^
@@ -1131,6 +1134,7 @@
 ||tag.uplift.com^
 ||target.bankofamerica.com^
 ||target.chase.com^
+||target.chrysler.com^
 ||target.cisco.com^
 ||target.cox.com^
 ||target.dodge.com^
