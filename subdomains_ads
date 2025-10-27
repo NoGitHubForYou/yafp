@@ -312,6 +312,7 @@
 ||at.adtech.redventures.io^
 ||atlas.ngtv.io^
 ||ats-eks.us-east-1.dcs-online-targeting-prd.aws.oath.cloud^
+||au-tracking.nextdoor.com^
 ||axp.8newsnow.com^
 ||axp.abc27.com^
 ||axp.abc4.com^
@@ -376,6 +377,7 @@
 ||campaigns.movavi.io^
 ||capture.condenastdigital.com^
 ||c.arstechnica.com^
+||ca-tracking.nextdoor.com^
 ||c-bing-com.a-0001.a-msedge.net^
 ||cdn.adm.admixer.com^
 ||cdn-hb.b-cdn.net^
@@ -466,9 +468,11 @@
 ||dd.study.com^
 ||d.email.forbes.com^
 ||depart-use1-alb-publb-1946368143.us-east-1.elb.amazonaws.com^
+||de-tracking.nextdoor.com^
 ||device-metrics-us-2.amazon.com^
 ||device-metrics-us.amazon.com^
 ||digitalid.santanderbank.com^
+||dk-tracking.nextdoor.com^
 ||d.mail.intheswim.com^
 ||d.mail.lesliespool.com^
 ||dmtracking2.alibaba.com^
@@ -497,6 +501,7 @@
 ||ensighten.norton.com^
 ||error-analytics-sessions-production.shopifysvc.com^
 ||error-tracking.reddit.com^
+||es-tracking.nextdoor.com^
 ||eu-mobile.events.data.microsoft.com^
 ||eventcollector.mcf-prod.a.intuit.com^
 ||eventer-player.bqstreamer.com^
@@ -511,6 +516,18 @@
 ||firebaseinstallations.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
+||flask.au.nextdoor.com^
+||flask.ca.nextdoor.com^
+||flask.de.nextdoor.com^
+||flask.dk.nextdoor.com^
+||flask.es.nextdoor.com^
+||flask.fr.nextdoor.com^
+||flask.it.nextdoor.com^
+||flask.nextdoor.com^
+||flask.nl.nextdoor.com^
+||flask.no.nextdoor.com^
+||flask.se.nextdoor.com^
+||flask.uk.nextdoor.com^
 ||flask.us.nextdoor.com^
 ||fpa-api.arstechnica.com^
 ||fpa-cdn.arstechnica.com^
@@ -523,6 +540,7 @@
 ||friendship.nbc.com^
 ||friendship.nbc.com.edgesuite.net^
 ||frontier.byteoversea.com^
+||fr-tracking.nextdoor.com^
 ||fundingchoicesmessages.google.com^
 ||gc.newsweek.com^
 ||gecko-sg.byteoversea.com^
@@ -584,6 +602,7 @@
 ||intake-analytics.wikimedia.org^
 ||ip2location.wmgartistservices.com^
 ||i.paypal.com^
+||it-tracking.nextdoor.com^
 ||jac.yahoosandbox.com^
 ||jvxpxl.marriott.com^
 ||k8s-default-ingress-7a0478170e-1709036071.us-east-2.elb.amazonaws.com^
@@ -799,9 +818,11 @@
 ||m-us.ls.glanceapis.com^
 ||m-us.spaces.glanceapis.com^
 ||mybbc-analytics.files.bbci.co.uk^
+||nl-tracking.nextdoor.com^
 ||nmetrics.samsung.com^
 ||notes-analytics-events.apple.com^
 ||notify.firetv.bugsnag.appstore.a2z.com^
+||no-tracking.nextdoor.com^
 ||now1.t-mobile.com^
 ||offer.alibaba.com^
 ||offer.alibaba.com.gds.alibabadns.com^
@@ -917,6 +938,7 @@
 ||segment.psg.nexstardigital.net^
 ||sentinelpro.b-cdn.net^
 ||service.idsync.analytics.yahoo.com^
+||se-tracking.nextdoor.com^
 ||sitepixel.blis.com^
 ||sjourney.aarp.org^
 ||s.lenovo.com^
@@ -1164,6 +1186,7 @@
 ||t-in.ls.glanceapis.com^
 ||tmck.milestonegoldcard.com^
 ||tmetrix.my.chick-fil-a.com^
+||tms.delta.com^
 ||tms.experian.com^
 ||tmx.bestbuy.com^
 ||tnc-sg.capcutapi.com^
@@ -1186,6 +1209,7 @@
 ||tracking.clarivate.com^
 ||tracking.fortnite.com^
 ||tracking.levelblue.com^
+||tracking.nextdoor.com^
 ||tracking-prod1.ext.cirrus.bloomberg.com^
 ||tracking.skyword.com^
 ||tracking-website-prod-674464163.us-east-1.elb.amazonaws.com^
@@ -1201,9 +1225,11 @@
 ||t.wepay.com^
 ||udcm.yahoo.com^
 ||udc.yahoo.com^
+||uk-tracking.nextdoor.com^
 ||ups.analytics.yahoo.com^
 ||user-stats.rbl.ms^
 ||us-events.api.iheart.com^
+||us-tracking.nextdoor.com^
 ||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
 ||v6analytics.htmedia.in.edgekey.net^
