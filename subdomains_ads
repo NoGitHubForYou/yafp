@@ -298,6 +298,7 @@
 ||analytics.yandex.com.tr^
 ||analytics.yandex.kz^
 ||analytics.yandex.ru^
+||android.femetrics.grammarly.io^
 ||an.facebook.com^
 ||ans.mlb.com^
 ||a.nytimes.com^
@@ -491,6 +492,7 @@
 ||edgetrksvc.ebay.com^
 ||edgetrksvc.ebay.com.edgekey.net^
 ||edgetrksvc.ebay.co.uk^
+||editor.femetrics.grammarly.io^
 ||e.email.forbes.com^
 ||e.emails.erieinsurance.com^
 ||elqtrk.intel.com^
@@ -511,7 +513,9 @@
 ||events.split.io^
 ||events.swishapps.ai^
 ||events.syd-1.linewize.net^
+||extension.femetrics.grammarly.io^
 ||feet-prod.segds.engsvc.go.com^
+||femetrics.grammarly.io^
 ||firebaseinstallations.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
@@ -599,12 +603,14 @@
 ||info.upkeep.com^
 ||insights.sitesearch360.com^
 ||intake-analytics.wikimedia.org^
+||ios.femetrics.grammarly.io^
 ||ip2location.wmgartistservices.com^
 ||i.paypal.com^
 ||it-tracking.nextdoor.com^
 ||jac.yahoosandbox.com^
 ||jvxpxl.marriott.com^
 ||k8s-default-ingress-7a0478170e-1709036071.us-east-2.elb.amazonaws.com^
+||kafka-ui.femetrics.grammarly.io^
 ||lan.sdk.linkedin.com^
 ||licensing.bitmovin.com^
 ||link.healthline.com^
@@ -619,6 +625,7 @@
 ||log.fc.yahoo.com^
 ||log.gns.go.com^
 ||log.go.com^
+||login.femetrics.grammarly.io^
 ||log.pinterest.com^
 ||logs.dradis.netflix.com^
 ||logs.guardianapis.com^
@@ -631,6 +638,7 @@
 ||log-va-us-looki.capcutapi.com.edgesuite.net^
 ||log-va-us-looki.capcutapi.com.ttdns2.com^
 ||logx.optimizely.com^
+||mac-extension.femetrics.grammarly.io^
 ||mads.amazon.com^
 ||mads.dailymail.co.uk^
 ||marketing.cyberdefensemediagroup.com^
@@ -1249,10 +1257,12 @@
 ||webc2s.pubgw.yahoo.com^
 ||webcontentassessor.global.ssl.fastly.net^
 ||webmetrics.mayoclinic.org^
+||website.femetrics.grammarly.io^
 ||webstats.eb.com^
 ||webtrends-optimize.trafficmanager.net^
 ||webtrends-optimize-ue2-v1.eastus2.cloudapp.azure.com^
 ||westus2-0.in.applicationinsights.azure.com^
+||win-extension.femetrics.grammarly.io^
 ||wix-engage-visitors-prod-14-new.firebaseapp.com^
 ||ww8.kohls.com^
 ||www2.centricsoftware.com^
