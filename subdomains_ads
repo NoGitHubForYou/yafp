@@ -122,6 +122,7 @@
 ||advertising.walmart.com^
 ||advertising.walmart.com.cdn.cloudflare.net^
 ||advertising.yahooinc.com^
+||adx.opera.com^
 ||aem.dickssportinggoods.com^
 ||a.et.nytimes.com^
 ||aim-tag.hcn.health^
@@ -464,6 +465,7 @@
 ||dd.blackhawknetwork.com^
 ||ddbm2.paypal.com^
 ||ddc.statefarm.com^
+||dd.dailymotion.com^
 ||dd.giantfoodstores.com^
 ||dd.leboncoin.fr^
 ||dd.nytimes.com^
@@ -476,6 +478,7 @@
 ||device-metrics-us.amazon.com^
 ||digitalid.santanderbank.com^
 ||dk-tracking.nextdoor.com^
+||dmads.dailymotion.com^
 ||dmtracking2.alibaba.com^
 ||dmtracking2.alibaba.com.gds.alibabadns.com^
 ||dmxleo.dailymotion.com^
@@ -899,6 +902,7 @@
 ||px4-ads-linkedin-com.ipv4.l-0005.l-msedge.net^
 ||px.ads.linkedin.com^
 ||qfp.intuit.com^
+||qsearch-a.akamaihd.net^
 ||quantum-ingest-production-770847698.us-east-1.elb.amazonaws.com^
 ||rba-screen.healthsafe-id.com^
 ||r-co.ls.glanceapis.com^
@@ -925,6 +929,7 @@
 ||saa.etonline.com^
 ||saa.insideedition.com^
 ||sa.bbc.co.uk^
+||s.adx.opera.com^
 ||sams.spiegel.de^
 ||sanalytics.disneyplus.com^
 ||sanalytics.hallmark.com^
