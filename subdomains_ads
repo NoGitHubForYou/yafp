@@ -2,6 +2,7 @@
 ||1070735534.rsc.cdn77.org^
 ||1082243146.us-east-2.elb.amazonaws.com^
 ||1163803123.us-east-2.elb.amazonaws.com^
+||1208818836.rsc.cdn77.org^
 ||121909266.us-east-1.elb.amazonaws.com^
 ||1899527791.us-east-1.elb.amazonaws.com^
 ||1946368143.us-east-1.elb.amazonaws.com^
@@ -262,6 +263,9 @@
 ||analytics.eip.telegraph.co.uk^
 ||analyticsengine.s3.amazonaws.com^
 ||analytics-eu.cloud.coveo.com^
+||analytics-fe.digital-cloud.medallia.ca^
+||analytics-fe.digital-cloud.medallia.com^
+||analytics-fe.digital-cloud.medallia.eu^
 ||analytics.filemail.com^
 ||analytics.global.sky.com^
 ||analytics.google.com^
@@ -375,6 +379,7 @@
 ||browser.events.data.msn.com^
 ||bs-adserver.b-cdn.net^
 ||b.stats.paypal.com^
+||bugly.qq.com^
 ||c1.microsoft.com^
 ||c2shb.pubgw.yahoo.com^
 ||c2shb.ssp.yahoo.com^
@@ -569,8 +574,11 @@
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
 ||geo.ziffdavisinternational.com.edgekey.net^
+||g.ign.com^
 ||glitter.services.disqus.com^
+||global.telemetry.insights.video.a2z.com^
 ||g.miaminewtimes.com^
+||gnar.grammarly.com^
 ||goatcounter.netlify.com^
 ||go.dymax.com^
 ||go.horizon3.ai^
@@ -607,6 +615,7 @@
 ||infinityid.condenastdigital.com^
 ||info.upkeep.com^
 ||insights.sitesearch360.com^
+||insights.video.a2z.com^
 ||intake-analytics.wikimedia.org^
 ||ios.femetrics.grammarly.io^
 ||ip2location.wmgartistservices.com^
@@ -624,6 +633,8 @@
 ||l.klarna.com^
 ||location.p7cloud.net^
 ||locations.api.yle.fi^
+||log16-normal-us-ttp.capcutapi.us^
+||log16-normal-us-ttp.capcutapi.us.edgesuite.net^
 ||log.byteoversea.com^
 ||log.byteoversea.com.bytewlb.akadns.net^
 ||log.byteoversea.com.edgekey.net^
@@ -647,6 +658,7 @@
 ||mac-extension.femetrics.grammarly.io^
 ||mads.amazon.com^
 ||mads.dailymail.co.uk^
+||mail-ads.google.com^
 ||marketing.cyberdefensemediagroup.com^
 ||matomo.ext.icrc.org^
 ||mbox.wegmans.com^
@@ -761,6 +773,7 @@
 ||metrics.sbs.com.au^
 ||metrics-sentry.cvshealth.com^
 ||metrics-sentry.cvshealth.com.edgekey.net^
+||metrics.sephora.com^
 ||metrics.showtime.com^
 ||metrics.siriusxm.com^
 ||metrics.sky.com^
@@ -892,6 +905,7 @@
 ||permutive.arstechnica.com^
 ||pixel.byspotify.com^
 ||pixel.condenastdigital.com^
+||pixel-config.reddit.com^
 ||pixel.propublica.org^
 ||pixel.spotify.com^
 ||pixels.spotify.com^
@@ -1048,6 +1062,7 @@
 ||smetrics.riteaid.com^
 ||smetrics.samsung.com^
 ||smetrics.sbs.com.au^
+||smetrics.sephora.com^
 ||smetrics.showtime.com^
 ||smetrics.sierra.com^
 ||smetrics.siriusxm.com^
@@ -1251,6 +1266,7 @@
 ||track.spe.schoolmessenger.com^
 ||tr.blismedia.com^
 ||trck.bambuser.com^
+||treatment.grammarly.com^
 ||trkapi.impact.com^
 ||trk.pinterest.com^
 ||tr.snapchat.com^
@@ -1288,6 +1304,7 @@
 ||westus2-0.in.applicationinsights.azure.com^
 ||win-extension.femetrics.grammarly.io^
 ||wix-engage-visitors-prod-14-new.firebaseapp.com^
+||ww11.kohls.com^
 ||ww8.kohls.com^
 ||www2.centricsoftware.com^
 ||www91.intel.com^
