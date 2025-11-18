@@ -119,6 +119,7 @@
 ||ads.twitter.com^
 ||ads.us.nextdoor.com^
 ||adtago.s3.amazonaws.com^
+||advertising.a2z.com^
 ||advertising-cdn.walmart.com.akadns.net^
 ||advertising.walmart.com^
 ||advertising.walmart.com.cdn.cloudflare.net^
@@ -919,6 +920,7 @@
 ||postback.glanceapis.com^
 ||prebid-satellite-prod-02-alb-2061439435.us-west-2.elb.amazonaws.com^
 ||prebid-server.newsbreak.com^
+||prod.cm.publishers.advertising.a2z.com^
 ||prod.ups-ats.aolp-ds-prd.aws.oath.cloud^
 ||prod.ups-ats.us-east-1.aolp-ds-prd.aws.oath.cloud^
 ||promote-subscribe.forbes.com^
@@ -1306,6 +1308,7 @@
 ||wix-engage-visitors-prod-14-new.firebaseapp.com^
 ||ww11.kohls.com^
 ||ww8.kohls.com^
+||ww9.kohls.com^
 ||www2.centricsoftware.com^
 ||www91.intel.com^
 ||x-id.ls.glanceapis.com^
