@@ -499,6 +499,7 @@
 ||dualstack.ichnaea-web-121909266.us-east-1.elb.amazonaws.com^
 ||dynatrace.att.com^
 ||ead.newint.org^
+||ec2.web.mx-central-1.prod.diagnostic.networking.aws.dev^
 ||edgecast-vod.yimg.com^
 ||edgetrksvc.ebay.com^
 ||edgetrksvc.ebay.com.edgekey.net^
@@ -598,6 +599,7 @@
 ||heatmap-events-collector.instapage.com^
 ||heisenberg.trends.c.glanceapis.com^
 ||hm.baidu.com^
+||https.web.diagnostic.networking.aws.dev^
 ||hub.firestonecompleteautocare.com^
 ||hz-telemetry.adobe.io^
 ||iadsdk.apple.com^
@@ -1298,6 +1300,7 @@
 ||webanalytics.europa.eu^
 ||webc2s.pubgw.yahoo.com^
 ||webcontentassessor.global.ssl.fastly.net^
+||web.diagnostic.networking.aws.dev^
 ||webmetrics.mayoclinic.org^
 ||website.femetrics.grammarly.io^
 ||webstats.eb.com^
