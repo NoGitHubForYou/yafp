@@ -311,6 +311,7 @@
 ||a.nytimes.com^
 ||api-adservices.apple.com^
 ||api.tracking.al-array.com^
+||api.us-east-1.aiv-delivery.net^
 ||app-analytics-v2.snapchat.com^
 ||applicationinsights.azure.com^
 ||apps.realtor.com^
@@ -1281,6 +1282,7 @@
 ||udc.yahoo.com^
 ||uk-tracking.nextdoor.com^
 ||ups.analytics.yahoo.com^
+||us-east-1-1.telemetry.insights.video.a2z.com^
 ||user-stats.rbl.ms^
 ||us-events.api.iheart.com^
 ||us-tracking.nextdoor.com^
@@ -1307,6 +1309,7 @@
 ||webtrends-optimize.trafficmanager.net^
 ||webtrends-optimize-ue2-v1.eastus2.cloudapp.azure.com^
 ||westus2-0.in.applicationinsights.azure.com^
+||wetfs.global-1.telemetry.insights.video.a2z.com^
 ||win-extension.femetrics.grammarly.io^
 ||wix-engage-visitors-prod-14-new.firebaseapp.com^
 ||ww11.kohls.com^
