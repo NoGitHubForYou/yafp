@@ -9,7 +9,6 @@
 ||2000866608.ap-south-1.elb.amazonaws.com^
 ||2061439435.us-west-2.elb.amazonaws.com^
 ||770847698.us-east-1.elb.amazonaws.com^
-||a02342.cumnockchronicle.com^
 ||a1802.dscq.akamai.net^
 ||a1895.dscq.akamai.net^
 ||a1928.dscq.akamai.net^
@@ -24,8 +23,6 @@
 ||a.beap.gemini.yahoo.com^
 ||abt.nike.com^
 ||acemetrics.aaa.com^
-||activate.latimes.com^
-||activate.platform.californiatimes.com^
 ||ad.daum.net^
 ||ad.gpwa.org^
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
@@ -111,6 +108,7 @@
 ||ads.securityweek.com^
 ||ads-setu-proxy.amazon.com^
 ||ads-static.conde.digital^
+||ads.supplyframe.akadns.net^
 ||ads.supplyframe.com^
 ||ads.thesun.co.uk^
 ||ads.tiktok.com^
@@ -354,7 +352,6 @@
 ||axp.yourerie.com^
 ||bat.bing.com^
 ||bat-bing-com.a-0001.a-msedge.net^
-||bb.blackberry.com^
 ||beacon.gtv-pub.com^
 ||beacons2.gvt2.com^
 ||beacons3.gvt2.com^
@@ -438,10 +435,8 @@
 ||content22.citibankonline.com^
 ||content22.citi.eu^
 ||content22.online.citi.com^
-||content.4blue.nl^
 ||content.discovercard.com^
 ||content.discover.com^
-||content.nielsen.com^
 ||content.product.glitch.com^
 ||content.product.greynoise.io^
 ||contents1.00110.citi.com^
@@ -450,7 +445,7 @@
 ||contributions.guardianapis.com^
 ||contributor.google.com^
 ||count.schwab.com^
-||cpm.fmlabsonline.com^
+||c.p769.wgal.com^
 ||cpm.qortex.ai^
 ||crta.dailymail.co.uk^
 ||crta.dailymail.co.uk.edgekey.net^
@@ -580,18 +575,10 @@
 ||g.ign.com^
 ||glitter.services.disqus.com^
 ||global.telemetry.insights.video.a2z.com^
-||g.miaminewtimes.com^
 ||gnar.grammarly.com^
 ||goatcounter.netlify.com^
-||go.dymax.com^
-||go.horizon3.ai^
-||go.inntopia.com^
-||go.oneweb.net^
-||go.scality.com^
-||go.skyward.com^
 ||go.thetruth.com^
 ||goto.walmart.com^
-||go.zimperium.com^
 ||g.pcmag.com^
 ||gurgle.ign.com^
 ||gurgle.pcmag.com^
@@ -617,7 +604,6 @@
 ||img.consumer.risk.lexisnexis.com^
 ||incoming.telemetry.mozilla.org^
 ||infinityid.condenastdigital.com^
-||info.upkeep.com^
 ||insights.sitesearch360.com^
 ||insights.video.a2z.com^
 ||intake-analytics.wikimedia.org^
@@ -895,11 +881,10 @@
 ||os.shutterfly.com^
 ||otr.kaspersky.com^
 ||ots.webtrends-optimize.trafficmanager.net^
-||outreach.abetterinternet.org^
+||p769.wgal.com^
 ||paa-reporting-advertising.amazon^
 ||pages-stats.rbl.ms^
 ||partnerads.ysm.yahoo.com^
-||partners.team-cymru.com^
 ||paywall-ad-bucket.s3.amazonaws.com^
 ||pcookie.aliexpress.com^
 ||pcookie-us.taobao.com^
@@ -1199,6 +1184,7 @@
 ||swasc.homedepot.com^
 ||swa.tjmaxx.tjx.com^
 ||s.wayfair.com^
+||s.wayfair.com.cdn.cloudflare.net^
 ||syndication.twitter.com^
 ||tag.aftvnews.com^
 ||tagdelivery.mayoclinic.org^
@@ -1270,7 +1256,6 @@
 ||track.playsimple.games^
 ||track.spe.schoolmessenger.com^
 ||tr.blismedia.com^
-||trck.bambuser.com^
 ||treatment.grammarly.com^
 ||trkapi.impact.com^
 ||trk.pinterest.com^
@@ -1315,7 +1300,6 @@
 ||ww11.kohls.com^
 ||ww8.kohls.com^
 ||ww9.kohls.com^
-||www2.centricsoftware.com^
 ||www91.intel.com^
 ||x-id.ls.glanceapis.com^
 ||x-in.ls.glanceapis.com^
