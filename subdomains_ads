@@ -295,6 +295,8 @@
 ||analytics.supplyframe.com^
 ||analytics.ticketmaster.com^
 ||analytics.tiktok.com^
+||analytics.t-mobile.com^
+||analytics.t-mobile.com.edgekey.net^
 ||analytics.twitter.com^
 ||analytics-v2.wetransfer.com^
 ||analytics.yahoo.com^
@@ -945,6 +947,7 @@
 ||rtbdemand.apiip.net^
 ||s1.subaru.com^
 ||s3-analytics-events.easybrain.com^
+||s3t3d2y1.afcdn.net^
 ||saa.cbsnews.com^
 ||saa.daveandbusters.com^
 ||saa.etonline.com^
@@ -1286,6 +1289,8 @@
 ||watson.events.data.microsoft.com^
 ||weather-analytics-events.apple.com^
 ||webanalytics.europa.eu^
+||web.analytics.t-mobile.com^
+||web.analytics.t-mobile.com.edgekey.net^
 ||webc2s.pubgw.yahoo.com^
 ||webcontentassessor.global.ssl.fastly.net^
 ||web.diagnostic.networking.aws.dev^
