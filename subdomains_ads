@@ -605,6 +605,7 @@
 ||id.solidgate.com^
 ||images.ads.supplyframe.com^
 ||img.consumer.risk.lexisnexis.com^
+||imtwjwoasak-pmi-pixel-origin.s3.amazonaws.com^
 ||incoming.telemetry.mozilla.org^
 ||infinityid.condenastdigital.com^
 ||insights.sitesearch360.com^
@@ -910,6 +911,7 @@
 ||pix.nbcuni.com^
 ||placements.tapjoy.com^
 ||player-telemetry.vimeo.com^
+||pn.ybp.yahoo.com^
 ||postback.glanceapis.com^
 ||prebid-satellite-prod-02-alb-2061439435.us-west-2.elb.amazonaws.com^
 ||prebid-server.newsbreak.com^
@@ -1313,6 +1315,7 @@
 ||x-id.ls.glanceapis.com^
 ||x-in.ls.glanceapis.com^
 ||xp.apple.com^
+||ybp.yahoo.com^
 ||zion-telemetry.api.cnn.io^
 ||zmetrics.boston.com^
 ||zmetrics.msn.com^
