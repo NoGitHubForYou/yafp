@@ -592,6 +592,7 @@
 ||heatmap-events-collector.instapage.com^
 ||heisenberg.trends.c.glanceapis.com^
 ||hm.baidu.com^
+||hqmetrics.sony.com^
 ||https.web.diagnostic.networking.aws.dev^
 ||hub.firestonecompleteautocare.com^
 ||hz-telemetry.adobe.io^
@@ -791,6 +792,7 @@
 ||metrics.tractorsupply.com^
 ||metrics.travelchannel.com^
 ||metrics.trellix.com^
+||metrics.ubi.com^
 ||metrics.ups.com^
 ||metrics.usbank.com^
 ||metrics.walgreens.com^
@@ -899,6 +901,7 @@
 ||pcookie-us.taobao.com.gds.alibabadns.com^
 ||pdmsmrt.cadillac.com^
 ||pdmsmrt.chevrolet.com^
+||pdr.eve.sonyentertainmentnetwork.com^
 ||permutive.arstechnica.com^
 ||pixel.byspotify.com^
 ||pixel.condenastdigital.com^
@@ -986,8 +989,10 @@
 ||se-tracking.nextdoor.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net^
+||shqmetrics.sony.com^
 ||sitepixel.blis.com^
 ||sjourney.aarp.org^
+||skw.eve.account.sony.com^
 ||s.lenovo.com^
 ||sm.dell.com^
 ||smetric.hilton.com^
@@ -1084,6 +1089,7 @@
 ||smetrics.tractorsupply.com^
 ||smetrics.travelchannel.com^
 ||smetrics.trellix.com^
+||smetrics.ubi.com^
 ||smetrics.ups.com^
 ||smetrics.usbank.com^
 ||smetrics.walgreens.com^
