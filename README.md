@@ -27,7 +27,7 @@ Includes IOCs and IOFAs from various security threat reseach blogs and projects
 &&
 [domains_webair](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_webair)
 &&
-[subdomains_ads](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_malicious)
+[subdomains_ads](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_ads)
 =  prevents:
 advertisements,
 tracking,
