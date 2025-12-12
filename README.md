@@ -18,3 +18,17 @@ various types of scams,
 fake shopping,
 reregistering of known malicious domains.
 Includes IOCs and IOFAs from various security threat reseach blogs and projects
+
+[domains_ads](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_ads)
+&&
+[domains_clickadu](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_clickadu)
+&&
+[domains_exoclick](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_exoclick)
+&&
+[domains_webair](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_webair)
+&&
+[subdomains_ads](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_malicious)
+=  prevents:
+advertisements,
+tracking,
+analytics
