@@ -9,6 +9,8 @@ reregistering of once legitimate domains,
 short lived ad servers
 
 [domains_malicious](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_malicious)
+&&
+[subdomains_malicious](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_malicious)
 =  prevents:
 phishing,
 command and control,
