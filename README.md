@@ -32,3 +32,18 @@ Includes IOCs and IOFAs from various security threat reseach blogs and projects
 advertisements,
 tracking,
 analytics
+
+[domains_dns](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_dns)
+&&
+[subdomains_dns](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_dns)
+=  prevents:
+encrypted dns resolution
+
+[domains_adult](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_adult)
+=  prevents:
+dating,
+porn,
+escorts,
+games,
+ai,
+live streams
