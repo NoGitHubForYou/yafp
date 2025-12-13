@@ -23,9 +23,9 @@ Includes IOCs and IOFAs from various security threat reseach blogs and projects
 &&
 [domains_clickadu](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_clickadu)
 &&
-[domains_exoclick](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_exoclick)
+[domains_akis2net](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_akis2net)
 &&
-[domains_webair](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_webair)
+[domains_ab1nnet](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_ab1nnet)
 &&
 [subdomains_ads](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_ads)
 =  prevents:
