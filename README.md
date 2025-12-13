@@ -6,7 +6,8 @@ yafp is a filtering blocklist project compatible with [PiHole](https://pi-hole.n
 =  prevents:
 some typosquatting,
 reregistering of once legitimate domains,
-short lived ad servers
+short lived ad servers,
+dead entries to prevent reregistering
 
 [domains_malicious](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_malicious)
 &&
