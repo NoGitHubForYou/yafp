@@ -48,3 +48,14 @@ escorts,
 games,
 ai,
 live streams
+
+
+[domains_adshield](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_adshield)
+&&
+[domains_admiral](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_admiral)
+&&
+[domains_antiad](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_antiad)
+&&
+[subdomains_adshield](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_adshield)
+=  prevents:
+domains that use these anti-ad domains and the anti-ad domains themselves
