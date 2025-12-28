@@ -18,7 +18,7 @@ command and control,
 various types of scams,
 fake shopping,
 reregistering of known malicious domains.
-Includes IOCs and IOFAs from various security threat reseach blogs and projects
+Includes IOCs, IOAs and IOFAs from various security threat reseach blogs and projects
 
 [domains_ads](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_ads)
 &&
@@ -38,7 +38,8 @@ analytics
 &&
 [subdomains_dns](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_dns)
 =  prevents:
-encrypted dns resolution
+encrypted dns resolution,
+canary domains
 
 [domains_adult](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_adult)
 =  prevents:
