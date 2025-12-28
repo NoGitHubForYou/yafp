@@ -1,14 +1,6 @@
 ||00110.citi.com^
 ||1070735534.rsc.cdn77.org^
-||1082243146.us-east-2.elb.amazonaws.com^
-||1163803123.us-east-2.elb.amazonaws.com^
 ||1208818836.rsc.cdn77.org^
-||121909266.us-east-1.elb.amazonaws.com^
-||1899527791.us-east-1.elb.amazonaws.com^
-||1946368143.us-east-1.elb.amazonaws.com^
-||2000866608.ap-south-1.elb.amazonaws.com^
-||2061439435.us-west-2.elb.amazonaws.com^
-||770847698.us-east-1.elb.amazonaws.com^
 ||a1802.dscq.akamai.net^
 ||a1895.dscq.akamai.net^
 ||a1928.dscq.akamai.net^
@@ -762,6 +754,7 @@
 ||metrics.panerabread.com^
 ||metrics.petco.com^
 ||metrics.politico.eu^
+||metrics.psmmarketing.com^
 ||metrics.rapidedge.io^
 ||metrics.realtor.com^
 ||metrics.redcrossblood.org^
