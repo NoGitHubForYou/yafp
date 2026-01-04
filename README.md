@@ -60,3 +60,7 @@ live streams
 [subdomains_adshield](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_adshield)
 =  prevents:
 domains that use these anti-ad domains and the anti-ad domains themselves
+
+[subdomains_revocation](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_revocation)
+=  prevents:
+privacy concerns when using OCSP (Online Certificate Status Protocol) and CRL (Certificate Revocation List)
