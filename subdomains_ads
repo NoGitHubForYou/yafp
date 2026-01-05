@@ -110,6 +110,7 @@
 ||ads.us.nextdoor.com^
 ||adtago.s3.amazonaws.com^
 ||advertising.a2z.com^
+||advertising.amazon.dev^
 ||advertising-cdn.walmart.com.akadns.net^
 ||advertising.walmart.com^
 ||advertising.walmart.com.cdn.cloudflare.net^
@@ -303,6 +304,7 @@
 ||a.nytimes.com^
 ||api-adservices.apple.com^
 ||api.edgeoffer.microsoft.com^
+||api.stores.us-east-1.prod.paets.advertising.amazon.dev^
 ||api.tracking.al-array.com^
 ||api.us-east-1.aiv-delivery.net^
 ||aplus.alibaba.com^
