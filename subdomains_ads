@@ -15,6 +15,8 @@
 ||a.beap.gemini.yahoo.com^
 ||abt.nike.com^
 ||acemetrics.aaa.com^
+||activate.latimes.com^
+||activate.platform.californiatimes.com^
 ||ad.daum.net^
 ||ad.gpwa.org^
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
@@ -525,6 +527,7 @@
 ||events.syd-1.linewize.net^
 ||eve.playstation.com^
 ||extension.femetrics.grammarly.io^
+||feast-events.guardianapis.com^
 ||feet-prod.segds.engsvc.go.com^
 ||femetrics.grammarly.io^
 ||firebaseinstallations.googleapis.com^
@@ -589,6 +592,7 @@
 ||hb-dot-valuad.appspot.com^
 ||heatmap-events-collector.instapage.com^
 ||heisenberg.trends.c.glanceapis.com^
+||hits-secure.theguardian.com^
 ||hm.baidu.com^
 ||hqmetrics.sony.com^
 ||https.web.diagnostic.networking.aws.dev^
@@ -903,6 +907,7 @@
 ||pdmsmrt.cadillac.com^
 ||pdmsmrt.chevrolet.com^
 ||pdr.eve.sonyentertainmentnetwork.com^
+||performance-events.guardianapis.com^
 ||permutive.arstechnica.com^
 ||pixel.byspotify.com^
 ||pixel.condenastdigital.com^
