@@ -4,7 +4,6 @@ yafp is a filtering blocklist project compatible with [PiHole](https://pi-hole.n
 
 [domains_junk](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_junk)
 =  prevents:
-some typosquatting,
 reregistering of once legitimate domains,
 short lived ad servers,
 dead entries to prevent reregistering
@@ -64,3 +63,9 @@ domains that use these anti-ad domains and the anti-ad domains themselves
 [subdomains_revocation](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_revocation)
 =  prevents:
 privacy concerns when using OCSP (Online Certificate Status Protocol) and CRL (Certificate Revocation List)
+
+[domains_typos](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_typos)
+=  prevents:
+typosquatting,
+misspellings by users,
+misspellings by developers
