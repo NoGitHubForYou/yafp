@@ -1,4 +1,6 @@
 ||cac-ocsp.digicert.com.edgekey.net^
+||cdp.geotrust.com^
+||c.pki.goog^
 ||crl3.digicert.com^
 ||crl4.digicert.com^
 ||crl.edge.digicert.com^
@@ -6,4 +8,5 @@
 ||ocsp.comodoca.com.cdn.cloudflare.net^
 ||ocsp.digicert.com^
 ||ocsp.digicert.com.cdn.cloudflare.net^
+||ocsp.sectigo.com^
 ||ocsp.usertrust.com^
