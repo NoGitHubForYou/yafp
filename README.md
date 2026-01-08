@@ -3,6 +3,8 @@ yafp is a filtering blocklist project compatible with [PiHole](https://pi-hole.n
 
 
 [domains_junk](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_junk)
+&&
+[subdomains_junk](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_junk)
 =  prevents:
 reregistering of once legitimate domains,
 short lived ad servers,
