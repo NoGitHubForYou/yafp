@@ -10,6 +10,7 @@ reregistering of once legitimate domains,
 short lived ad servers,
 dead entries to prevent reregistering
 
+
 [domains_malicious](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_malicious)
 &&
 [subdomains_malicious](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_malicious)
@@ -20,6 +21,7 @@ various types of scams,
 fake shopping,
 reregistering of known malicious domains.
 Includes IOCs, IOAs and IOFAs from various security threat reseach blogs and projects
+
 
 [domains_ads](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_ads)
 &&
@@ -35,12 +37,14 @@ advertisements,
 tracking,
 analytics
 
+
 [domains_dns](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_dns)
 &&
 [subdomains_dns](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_dns)
 =  prevents:
 encrypted dns resolution,
 canary domains
+
 
 [domains_adult](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_adult)
 =  prevents:
@@ -62,9 +66,6 @@ live streams
 =  prevents:
 domains that use these anti-ad domains and the anti-ad domains themselves
 
-[subdomains_revocation](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/subdomains_revocation)
-=  prevents:
-privacy concerns when using OCSP (Online Certificate Status Protocol) and CRL (Certificate Revocation List)
 
 [domains_typos](https://raw.githubusercontent.com/NoGitHubForYou/yafp/refs/heads/main/domains_typos)
 =  prevents:
