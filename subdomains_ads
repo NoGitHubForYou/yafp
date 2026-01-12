@@ -644,6 +644,7 @@
 ||log.byteoversea.com.bytewlb.akadns.net^
 ||log.byteoversea.com.edgekey.net^
 ||log.byteoversea.com.ttdns2.com^
+||log.espn.com^
 ||log.fc.yahoo.com^
 ||log.gns.go.com^
 ||log.go.com^
@@ -956,6 +957,7 @@
 ||referrer.disqus.com^
 ||region1.analytics.google.com^
 ||region-selector.nyti.nytimes.com^
+||replo-analytics-fire.fly.dev^
 ||report.appmetrica.yandex.net^
 ||report-partners.appmetrica.yandex.net^
 ||responder.wt.heise.de^
