@@ -435,6 +435,7 @@
 ||collector.xhchannel.com^
 ||concertads-configs.vox-cdn.com^
 ||confiant-integrations.global.ssl.fastly.net^
+||consent.easybrain.com^
 ||consent.lifetouch.com^
 ||consent.shutterfly.com^
 ||consent-sync.shutterfly.com^
@@ -522,6 +523,7 @@
 ||error-analytics-sessions-production.shopifysvc.com^
 ||error-tracking.reddit.com^
 ||es-tracking.nextdoor.com^
+||ets.easybrain.com^
 ||eu-mobile.events.data.microsoft.com^
 ||eventcollector.mcf-prod.a.intuit.com^
 ||eventer-player.bqstreamer.com^
