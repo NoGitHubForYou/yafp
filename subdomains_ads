@@ -266,6 +266,7 @@
 ||analytics.htmedia.in^
 ||analytics.imirwin.com^
 ||analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com^
+||analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io^
 ||analytics-ingress-global.bitmovin.com^
 ||analytics.kaltura.com^
 ||analytics.lexisnexisrisk.com^
