@@ -123,6 +123,7 @@
 ||aim-tag.hcn.health^
 ||aimv4-lb-807679157.us-east-1.elb.amazonaws.com^
 ||airlytics-web.airlock.twcmobile.weather.com^
+||alb-q30h4ca2k21hu79vop.us-east-1.alb.aliyuncs.com^
 ||alb.reddit.com^
 ||alb-semidxchgame-1022178486.us-east-1.elb.amazonaws.com^
 ||al-smetrics.vizio.com^
@@ -310,6 +311,7 @@
 ||api.edgeoffer.microsoft.com^
 ||api.stores.us-east-1.prod.paets.advertising.amazon.dev^
 ||api.tracking.al-array.com^
+||api-track.linke.ai^
 ||api.us-east-1.aiv-delivery.net^
 ||aplus.alibaba.com^
 ||app-analytics-v2.snapchat.com^
@@ -397,6 +399,7 @@
 ||cdntranscend.eventbrite.com^
 ||cfa.fidelity.com^
 ||clickhouse-error-analyti-yo42ots2-observe-clickhouse-us-ea1-ts8.shopifycloud.com^
+||clicks-inges-2kpotiq2exz9-741556541.us-east-2.elb.amazonaws.com^
 ||client-telemetry.roblox.com^
 ||cms.analytics.yahoo.com^
 ||c.msn.com^
@@ -473,6 +476,7 @@
 ||daf.xp.apple.com^
 ||dap.digitalgov.gov^
 ||data-alb-ingestion-v3.main-production-custom.production.k8s.tubi.io^
+||data-ingestion.flowgpt.com^
 ||data.replo.app^
 ||dc.ads.linkedin.com^
 ||dcf.espn.com^
