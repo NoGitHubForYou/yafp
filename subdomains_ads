@@ -844,7 +844,6 @@
 ||m-in.ls.glanceapis.com^
 ||m-in.spaces.glanceapis.com^
 ||mobile.events.data.microsoft.com^
-||monitor.azure.com^
 ||monitoring.af-south-1.amazonaws.com^
 ||monitoring.ap-east-1.amazonaws.com^
 ||monitoring.ap-northeast-1.amazonaws.com^
@@ -1291,6 +1290,8 @@
 ||tmx.bestbuy.com^
 ||tnc16-normal-useast8.tiktokv.us^
 ||tnc16-normal-useast8.tiktokv.us.edgesuite.net^
+||tnc16-normal-us-ttp.capcutapi.us^
+||tnc16-normal-us-ttp.capcutapi.us.edgesuite.net^
 ||tnc19-normal-useast5.tiktokv.us^
 ||tnc-sg.capcutapi.com^
 ||tnc-sg.capcutapi.com.edgesuite.net^
