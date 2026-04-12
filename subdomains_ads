@@ -719,6 +719,7 @@
 ||metrics1.experian.com^
 ||metrics.aarp.org^
 ||metrics.abbvie.com^
+||metrics.abercrombie.com^
 ||metrics.aem.playstation.com^
 ||metrics.aetn.com^
 ||metrics.allstate.com^
@@ -1034,6 +1035,7 @@
 ||smetrics1.experian.com^
 ||smetrics.aarp.org^
 ||smetrics.abbvie.com^
+||smetrics.abercrombie.com^
 ||smetrics.aem.playstation.com^
 ||smetrics.aetn.com^
 ||smetrics.akamai.com^
@@ -1247,6 +1249,7 @@
 ||tagdelivery.mayoclinic.org^
 ||tag-manager.yle.fi^
 ||tagman.britishairways.com^
+||tags.hollisterco.com^
 ||tags.nba.com^
 ||tags.news.com.au^
 ||tags.rferl.org^
