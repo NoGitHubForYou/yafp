@@ -466,6 +466,7 @@
 ||cs1561.wpc.edgecastcdn.net^
 ||cs964.wpc.9465e.mucdn.net^
 ||cs.analytics.lego.com^
+||ct.ddc.paypal.com^
 ||ct.pinterest.com^
 ||custprof.t-mobile.com^
 ||d1vg5xiq7qffdj.cloudfront.net^
@@ -592,6 +593,7 @@
 ||geoapi.indiatimes.com.edgekey.net^
 ||geo-atsv2.media.g03.yahoodns.net^
 ||geo.cnbc.com^
+||geo.ddc.paypal.com^
 ||geoip.businessinsider.com^
 ||geoip.radio-canada.ca^
 ||geolocation.forbes.com^
@@ -639,7 +641,6 @@
 ||intake-analytics.wikimedia.org^
 ||ios.femetrics.grammarly.io^
 ||ip2location.wmgartistservices.com^
-||i.paypal.com^
 ||it-tracking.nextdoor.com^
 ||jac.yahoosandbox.com^
 ||jvxpxl.marriott.com^
@@ -1301,7 +1302,6 @@
 ||tnc-sg.capcutapi.com.ttdns2.com^
 ||t-odx.op-mobile.opera.com^
 ||toyota-tagging-prod.azureedge.net^
-||t.paypal.com^
 ||trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev^
 ||track.dictionary.com^
 ||tracker.marinsm.com^
