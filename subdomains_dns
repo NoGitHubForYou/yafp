@@ -29,7 +29,9 @@
 ||dns.adguard.com^
 ||dns.adguard-dns.com^
 ||dns.alidns.com^
+||dns.bebasid.com^
 ||dns.bitdefender.net^
+||dns.caliph.dev^
 ||dns.cloudflare.com^
 ||dns.comss.one^
 ||dns.digitale-gesellschaft.ch^
@@ -125,6 +127,7 @@
 ||tky-dns.bitdefender.net^
 ||uncensored.freedns.controld.com^
 ||unfiltered.adguard-dns.com^
+||unfiltered.dns.bebasid.com^
 ||unfiltered.joindns4.eu^
 ||unicast.censurfridns.dk^
 ||unicast.uncensoreddns.org^
