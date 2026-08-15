@@ -129,6 +129,8 @@
 ||alb-q30h4ca2k21hu79vop.us-east-1.alb.aliyuncs.com^
 ||alb.reddit.com^
 ||alb-semidxchgame-1022178486.us-east-1.elb.amazonaws.com^
+||alog-default.umeng.com.gds.alibabadns.com^
+||alogus.umeng.com.gds.alibabadns.com^
 ||al-smetrics.vizio.com^
 ||als-svc.nytimes.com^
 ||ametrics.lumen.com^
@@ -1353,6 +1355,9 @@
 ||udcm.yahoo.com^
 ||udc.yahoo.com^
 ||uk-tracking.nextdoor.com^
+||ulogs.umengcloud.com.gds.alibabadns.com^
+||umengcloud.com.gds.alibabadns.com^
+||umeng.com.gds.alibabadns.com^
 ||ups.analytics.yahoo.com^
 ||us-east-1-1.telemetry.insights.video.a2z.com^
 ||user-stats.rbl.ms^
