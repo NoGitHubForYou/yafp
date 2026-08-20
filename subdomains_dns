@@ -96,6 +96,7 @@
 ||hard.dnsforge.de^
 ||iow-dns.bitdefender.net^
 ||kids.dns0.eu^
+||kids.ns.nwps.fi^
 ||kids.vietdns.net^
 ||max.rethinkdns.com^
 ||noads.joindns4.eu^
@@ -114,7 +115,9 @@
 ||private.canadianshield.cira.ca^
 ||protected.canadianshield.cira.ca^
 ||protective.joindns4.eu^
+||protective.ns.nwps.fi^
 ||public.dns.iij.jp^
+||public.ns.nwps.fi^
 ||router.comss.one^
 ||security-filter-dns.cleanbrowsing.org^
 ||se-got-dns-001.mullvad.net^
@@ -129,6 +132,7 @@
 ||unfiltered.adguard-dns.com^
 ||unfiltered.dns.bebasid.com^
 ||unfiltered.joindns4.eu^
+||unfiltered.ns.nwps.fi^
 ||unicast.censurfridns.dk^
 ||unicast.uncensoreddns.org^
 ||us-dal-dns-001.mullvad.net^
