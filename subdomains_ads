@@ -126,7 +126,6 @@
 ||aim-tag.hcn.health^
 ||aimv4-lb-807679157.us-east-1.elb.amazonaws.com^
 ||airlytics-web.airlock.twcmobile.weather.com^
-||alb-q30h4ca2k21hu79vop.us-east-1.alb.aliyuncs.com^
 ||alb.reddit.com^
 ||alb-semidxchgame-1022178486.us-east-1.elb.amazonaws.com^
 ||alog-default.umeng.com.gds.alibabadns.com^
@@ -1304,6 +1303,7 @@
 ||target.walgreens.com^
 ||target.xfinity.com^
 ||tealium.cbsnews.com^
+||tealm-c.heydude.com^
 ||teams.events.data.microsoft.com^
 ||telemetry.api.playstation.com^
 ||telemetry.canva.com^
