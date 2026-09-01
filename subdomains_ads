@@ -671,6 +671,8 @@
 ||location-v6.tiktokv.us.edgesuite.net^
 ||log16-normal.capcutapi.com^
 ||log16-normal.capcutapi.com.edgesuite.net^
+||log16-normal-us-ttp2.capcutapi.us^
+||log16-normal-us-ttp2.capcutapi.us.edgesuite.net^
 ||log16-normal-us-ttp.capcutapi.us^
 ||log16-normal-us-ttp.capcutapi.us.edgesuite.net^
 ||log.byteoversea.com^
@@ -1040,6 +1042,7 @@
 ||se.email.forbes.com^
 ||segment.psg.nexstardigital.net^
 ||sentinelpro.b-cdn.net^
+||sentry-prod-sg.glance.com^
 ||service.idsync.analytics.yahoo.com^
 ||se-tracking.nextdoor.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
