@@ -26,6 +26,7 @@
 ||ad-host-backup-america.s3.us-west-1.amazonaws.com^
 ||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
 ||ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com^
+||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
 ||adm.admixer.com^
 ||ad.mail.ru^
 ||ad.parkvv.com^
@@ -266,6 +267,7 @@
 ||analytics-fe.digital-cloud.medallia.com^
 ||analytics-fe.digital-cloud.medallia.eu^
 ||analytics.filemail.com^
+||analytics.geeklab.app^
 ||analytics.global.sky.com^
 ||analytics.google.com^
 ||analytics.htmedia.in^
@@ -330,6 +332,7 @@
 ||at.adtech.redventures.io^
 ||atlas.ngtv.io^
 ||ats-eks.us-east-1.dcs-online-targeting-prd.aws.oath.cloud^
+||audiencelab-sdk-backend-1051822917.eu-central-1.elb.amazonaws.com^
 ||au-tracking.nextdoor.com^
 ||axp.8newsnow.com^
 ||axp.abc27.com^
@@ -558,6 +561,7 @@
 ||events.syd-1.linewize.net^
 ||eve.playstation.com^
 ||extension.femetrics.grammarly.io^
+||fastlog.bitmango.com^
 ||feast-events.guardianapis.com^
 ||feet-prod.segds.engsvc.go.com^
 ||femetrics.grammarly.io^
@@ -677,6 +681,7 @@
 ||log16-normal-us-ttp2.capcutapi.us.edgesuite.net^
 ||log16-normal-us-ttp.capcutapi.us^
 ||log16-normal-us-ttp.capcutapi.us.edgesuite.net^
+||log.bitmango.com^
 ||log.byteoversea.com^
 ||log.byteoversea.com.bytewlb.akadns.net^
 ||log.byteoversea.com.edgekey.net^
