@@ -32,7 +32,9 @@
 ||ad.parkvv.com^
 ||ads-alpha.ewscloud.com^
 ||ads-cloud.rovio.com^
+||adsdk.bing.net^
 ||adsdk.microsoft.com^
+||adsdkprod.azureedge.net^
 ||ads.empowerlocal.co^
 ||adserver.pressboard.ca^
 ||adserver.wenxuecity.com^
@@ -490,6 +492,7 @@
 ||daf.xp.apple.com^
 ||dap.digitalgov.gov^
 ||data-alb-ingestion-v3.main-production-custom.production.k8s.tubi.io^
+||datadome.alltrails.com^
 ||data-ingestion.flowgpt.com^
 ||data.replo.app^
 ||dc.ads.linkedin.com^
@@ -872,6 +875,7 @@
 ||minerva.healthcentral.com^
 ||m-in.ls.glanceapis.com^
 ||m-in.spaces.glanceapis.com^
+||mktg.tags.f5.com^
 ||mobile.events.data.microsoft.com^
 ||monitoring.af-south-1.amazonaws.com^
 ||monitoring.ap-east-1.amazonaws.com^
@@ -1229,6 +1233,7 @@
 ||ssl.o.webmd.com^
 ||ss.nbc.co^
 ||ss.nbc.co.edgesuite.net^
+||ssp.disqus.com^
 ||ssp.yahoo.com^
 ||sstats.adobe.com^
 ||sstats.bitdefender.com^
