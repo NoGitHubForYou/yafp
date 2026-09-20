@@ -290,6 +290,7 @@
 ||analytics.nike.com^
 ||analytics.nike.com.edgekey.net^
 ||analytics.notube.lol^
+||analytics.o11.tech^
 ||analytics.org.coveo.com^
 ||analytics.pinterest.com^
 ||analytics.pnc.com^
@@ -415,6 +416,7 @@
 ||clickhouse-error-analyti-yo42ots2-observe-clickhouse-us-ea1-ts8.shopifycloud.com^
 ||clicks-inges-2kpotiq2exz9-741556541.us-east-2.elb.amazonaws.com^
 ||client-telemetry.roblox.com^
+||cmod-eu.live.streamtheworld.com^
 ||cms.analytics.yahoo.com^
 ||c.msn.com^
 ||cnt.xhamster.com^
@@ -549,6 +551,7 @@
 ||engage.stairwell.com^
 ||engine.hdtrials.com^
 ||ensighten.norton.com^
+||epsilon.6sense.com^
 ||error-analytics-sessions-production.shopifysvc.com^
 ||errors.certkit.io^
 ||error-tracking.reddit.com^
@@ -569,6 +572,7 @@
 ||eve.playstation.com^
 ||extension.femetrics.grammarly.io^
 ||fastlog.bitmango.com^
+||fclog.baidu.com^
 ||feast-events.guardianapis.com^
 ||feet-prod.segds.engsvc.go.com^
 ||femetrics.grammarly.io^
@@ -601,6 +605,7 @@
 ||frontier.byteoversea.com^
 ||fr-tracking.nextdoor.com^
 ||fundingchoicesmessages.google.com^
+||fxgate.baidu.com^
 ||gc.newsweek.com^
 ||gecko-sg.byteoversea.com^
 ||gecko-sg.byteoversea.com.edgesuite.net^
@@ -1268,6 +1273,7 @@
 ||stats.pusher.com^
 ||stats.wp.com^
 ||stats-xlb.syd-1.linewize.net^
+||stat.tech.euronews.com^
 ||stracking.skyword.com^
 ||strike.fox.com^
 ||stt.dell.com^
@@ -1428,6 +1434,7 @@
 ||www91.intel.com^
 ||x-id.ls.glanceapis.com^
 ||x-in.ls.glanceapis.com^
+||x-in.tv.glanceapis.com^
 ||xp.apple.com^
 ||ybp.yahoo.com^
 ||zion-telemetry.api.cnn.io^
