@@ -11,6 +11,7 @@
 ||child.joindns4.eu^
 ||child-noads.joindns4.eu^
 ||clean.dnsforge.de^
+||common.dot.dns.yandex.net^
 ||de.teradns.org^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
@@ -73,12 +74,14 @@
 ||dot64.dns4all.eu^
 ||dot-de.blahdns.com^
 ||dot.dns4all.eu^
+||dot.dns.yandex.net^
 ||dot.la.ahadns.net^
 ||dot.libredns.gr^
 ||dot.nl.ahadns.net^
 ||dot-sg.blahdns.com^
 ||family.adguard-dns.com^
 ||family.canadianshield.cira.ca^
+||family.dot.dns.yandex.net^
 ||family-filter-dns.cleanbrowsing.org^
 ||family.freedns.controld.com^
 ||fra-dns.bitdefender.net^
@@ -110,6 +113,7 @@
 ||public.dns.iij.jp^
 ||public.ns.nwps.fi^
 ||router.comss.one^
+||safe.dot.dns.yandex.net^
 ||security-filter-dns.cleanbrowsing.org^
 ||sg.teradns.org^
 ||sky.rethinkdns.com^
