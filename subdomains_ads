@@ -540,7 +540,6 @@
 ||dualstack.ichnaea-web-121909266.us-east-1.elb.amazonaws.com^
 ||dynatrace.att.com^
 ||ead.newint.org^
-||ec2.web.mx-central-1.prod.diagnostic.networking.aws.dev^
 ||edgecast-vod.yimg.com^
 ||edgedc.ibm.com^
 ||edgetrksvc.ebay.com^
@@ -1025,6 +1024,7 @@
 ||region1.analytics.google.com^
 ||replo-analytics-fire.fly.dev^
 ||report.appmetrica.yandex.net^
+||report.diagnostic.networking.aws.dev^
 ||report-partners.appmetrica.yandex.net^
 ||responder.wt.heise.de^
 ||revboostprocdnadsprod.azureedge.net^
